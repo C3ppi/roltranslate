@@ -1,0 +1,1101 @@
+﻿Offset bloco;Offset campo;Texto japonês;Tradução;Bytes originais;Bytes tradução;Tamanho comprimido;Tamanho recompactado
+0x202b83;0xa0;塔の通行証;Tower Pass;10;10;193;192
+0x202d08;0xa0;地下墓地の通行証;Crypt Pass;16;10;190;174
+0x202d08;0xb5;ゼメア教国管轄のタンドリッジ地下墓地を探索できる。;Allows entry to Tandridge Crypt in Zemea.;50;41;190;174
+0x202dca;0xa0;地下聖堂の通行証;Temple Pass;16;11;189;172
+0x202dca;0xb5;ゼメア教国管轄のセジェンム地下聖堂を探索できる。;Allows entry to Sejenm Temple in Zemea.;48;39;189;172
+0x202e8b;0xab;イヴァリーの塔の鍵の掛かっている扉を開ける事が出来る。;Opens locked doors in Ivarie Tower.;54;35;187;186
+0x202f4a;0xab;ワイトハーレン城の鍵の掛かっている扉を開ける事が出来る。;Opens locked doors in Harlene Castle.;56;37;189;188
+0x20300b;0xa0;地下墓地の鍵;Crypt Key;12;9;194;191
+0x20300b;0xb1;タンドリッジ地下墓地の鍵の掛かっている扉を開ける事が出来る。;Opens locked doors in Tandridge Crypt.;60;38;194;191
+0x2030d1;0xa0;地下聖堂の鍵;Temple Key;12;10;192;190
+0x2030d1;0xb1;セジェンム地下聖堂の鍵の掛かっている扉を開ける事が出来る。;Opens locked doors in Sejenm Temple.;58;36;192;190
+0x203497;0xa0;地下宮殿入り口の鍵;Palace Gate Key;18;15;187;172
+0x203497;0xb7;リーボ地下宮殿の入り口の鉄格子を開ける事が出来る。;Opens the entrance gate to Reebo Palace.;50;40;187;172
+0x203556;0xb3;"アンフィード監獄の深部へと向かう為の鍵。
+アンフィード監獄地下１階の南東方面の探索が可能になる。";Key to the depths of Unfeed Prison. Opens the southeast area on B1.;95;67;219;209
+0x203e50;0x11;回廊の地図;Hall Map;10;8;78;61
+0x203e50;0x20;レインテージ回廊のマップを見渡すことができます。;View the Raintage Hall map.;48;27;78;61
+0x203ea2;0x11;地下宮殿の地図;Palace Map;14;10;76;60
+0x203ea2;0x24;リーボ地下宮殿のマップを見渡すことができます。;View the Reebo Palace map.;46;26;76;60
+0x203ef2;0x1e;イヴァリーの塔のマップを見渡すことができます。;View the Ivarie Tower map.;46;26;76;62
+0x203f42;0x1e;城のマップを見渡すことができます。;View the castle map.;34;20;62;56
+0x203f84;0x11;地下墓地の地図;Crypt Map;14;9;81;64
+0x203f84;0x24;タンドリッジ地下墓地のマップを見渡すことができます。;View the Tandridge Crypt map.;52;29;81;64
+0x203fd9;0x11;地下聖堂の地図;Temple Map;14;10;81;62
+0x203fd9;0x24;セジェンム地下聖堂のマップを見渡すことができます。;View the Sejenm Temple map.;50;27;81;62
+0x20402e;0x11;監獄の地図;Prison Map;10;10;78;59
+0x20402e;0x20;アンフィード監獄のマップを見渡すことができます。;View the Unfeed Prison map.;48;27;78;59
+0x204080;0x11;地下塔の地図;Tower Map;12;9;66;53
+0x204080;0x22;地下塔のマップを見渡すことができます。;View the tower map.;38;19;66;53
+0x2040c6;0x11;古代遺跡の地図;Ruins Map;14;9;69;63
+0x2040c6;0x24;古代遺跡のマップを見渡すことができます。;View the ancient ruins map.;40;27;69;63
+0x20410f;0x11;塔地下の地図;Tower B1 Map;12;12;80;64
+0x20410f;0x22;イヴァリーの塔地下のマップを見渡すことができます。;View the tower basement map.;50;28;80;64
+0x20601e;0x43;"フィールドに配置されているアイテムをお金に換える事が出来
+る
+宝箱には作用しない";Turns field items into gold. Does not affect chests.;78;52;149;127
+0x2060b7;0x47;"フィールドに配置されているアイテムを爆弾に換える事が出来
+る
+宝箱には作用しない";Turns field items into bombs. Does not affect chests.;78;53;156;134
+0x20b8b0;0x9;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;80;77
+0x20b8b0;0x43;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;80;77
+0x20b904;0x9;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;81;79
+0x20b904;0x43;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;81;79
+0x20b959;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;83;81
+0x20b959;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;83;81
+0x20b9b0;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;81;81
+0x20b9b0;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;81;81
+0x20ba05;0x9;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;83;81
+0x20ba05;0x44;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;83;81
+0x20ba5c;0x9;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;81;81
+0x20ba5c;0x44;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;81;81
+0x20bab1;0x9;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20bab1;0x44;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20bb09;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;80;77
+0x20bb09;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;80;77
+0x20bbf7;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20bbf7;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20bc49;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;76;74
+0x20bc49;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;76;74
+0x20bc99;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;76;74
+0x20bc99;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;76;74
+0x20bce9;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x20bce9;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x20bd3d;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;76
+0x20bd3d;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;76
+0x20bd8f;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;76
+0x20bd8f;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;76
+0x20bde1;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;76
+0x20bde1;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;76
+0x20be33;0x9;イヴァリーの塔１階;Ivarie Tower 1F;18;15;73;71
+0x20be33;0x3d;イヴァリーの塔１階;Ivarie Tower 1F;18;15;73;71
+0x20be80;0x9;イヴァリーの塔１階;Ivarie Tower 1F;18;15;73;71
+0x20be80;0x3d;イヴァリーの塔１階;Ivarie Tower 1F;18;15;73;71
+0x20becd;0x9;イヴァリーの塔３階;Ivarie Tower 3F;18;15;73;71
+0x20becd;0x3d;イヴァリーの塔３階;Ivarie Tower 3F;18;15;73;71
+0x20bf1a;0x9;イヴァリーの塔４階;Ivarie Tower 4F;18;15;75;73
+0x20bf1a;0x3e;イヴァリーの塔４階;Ivarie Tower 4F;18;15;75;73
+0x20bf69;0x9;イヴァリーの塔５階;Ivarie Tower 5F;18;15;75;73
+0x20bf69;0x3e;イヴァリーの塔５階;Ivarie Tower 5F;18;15;75;73
+0x20bfb8;0x9;イヴァリーの塔５階;Ivarie Tower 5F;18;15;75;73
+0x20bfb8;0x3e;イヴァリーの塔５階;Ivarie Tower 5F;18;15;75;73
+0x20c007;0x9;イヴァリーの塔７階;Ivarie Tower 7F;18;15;75;73
+0x20c007;0x3e;イヴァリーの塔７階;Ivarie Tower 7F;18;15;75;73
+0x20c056;0x9;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x20c056;0x41;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x20c0aa;0x9;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x20c0aa;0x41;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x20c0fe;0x9;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;82;79
+0x20c0fe;0x42;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;82;79
+0x20c154;0x9;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x20c154;0x42;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x20c25a;0x9;イヴァリーの塔地下２階;Ivarie Tower B 2F;22;17;80;80
+0x20c25a;0x41;イヴァリーの塔地下２階;Ivarie Tower B 2F;22;17;80;80
+0x20c2ae;0x9;イヴァリーの塔地下４階;Ivarie Tower B 4F;22;17;79;75
+0x20c2ae;0x41;イヴァリーの塔地下４階;Ivarie Tower B 4F;22;17;79;75
+0x20c301;0x9;イヴァリーの塔地下４階;Ivarie Tower B 4F;22;17;82;81
+0x20c301;0x41;イヴァリーの塔地下４階;Ivarie Tower B 4F;22;17;82;81
+0x20c357;0x9;イヴァリーの塔地下５階;Ivarie Tower B 5F;22;17;80;80
+0x20c357;0x41;イヴァリーの塔地下５階;Ivarie Tower B 5F;22;17;80;80
+0x20c3ab;0x9;イヴァリーの塔地下入り口;Ivarie Tower B1 Entrance;24;24;83;82
+0x20c3ab;0x43;イヴァリーの塔地下入り口;Ivarie Tower B1 Entrance;24;24;83;82
+0x20c402;0x9;リーボ地下宮殿１階;Reebo Palace 1F;18;15;76;74
+0x20c402;0x3d;リーボ地下宮殿１階;Reebo Palace 1F;18;15;76;74
+0x20c452;0x9;リーボ地下宮殿２階;Reebo Palace 2F;18;15;78;76
+0x20c452;0x3e;リーボ地下宮殿２階;Reebo Palace 2F;18;15;78;76
+0x20c4a4;0x9;リーボ地下宮殿３階;Reebo Palace 3F;18;15;75;73
+0x20c4a4;0x3e;リーボ地下宮殿３階;Reebo Palace 3F;18;15;75;73
+0x20c4f3;0x9;リーボ地下宮殿３階;Reebo Palace 3F;18;15;75;74
+0x20c4f3;0x3e;リーボ地下宮殿３階;Reebo Palace 3F;18;15;75;74
+0x20c542;0x9;レインテージ回廊１階;Raintage Hall 1F;20;16;78;75
+0x20c542;0x3f;レインテージ回廊１階;Raintage Hall 1F;20;16;78;75
+0x20c594;0x9;レインテージ回廊２階;Raintage Hall 2F;20;16;82;81
+0x20c594;0x40;レインテージ回廊２階;Raintage Hall 2F;20;16;82;81
+0x20c5ea;0x9;レインテージ回廊２階;Raintage Hall 2F;20;16;82;81
+0x20c5ea;0x40;レインテージ回廊２階;Raintage Hall 2F;20;16;82;81
+0x20c640;0x9;レインテージ回廊３階;Raintage Hall 3F;20;16;82;81
+0x20c640;0x40;レインテージ回廊３階;Raintage Hall 3F;20;16;82;81
+0x20c696;0x9;レインテージ回廊３階;Raintage Hall 3F;20;16;82;81
+0x20c696;0x40;レインテージ回廊３階;Raintage Hall 3F;20;16;82;81
+0x20c6ec;0x9;レインテージ回廊３階;Raintage Hall 3F;20;16;80;77
+0x20c6ec;0x40;レインテージ回廊３階;Raintage Hall 3F;20;16;80;77
+0x20c740;0x9;バレの岩窟１階;Vale Cave 1F;14;12;77;76
+0x20c740;0x3a;バレの岩窟１階;Vale Cave 1F;14;12;77;76
+0x20c791;0x9;バレの岩窟１階;Vale Cave 1F;14;12;78;76
+0x20c791;0x3a;バレの岩窟１階;Vale Cave 1F;14;12;78;76
+0x20c7e3;0x9;バレの岩窟２階;Vale Cave 2F;14;12;77;76
+0x20c7e3;0x3a;バレの岩窟２階;Vale Cave 2F;14;12;77;76
+0x20c834;0x9;バレの岩窟１階;Vale Cave 1F;14;12;101;98
+0x20c834;0x3a;バレの岩窟１階;Vale Cave 1F;14;12;101;98
+0x20c89d;0x9;バレの岩窟２階;Vale Cave 2F;14;12;100;97
+0x20c89d;0x3a;バレの岩窟２階;Vale Cave 2F;14;12;100;97
+0x20c905;0x9;セルストークの森 地下道;Celstoke Forest Path;23;20;89;88
+0x20c905;0x42;セルストークの森;Celstoke Forest;16;15;89;88
+0x20cd0b;0x9;タンドリッジ深部２階;Tandridge Deep 2F;20;17;81;79
+0x20cd0b;0x3f;タンドリッジ深部２階;Tandridge Deep 2F;20;17;81;79
+0x20cd60;0x9;ホーンズ雪原;Horns Snow;12;10;72;69
+0x20cd60;0x37;ホーンズ雪原;Horns Snow;12;10;72;69
+0x20cdac;0x9;セルストークの森;Celstoke Forest;16;15;73;73
+0x20cdac;0x3b;セルストークの森;Celstoke Forest;16;15;73;73
+0x20cdf9;0x9;アビスターナ城門前;Avistana Gate;18;13;117;115
+0x20cdf9;0x3d;セルストークの森;Celstoke Forest;16;15;117;115
+0x20cf42;0x9;マナン情報屋;Manan Info;12;10;94;91
+0x20cf42;0x38;マナン情報屋;Manan Info;12;10;94;91
+0x20d077;0x9;ボネーラ酒場 １階;Bonera Bar 1F;17;13;102;98
+0x20d077;0x3d;ボネーラ酒場 １階;Bonera Bar 1F;17;13;102;98
+0x20d0e1;0x9;ボネーラ酒場 地下;Bonera Bar B1;17;13;102;98
+0x20d0e1;0x3d;ボネーラ酒場 地下;Bonera Bar B1;17;13;102;98
+0x20d488;0x9;ストラタリア訓練所 地下;Stratalia Camp B1;23;17;107;101
+0x20d488;0x43;ストラタリア訓練所 地下;Stratalia Camp B1;23;17;107;101
+0x20d8d6;0x28;バレの岩窟２階;Vale Cave 2F;14;12;102;101
+0x20da6d;0x9;バレの岩窟１階;Vale Cave 1F;14;12;75;75
+0x20da6d;0x3a;バレの岩窟１階;Vale Cave 1F;14;12;75;75
+0x20dabc;0x9;ホーンズ雪原;Horns Snow;12;10;72;69
+0x20dabc;0x37;ホーンズ雪原;Horns Snow;12;10;72;69
+0x20dc33;0x9;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;82;79
+0x20dc33;0x43;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;82;79
+0x20dc89;0x9;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;81;79
+0x20dc89;0x43;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;81;79
+0x20dcde;0x9;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;81;79
+0x20dcde;0x43;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;81;79
+0x20dd33;0x9;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;81;79
+0x20dd33;0x43;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;81;79
+0x20dd88;0x9;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;82;79
+0x20dd88;0x43;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;82;79
+0x20ddde;0x9;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;82;79
+0x20ddde;0x43;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;82;79
+0x20de34;0x9;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;82;79
+0x20de34;0x43;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;82;79
+0x20de8a;0x9;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;82;79
+0x20de8a;0x43;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;82;79
+0x20dee0;0x9;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;82;79
+0x20dee0;0x43;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;82;79
+0x20df36;0x9;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;81;79
+0x20df36;0x43;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;81;79
+0x20df8b;0x9;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;82;79
+0x20df8b;0x43;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;82;79
+0x20dfe1;0x9;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;78;77
+0x20dfe1;0x43;タンドリッジ地下墓地１階;Tandridge Crypt 1F;24;18;78;77
+0x20e033;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;83;81
+0x20e033;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;83;81
+0x20e08a;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;80;77
+0x20e08a;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;80;77
+0x20e0de;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;83;81
+0x20e0de;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;83;81
+0x20e135;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;84;81
+0x20e135;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;84;81
+0x20e18d;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;83;81
+0x20e18d;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;83;81
+0x20e1e4;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;82;81
+0x20e1e4;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;82;81
+0x20e23a;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;84;81
+0x20e23a;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;84;81
+0x20e292;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;84;81
+0x20e292;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;84;81
+0x20e2ea;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;84;81
+0x20e2ea;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;84;81
+0x20e342;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;83;81
+0x20e342;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;83;81
+0x20e399;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;83;81
+0x20e399;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;83;81
+0x20e3f0;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;83;81
+0x20e3f0;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;83;81
+0x20e447;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;84;81
+0x20e447;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;84;81
+0x20e49f;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;84;81
+0x20e49f;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;84;81
+0x20e4f7;0x9;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;84;81
+0x20e4f7;0x44;タンドリッジ地下墓地２階;Tandridge Crypt 2F;24;18;84;81
+0x20e54f;0x9;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;83;81
+0x20e54f;0x44;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;83;81
+0x20e5a6;0x9;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e5a6;0x44;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e5fe;0x9;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;83;81
+0x20e5fe;0x44;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;83;81
+0x20e655;0x9;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e655;0x44;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e6ad;0x9;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e6ad;0x44;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e705;0x9;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e705;0x44;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e75d;0x9;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;81;81
+0x20e75d;0x44;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;81;81
+0x20e7b2;0x9;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e7b2;0x44;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e80a;0x9;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e80a;0x44;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e862;0x9;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e862;0x44;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e8ba;0x9;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e8ba;0x44;タンドリッジ地下墓地３階;Tandridge Crypt 3F;24;18;84;81
+0x20e912;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20e912;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20e968;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20e968;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20e9be;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20e9be;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20ea14;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;81;77
+0x20ea14;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;81;77
+0x20ea69;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20ea69;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20eabf;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;80;77
+0x20eabf;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;80;77
+0x20eb13;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;81;77
+0x20eb13;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;81;77
+0x20eb68;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;81;75
+0x20eb68;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;81;75
+0x20ebbd;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;78;75
+0x20ebbd;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;78;75
+0x20ec0f;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20ec0f;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20ec65;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20ec65;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20ecbb;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20ecbb;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20ed11;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;80;77
+0x20ed11;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;80;77
+0x20ed65;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20ed65;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;82;77
+0x20edbb;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;81;77
+0x20edbb;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;81;77
+0x20ee10;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;81;77
+0x20ee10;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;81;77
+0x20ee65;0x9;アンフィード監獄地下１階;Unfeed Prison B1;24;16;79;77
+0x20ee65;0x43;アンフィード監獄地下１階;Unfeed Prison B1;24;16;79;77
+0x20eeb8;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;83;79
+0x20eeb8;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;83;79
+0x20ef0f;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;83;79
+0x20ef0f;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;83;79
+0x20ef66;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;81;77
+0x20ef66;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;81;77
+0x20efbb;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;82;79
+0x20efbb;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;82;79
+0x20f011;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;84;79
+0x20f011;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;84;79
+0x20f069;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;82;79
+0x20f069;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;82;79
+0x20f0bf;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;84;79
+0x20f0bf;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;84;79
+0x20f117;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;84;79
+0x20f117;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;84;79
+0x20f16f;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;84;79
+0x20f16f;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;84;79
+0x20f1c7;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;83;79
+0x20f1c7;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;83;79
+0x20f21e;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;83;79
+0x20f21e;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;83;79
+0x20f275;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;83;79
+0x20f275;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;83;79
+0x20f2cc;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;84;79
+0x20f2cc;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;84;79
+0x20f324;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;81;79
+0x20f324;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;81;79
+0x20f379;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;83;79
+0x20f379;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;83;79
+0x20f3d0;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;84;79
+0x20f3d0;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;84;79
+0x20f428;0x9;アンフィード監獄地下２階;Unfeed Prison B2;24;16;81;77
+0x20f428;0x44;アンフィード監獄地下２階;Unfeed Prison B2;24;16;81;77
+0x20f47d;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;80;75
+0x20f47d;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;80;75
+0x20f4d1;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;81;79
+0x20f4d1;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;81;79
+0x20f526;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;82;79
+0x20f526;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;82;79
+0x20f57c;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;82;79
+0x20f57c;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;82;79
+0x20f5d2;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;84;79
+0x20f5d2;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;84;79
+0x20f62a;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;84;79
+0x20f62a;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;84;79
+0x20f682;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;84;79
+0x20f682;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;84;79
+0x20f6da;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;81;79
+0x20f6da;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;81;79
+0x20f72f;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;83;79
+0x20f72f;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;83;79
+0x20f786;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;84;79
+0x20f786;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;84;79
+0x20f7de;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;84;79
+0x20f7de;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;84;79
+0x20f836;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;83;79
+0x20f836;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;83;79
+0x20f88d;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;84;79
+0x20f88d;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;84;79
+0x20f8e5;0x9;アンフィード監獄地下３階;Unfeed Prison B3;24;16;84;79
+0x20f8e5;0x44;アンフィード監獄地下３階;Unfeed Prison B3;24;16;84;79
+0x20f9f1;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20f9f1;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fa43;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fa43;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fa95;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fa95;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fae7;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fae7;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fb39;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fb39;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fb8b;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fb8b;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fbdd;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fbdd;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fc2f;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fc2f;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fc81;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fc81;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fcd3;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;76;74
+0x20fcd3;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;76;74
+0x20fd23;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;76;74
+0x20fd23;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;76;74
+0x20fd73;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fd73;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fdc5;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fdc5;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fe17;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fe17;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fe69;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20fe69;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20febb;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20febb;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x20ff0d;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x20ff0d;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x20ff61;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x20ff61;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x20ffb5;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x20ffb5;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x210009;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x210009;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21005d;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21005d;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x2100b1;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;76
+0x2100b1;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;76
+0x210103;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;76
+0x210103;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;76
+0x210155;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;76
+0x210155;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;76
+0x2101a7;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;76
+0x2101a7;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;76
+0x2101f9;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;76
+0x2101f9;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;76
+0x21024b;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21024b;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21029f;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21029f;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x2102f3;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x2102f3;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x210347;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x210347;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21039b;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21039b;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x2103ef;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x2103ef;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x210443;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x210443;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x210497;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x210497;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x2104eb;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x2104eb;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x21053f;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x21053f;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x210593;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x210593;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x2105e7;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;76
+0x2105e7;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;76
+0x210639;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;76
+0x210639;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;76
+0x21068b;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;76
+0x21068b;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;76
+0x2106dd;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x2106dd;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x210731;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x210731;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x210785;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x210785;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x2107d9;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x2107d9;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x21082d;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;107;105
+0x21082d;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;107;105
+0x21089c;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;107;105
+0x21089c;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;107;105
+0x21090b;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;103;101
+0x21090b;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;103;101
+0x210976;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;105;103
+0x210976;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;105;103
+0x2109e3;0x9;イヴァリーの塔１階;Ivarie Tower 1F;18;15;73;71
+0x2109e3;0x3d;イヴァリーの塔１階;Ivarie Tower 1F;18;15;73;71
+0x210a30;0x9;イヴァリーの塔１階;Ivarie Tower 1F;18;15;73;71
+0x210a30;0x3d;イヴァリーの塔１階;Ivarie Tower 1F;18;15;73;71
+0x210a7d;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;73;71
+0x210a7d;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;73;71
+0x210aca;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;73;71
+0x210aca;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;73;71
+0x210b17;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;73;71
+0x210b17;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;73;71
+0x210b64;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;73;71
+0x210b64;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;73;71
+0x210bb1;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;73;71
+0x210bb1;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;73;71
+0x210bfe;0x9;イヴァリーの塔３階;Ivarie Tower 3F;18;15;73;71
+0x210bfe;0x3d;イヴァリーの塔３階;Ivarie Tower 3F;18;15;73;71
+0x210c4b;0x9;イヴァリーの塔３階;Ivarie Tower 3F;18;15;73;71
+0x210c4b;0x3d;イヴァリーの塔３階;Ivarie Tower 3F;18;15;73;71
+0x210c98;0x9;イヴァリーの塔３階;Ivarie Tower 3F;18;15;73;71
+0x210c98;0x3d;イヴァリーの塔３階;Ivarie Tower 3F;18;15;73;71
+0x210ce5;0x9;イヴァリーの塔４階;Ivarie Tower 4F;18;15;75;73
+0x210ce5;0x3e;イヴァリーの塔４階;Ivarie Tower 4F;18;15;75;73
+0x210d34;0x9;イヴァリーの塔４階;Ivarie Tower 4F;18;15;75;73
+0x210d34;0x3e;イヴァリーの塔４階;Ivarie Tower 4F;18;15;75;73
+0x210d83;0x9;イヴァリーの塔５階;Ivarie Tower 5F;18;15;75;73
+0x210d83;0x3e;イヴァリーの塔５階;Ivarie Tower 5F;18;15;75;73
+0x210dd2;0x9;イヴァリーの塔５階;Ivarie Tower 5F;18;15;75;73
+0x210dd2;0x3e;イヴァリーの塔５階;Ivarie Tower 5F;18;15;75;73
+0x210e21;0x9;イヴァリーの塔６階;Ivarie Tower 6F;18;15;75;73
+0x210e21;0x3e;イヴァリーの塔６階;Ivarie Tower 6F;18;15;75;73
+0x210e70;0x9;イヴァリーの塔６階;Ivarie Tower 6F;18;15;75;73
+0x210e70;0x3e;イヴァリーの塔６階;Ivarie Tower 6F;18;15;75;73
+0x210ebf;0x9;イヴァリーの塔６階;Ivarie Tower 6F;18;15;75;73
+0x210ebf;0x3e;イヴァリーの塔６階;Ivarie Tower 6F;18;15;75;73
+0x210f0e;0x9;イヴァリーの塔６階;Ivarie Tower 6F;18;15;75;73
+0x210f0e;0x3e;イヴァリーの塔６階;Ivarie Tower 6F;18;15;75;73
+0x210f5d;0x9;イヴァリーの塔７階;Ivarie Tower 7F;18;15;75;73
+0x210f5d;0x3e;イヴァリーの塔７階;Ivarie Tower 7F;18;15;75;73
+0x210fac;0x9;イヴァリーの塔７階;Ivarie Tower 7F;18;15;75;73
+0x210fac;0x3e;イヴァリーの塔７階;Ivarie Tower 7F;18;15;75;73
+0x210ffb;0x9;イヴァリーの塔７階;Ivarie Tower 7F;18;15;75;73
+0x210ffb;0x3e;イヴァリーの塔７階;Ivarie Tower 7F;18;15;75;73
+0x21104a;0x9;イヴァリーの塔８階;Ivarie Tower 8F;18;15;75;73
+0x21104a;0x3e;イヴァリーの塔８階;Ivarie Tower 8F;18;15;75;73
+0x211099;0x9;イヴァリーの塔８階;Ivarie Tower 8F;18;15;75;73
+0x211099;0x3e;イヴァリーの塔８階;Ivarie Tower 8F;18;15;75;73
+0x2110e8;0x9;イヴァリーの塔８階;Ivarie Tower 8F;18;15;75;73
+0x2110e8;0x3e;イヴァリーの塔８階;Ivarie Tower 8F;18;15;75;73
+0x211137;0x9;イヴァリーの塔８階;Ivarie Tower 8F;18;15;75;73
+0x211137;0x3e;イヴァリーの塔８階;Ivarie Tower 8F;18;15;75;73
+0x211186;0x9;イヴァリーの塔９階;Ivarie Tower 9F;18;15;75;73
+0x211186;0x3e;イヴァリーの塔９階;Ivarie Tower 9F;18;15;75;73
+0x2111d5;0x9;イヴァリーの塔９階;Ivarie Tower 9F;18;15;75;73
+0x2111d5;0x3e;イヴァリーの塔９階;Ivarie Tower 9F;18;15;75;73
+0x211224;0x9;イヴァリーの塔９階;Ivarie Tower 9F;18;15;75;73
+0x211224;0x3e;イヴァリーの塔９階;Ivarie Tower 9F;18;15;75;73
+0x211273;0x9;イヴァリーの塔９階;Ivarie Tower 9F;18;15;75;73
+0x211273;0x3e;イヴァリーの塔９階;Ivarie Tower 9F;18;15;75;73
+0x211942;0x9;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211942;0x41;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211996;0x9;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211996;0x41;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x2119ea;0x9;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x2119ea;0x41;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211a3e;0x9;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;79;75
+0x211a3e;0x41;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;79;75
+0x211a91;0x9;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;79;75
+0x211a91;0x41;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;79;75
+0x211ae4;0x9;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211ae4;0x41;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211b38;0x9;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211b38;0x41;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211b8c;0x9;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211b8c;0x41;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211be0;0x9;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211be0;0x41;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211c34;0x9;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211c34;0x41;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211c88;0x9;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211c88;0x41;セジェンム地下聖堂１階;Sejenm Temple 1F;22;16;80;77
+0x211cdc;0x9;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;79;75
+0x211cdc;0x41;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;79;75
+0x211d2f;0x9;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x211d2f;0x41;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x211d83;0x9;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x211d83;0x41;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x211dd7;0x9;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x211dd7;0x41;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x211e2b;0x9;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x211e2b;0x41;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x211e7f;0x9;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x211e7f;0x41;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x211ed3;0x9;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x211ed3;0x41;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x211f27;0x9;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x211f27;0x41;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;80;77
+0x211f7b;0x9;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;79;77
+0x211f7b;0x41;セジェンム地下聖堂２階;Sejenm Temple 2F;22;16;79;77
+0x211fce;0x9;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;81;77
+0x211fce;0x42;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;81;77
+0x212023;0x9;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x212023;0x42;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x212079;0x9;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x212079;0x42;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x2120cf;0x9;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x2120cf;0x42;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x212125;0x9;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x212125;0x42;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x21217b;0x9;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x21217b;0x42;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x2121d1;0x9;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x2121d1;0x42;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x212227;0x9;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x212227;0x42;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x21227d;0x9;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x21227d;0x42;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x2122d3;0x9;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x2122d3;0x42;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x212329;0x9;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;81;79
+0x212329;0x42;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;81;79
+0x21237e;0x9;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x21237e;0x42;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;82;79
+0x2123d4;0x9;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;81;79
+0x2123d4;0x42;セジェンム地下聖堂３階;Sejenm Temple 3F;22;16;81;79
+0x212429;0x9;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;81;77
+0x212429;0x42;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;81;77
+0x21247e;0x9;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;82;79
+0x21247e;0x42;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;82;79
+0x2124d4;0x9;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;81;77
+0x2124d4;0x42;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;81;77
+0x212529;0x9;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;82;79
+0x212529;0x42;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;82;79
+0x21257f;0x9;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;82;79
+0x21257f;0x42;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;82;79
+0x2125d5;0x9;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;81;79
+0x2125d5;0x42;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;81;79
+0x21262a;0x9;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;82;79
+0x21262a;0x42;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;82;79
+0x212680;0x9;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;81;79
+0x212680;0x42;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;81;79
+0x2126d5;0x9;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;82;79
+0x2126d5;0x42;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;82;79
+0x21272b;0x9;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;81;79
+0x21272b;0x42;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;81;79
+0x212780;0x9;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;81;77
+0x212780;0x42;セジェンム地下聖堂４階;Sejenm Temple 4F;22;16;81;77
+0x2127d5;0x9;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;81;77
+0x2127d5;0x42;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;81;77
+0x21282a;0x9;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x21282a;0x42;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x212880;0x9;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;81;79
+0x212880;0x42;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;81;79
+0x2128d5;0x9;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x2128d5;0x42;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x21292b;0x9;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x21292b;0x42;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x212981;0x9;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x212981;0x42;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x2129d7;0x9;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x2129d7;0x42;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x212a2d;0x9;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;81;79
+0x212a2d;0x42;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;81;79
+0x212a82;0x9;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x212a82;0x42;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x212ad8;0x9;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;81;79
+0x212ad8;0x42;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;81;79
+0x212b2d;0x9;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x212b2d;0x42;セジェンム地下聖堂５階;Sejenm Temple 5F;22;16;82;79
+0x21579c;0x9;イヴァリーの塔地下１階;Ivarie Tower B 1F;22;17;80;80
+0x21579c;0x41;イヴァリーの塔地下１階;Ivarie Tower B 1F;22;17;80;80
+0x2157f0;0x9;イヴァリーの塔地下１階;Ivarie Tower B 1F;22;17;80;80
+0x2157f0;0x41;イヴァリーの塔地下１階;Ivarie Tower B 1F;22;17;80;80
+0x215844;0x9;イヴァリーの塔地下１階;Ivarie Tower B 1F;22;17;82;81
+0x215844;0x41;イヴァリーの塔地下１階;Ivarie Tower B 1F;22;17;82;81
+0x21589a;0x9;イヴァリーの塔地下１階;Ivarie Tower B 1F;22;17;82;81
+0x21589a;0x41;イヴァリーの塔地下１階;Ivarie Tower B 1F;22;17;82;81
+0x2158f0;0x9;イヴァリーの塔地下２階;Ivarie Tower B 2F;22;17;80;80
+0x2158f0;0x41;イヴァリーの塔地下２階;Ivarie Tower B 2F;22;17;80;80
+0x215944;0x9;イヴァリーの塔地下２階;Ivarie Tower B 2F;22;17;80;80
+0x215944;0x41;イヴァリーの塔地下２階;Ivarie Tower B 2F;22;17;80;80
+0x215998;0x9;イヴァリーの塔地下２階;Ivarie Tower B 2F;22;17;78;78
+0x215998;0x41;イヴァリーの塔地下２階;Ivarie Tower B 2F;22;17;78;78
+0x2159ea;0x9;イヴァリーの塔地下３階;Ivarie Tower B 3F;22;17;78;78
+0x2159ea;0x41;イヴァリーの塔地下３階;Ivarie Tower B 3F;22;17;78;78
+0x215a3c;0x9;イヴァリーの塔地下３階;Ivarie Tower B 3F;22;17;82;81
+0x215a3c;0x41;イヴァリーの塔地下３階;Ivarie Tower B 3F;22;17;82;81
+0x215a92;0x9;イヴァリーの塔地下３階;Ivarie Tower B 3F;22;17;81;81
+0x215a92;0x41;イヴァリーの塔地下３階;Ivarie Tower B 3F;22;17;81;81
+0x215ae7;0x9;イヴァリーの塔地下３階;Ivarie Tower B 3F;22;17;82;81
+0x215ae7;0x41;イヴァリーの塔地下３階;Ivarie Tower B 3F;22;17;82;81
+0x215b3d;0x9;イヴァリーの塔地下４階;Ivarie Tower B 4F;22;17;80;80
+0x215b3d;0x41;イヴァリーの塔地下４階;Ivarie Tower B 4F;22;17;80;80
+0x215b91;0x9;イヴァリーの塔地下４階;Ivarie Tower B 4F;22;17;80;80
+0x215b91;0x41;イヴァリーの塔地下４階;Ivarie Tower B 4F;22;17;80;80
+0x215be5;0x9;イヴァリーの塔地下５階;Ivarie Tower B 5F;22;17;82;81
+0x215be5;0x41;イヴァリーの塔地下５階;Ivarie Tower B 5F;22;17;82;81
+0x215c3b;0x9;イヴァリーの塔地下５階;Ivarie Tower B 5F;22;17;81;81
+0x215c3b;0x41;イヴァリーの塔地下５階;Ivarie Tower B 5F;22;17;81;81
+0x215c90;0x9;イヴァリーの塔地下５階;Ivarie Tower B 5F;22;17;82;81
+0x215c90;0x41;イヴァリーの塔地下５階;Ivarie Tower B 5F;22;17;82;81
+0x215ce6;0x9;リーボ地下宮殿１階;Reebo Palace 1F;18;15;74;73
+0x215ce6;0x3d;リーボ地下宮殿１階;Reebo Palace 1F;18;15;74;73
+0x215d34;0x9;リーボ地下宮殿１階;Reebo Palace 1F;18;15;74;72
+0x215d34;0x3d;リーボ地下宮殿１階;Reebo Palace 1F;18;15;74;72
+0x215d82;0x9;リーボ地下宮殿１階;Reebo Palace 1F;18;15;74;72
+0x215d82;0x3d;リーボ地下宮殿１階;Reebo Palace 1F;18;15;74;72
+0x215dd0;0x9;リーボ地下宮殿１階;Reebo Palace 1F;18;15;74;73
+0x215dd0;0x3d;リーボ地下宮殿１階;Reebo Palace 1F;18;15;74;73
+0x215e1e;0x9;リーボ地下宮殿１階;Reebo Palace 1F;18;15;76;74
+0x215e1e;0x3d;リーボ地下宮殿１階;Reebo Palace 1F;18;15;76;74
+0x215e6e;0x9;リーボ地下宮殿１階;Reebo Palace 1F;18;15;74;72
+0x215e6e;0x3d;リーボ地下宮殿１階;Reebo Palace 1F;18;15;74;72
+0x215ebc;0x9;リーボ地下宮殿２階;Reebo Palace 2F;18;15;78;76
+0x215ebc;0x3e;リーボ地下宮殿２階;Reebo Palace 2F;18;15;78;76
+0x215f0e;0x9;リーボ地下宮殿２階;Reebo Palace 2F;18;15;78;76
+0x215f0e;0x3e;リーボ地下宮殿２階;Reebo Palace 2F;18;15;78;76
+0x215f60;0x9;リーボ地下宮殿２階;Reebo Palace 2F;18;15;78;76
+0x215f60;0x3e;リーボ地下宮殿２階;Reebo Palace 2F;18;15;78;76
+0x215fb2;0x9;リーボ地下宮殿２階;Reebo Palace 2F;18;15;78;76
+0x215fb2;0x3e;リーボ地下宮殿２階;Reebo Palace 2F;18;15;78;76
+0x216004;0x9;リーボ地下宮殿２階;Reebo Palace 2F;18;15;78;76
+0x216004;0x3e;リーボ地下宮殿２階;Reebo Palace 2F;18;15;78;76
+0x216056;0x9;リーボ地下宮殿３階;Reebo Palace 3F;18;15;74;72
+0x216056;0x3e;リーボ地下宮殿３階;Reebo Palace 3F;18;15;74;72
+0x2160a4;0x9;リーボ地下宮殿３階;Reebo Palace 3F;18;15;75;73
+0x2160a4;0x3e;リーボ地下宮殿３階;Reebo Palace 3F;18;15;75;73
+0x2160f3;0x9;リーボ地下宮殿３階;Reebo Palace 3F;18;15;76;74
+0x2160f3;0x3e;リーボ地下宮殿３階;Reebo Palace 3F;18;15;76;74
+0x216143;0x9;リーボ地下宮殿３階;Reebo Palace 3F;18;15;77;75
+0x216143;0x3e;リーボ地下宮殿３階;Reebo Palace 3F;18;15;77;75
+0x216194;0x9;リーボ地下宮殿３階;Reebo Palace 3F;18;15;75;73
+0x216194;0x3e;リーボ地下宮殿３階;Reebo Palace 3F;18;15;75;73
+0x2161e3;0x9;レインテージ回廊１階;Raintage Hall 1F;20;16;80;79
+0x2161e3;0x3f;レインテージ回廊１階;Raintage Hall 1F;20;16;80;79
+0x216237;0x9;レインテージ回廊１階;Raintage Hall 1F;20;16;80;79
+0x216237;0x3f;レインテージ回廊１階;Raintage Hall 1F;20;16;80;79
+0x21628b;0x9;レインテージ回廊１階;Raintage Hall 1F;20;16;80;79
+0x21628b;0x3f;レインテージ回廊１階;Raintage Hall 1F;20;16;80;79
+0x2162df;0x9;レインテージ回廊１階;Raintage Hall 1F;20;16;78;75
+0x2162df;0x3f;レインテージ回廊１階;Raintage Hall 1F;20;16;78;75
+0x216331;0x9;レインテージ回廊１階;Raintage Hall 1F;20;16;78;75
+0x216331;0x3f;レインテージ回廊１階;Raintage Hall 1F;20;16;78;75
+0x216383;0x9;レインテージ回廊１階;Raintage Hall 1F;20;16;80;79
+0x216383;0x3f;レインテージ回廊１階;Raintage Hall 1F;20;16;80;79
+0x2163d7;0x9;レインテージ回廊２階;Raintage Hall 2F;20;16;80;77
+0x2163d7;0x40;レインテージ回廊２階;Raintage Hall 2F;20;16;80;77
+0x21642b;0x9;レインテージ回廊２階;Raintage Hall 2F;20;16;80;77
+0x21642b;0x40;レインテージ回廊２階;Raintage Hall 2F;20;16;80;77
+0x21647f;0x9;レインテージ回廊２階;Raintage Hall 2F;20;16;80;79
+0x21647f;0x40;レインテージ回廊２階;Raintage Hall 2F;20;16;80;79
+0x2164d3;0x9;レインテージ回廊２階;Raintage Hall 2F;20;16;82;81
+0x2164d3;0x40;レインテージ回廊２階;Raintage Hall 2F;20;16;82;81
+0x216529;0x9;レインテージ回廊２階;Raintage Hall 2F;20;16;82;81
+0x216529;0x40;レインテージ回廊２階;Raintage Hall 2F;20;16;82;81
+0x21657f;0x9;レインテージ回廊２階;Raintage Hall 2F;20;16;82;81
+0x21657f;0x40;レインテージ回廊２階;Raintage Hall 2F;20;16;82;81
+0x2165d5;0x9;レインテージ回廊３階;Raintage Hall 3F;20;16;82;81
+0x2165d5;0x40;レインテージ回廊３階;Raintage Hall 3F;20;16;82;81
+0x21662b;0x9;レインテージ回廊３階;Raintage Hall 3F;20;16;82;81
+0x21662b;0x40;レインテージ回廊３階;Raintage Hall 3F;20;16;82;81
+0x216681;0x9;レインテージ回廊３階;Raintage Hall 3F;20;16;82;81
+0x216681;0x40;レインテージ回廊３階;Raintage Hall 3F;20;16;82;81
+0x2166d7;0x9;レインテージ回廊３階;Raintage Hall 3F;20;16;80;77
+0x2166d7;0x40;レインテージ回廊３階;Raintage Hall 3F;20;16;80;77
+0x21672b;0x9;レインテージ回廊２階;Raintage Hall 2F;20;16;106;103
+0x21672b;0x40;レインテージ回廊２階;Raintage Hall 2F;20;16;106;103
+0x2168ad;0x9;バレの岩窟１階;Vale Cave 1F;14;12;78;76
+0x2168ad;0x3a;バレの岩窟１階;Vale Cave 1F;14;12;78;76
+0x2168ff;0x9;バレの岩窟１階;Vale Cave 1F;14;12;78;76
+0x2168ff;0x3a;バレの岩窟１階;Vale Cave 1F;14;12;78;76
+0x216951;0x9;バレの岩窟１階;Vale Cave 1F;14;12;78;76
+0x216951;0x3a;バレの岩窟１階;Vale Cave 1F;14;12;78;76
+0x2169a3;0x9;バレの岩窟１階;Vale Cave 1F;14;12;77;76
+0x2169a3;0x3a;バレの岩窟１階;Vale Cave 1F;14;12;77;76
+0x2169f4;0x9;バレの岩窟１階;Vale Cave 1F;14;12;77;76
+0x2169f4;0x3a;バレの岩窟１階;Vale Cave 1F;14;12;77;76
+0x216a45;0x9;バレの岩窟２階;Vale Cave 2F;14;12;78;76
+0x216a45;0x3a;バレの岩窟２階;Vale Cave 2F;14;12;78;76
+0x216a97;0x9;バレの岩窟２階;Vale Cave 2F;14;12;77;76
+0x216a97;0x3a;バレの岩窟２階;Vale Cave 2F;14;12;77;76
+0x216ae8;0x9;バレの岩窟２階;Vale Cave 2F;14;12;78;76
+0x216ae8;0x3a;バレの岩窟２階;Vale Cave 2F;14;12;78;76
+0x216b3a;0x9;バレの岩窟２階;Vale Cave 2F;14;12;77;76
+0x216b3a;0x3a;バレの岩窟２階;Vale Cave 2F;14;12;77;76
+0x216b8b;0x9;バレの岩窟２階;Vale Cave 2F;14;12;73;71
+0x216b8b;0x3a;バレの岩窟２階;Vale Cave 2F;14;12;73;71
+0x216bd8;0x9;バレの岩窟２階;Vale Cave 2F;14;12;73;71
+0x216bd8;0x3a;バレの岩窟２階;Vale Cave 2F;14;12;73;71
+0x216c25;0x9;バレの岩窟２階;Vale Cave 2F;14;12;100;98
+0x216c25;0x3a;バレの岩窟２階;Vale Cave 2F;14;12;100;98
+0x216c8d;0x9;バレの岩窟２階;Vale Cave 2F;14;12;99;97
+0x216c8d;0x3a;バレの岩窟２階;Vale Cave 2F;14;12;99;97
+0x216cf4;0x9;ホーンズ雪原 地下道;Horns Snow Path;19;15;84;82
+0x216cf4;0x3f;ホーンズ雪原;Horns Snow;12;10;84;82
+0x216d4c;0x9;ホーンズ雪原 地下道;Horns Snow Path;19;15;85;83
+0x216d4c;0x3f;ホーンズ雪原;Horns Snow;12;10;85;83
+0x216da5;0x9;ホーンズ雪原 地下道;Horns Snow Path;19;15;82;80
+0x216da5;0x3f;ホーンズ雪原;Horns Snow;12;10;82;80
+0x216dfb;0x9;ホーンズ雪原 地下道;Horns Snow Path;19;15;84;82
+0x216dfb;0x3f;ホーンズ雪原;Horns Snow;12;10;84;82
+0x216e53;0x9;ホーンズ雪原 地下道;Horns Snow Path;19;15;85;83
+0x216e53;0x3f;ホーンズ雪原;Horns Snow;12;10;85;83
+0x216eac;0x9;ホーンズ雪原 地下道;Horns Snow Path;19;15;85;83
+0x216eac;0x3f;ホーンズ雪原;Horns Snow;12;10;85;83
+0x216f05;0x9;セルストークの森 地下道;Celstoke Forest Path;23;20;89;88
+0x216f05;0x42;セルストークの森;Celstoke Forest;16;15;89;88
+0x216f62;0x9;セルストークの森 地下道;Celstoke Forest Path;23;20;89;88
+0x216f62;0x42;セルストークの森;Celstoke Forest;16;15;89;88
+0x216fbf;0x9;セルストークの森 地下道;Celstoke Forest Path;23;20;89;88
+0x216fbf;0x42;セルストークの森;Celstoke Forest;16;15;89;88
+0x21711c;0x9;ラットン幻宮１階;Ratton Maze 1F;16;14;73;70
+0x21711c;0x3b;ラットン幻宮１階;Ratton Maze 1F;16;14;73;70
+0x217169;0x9;ラットン幻宮１階;Ratton Maze 1F;16;14;75;74
+0x217169;0x3b;ラットン幻宮１階;Ratton Maze 1F;16;14;75;74
+0x2171b8;0x9;ラットン幻宮１階;Ratton Maze 1F;16;14;76;74
+0x2171b8;0x3b;ラットン幻宮１階;Ratton Maze 1F;16;14;76;74
+0x217208;0x9;ラットン幻宮１階;Ratton Maze 1F;16;14;75;74
+0x217208;0x3b;ラットン幻宮１階;Ratton Maze 1F;16;14;75;74
+0x217257;0x9;ラットン幻宮１階;Ratton Maze 1F;16;14;75;74
+0x217257;0x3b;ラットン幻宮１階;Ratton Maze 1F;16;14;75;74
+0x2172a6;0x9;ラットン幻宮１階;Ratton Maze 1F;16;14;75;74
+0x2172a6;0x3b;ラットン幻宮１階;Ratton Maze 1F;16;14;75;74
+0x2172f5;0x9;ラットン幻宮２階;Ratton Maze 2F;16;14;76;74
+0x2172f5;0x3b;ラットン幻宮２階;Ratton Maze 2F;16;14;76;74
+0x217345;0x9;ラットン幻宮２階;Ratton Maze 2F;16;14;75;74
+0x217345;0x3b;ラットン幻宮２階;Ratton Maze 2F;16;14;75;74
+0x217394;0x9;ラットン幻宮２階;Ratton Maze 2F;16;14;75;74
+0x217394;0x3b;ラットン幻宮２階;Ratton Maze 2F;16;14;75;74
+0x2173e3;0x9;ラットン幻宮２階;Ratton Maze 2F;16;14;76;74
+0x2173e3;0x3b;ラットン幻宮２階;Ratton Maze 2F;16;14;76;74
+0x217433;0x9;ラットン幻宮２階;Ratton Maze 2F;16;14;75;74
+0x217433;0x3b;ラットン幻宮２階;Ratton Maze 2F;16;14;75;74
+0x217482;0x9;ラットン幻宮２階;Ratton Maze 2F;16;14;75;74
+0x217482;0x3b;ラットン幻宮２階;Ratton Maze 2F;16;14;75;74
+0x2174d1;0x9;ラットン幻宮３階;Ratton Maze 3F;16;14;76;74
+0x2174d1;0x3b;ラットン幻宮３階;Ratton Maze 3F;16;14;76;74
+0x217521;0x9;ラットン幻宮３階;Ratton Maze 3F;16;14;75;74
+0x217521;0x3b;ラットン幻宮３階;Ratton Maze 3F;16;14;75;74
+0x217570;0x9;ラットン幻宮３階;Ratton Maze 3F;16;14;75;74
+0x217570;0x3b;ラットン幻宮３階;Ratton Maze 3F;16;14;75;74
+0x2175bf;0x9;ラットン幻宮３階;Ratton Maze 3F;16;14;76;74
+0x2175bf;0x3b;ラットン幻宮３階;Ratton Maze 3F;16;14;76;74
+0x21760f;0x9;ラットン幻宮３階;Ratton Maze 3F;16;14;75;74
+0x21760f;0x3b;ラットン幻宮３階;Ratton Maze 3F;16;14;75;74
+0x21765e;0x9;ラットン幻宮３階;Ratton Maze 3F;16;14;75;74
+0x21765e;0x3b;ラットン幻宮３階;Ratton Maze 3F;16;14;75;74
+0x2176ad;0x9;ラットン幻宮３階;Ratton Maze 3F;16;14;76;74
+0x2176ad;0x3b;ラットン幻宮３階;Ratton Maze 3F;16;14;76;74
+0x2176fd;0x9;ラットン幻宮３階;Ratton Maze 3F;16;14;76;74
+0x2176fd;0x3b;ラットン幻宮３階;Ratton Maze 3F;16;14;76;74
+0x21774d;0x9;ラットン幻宮３階;Ratton Maze 3F;16;14;76;74
+0x21774d;0x3b;ラットン幻宮３階;Ratton Maze 3F;16;14;76;74
+0x21779d;0x9;ラットン幻宮３階;Ratton Maze 3F;16;14;76;74
+0x21779d;0x3b;ラットン幻宮３階;Ratton Maze 3F;16;14;76;74
+0x2177ed;0x9;ラットン幻宮４階;Ratton Maze 4F;16;14;76;74
+0x2177ed;0x3b;ラットン幻宮４階;Ratton Maze 4F;16;14;76;74
+0x21783d;0x9;ラットン幻宮４階;Ratton Maze 4F;16;14;76;74
+0x21783d;0x3b;ラットン幻宮４階;Ratton Maze 4F;16;14;76;74
+0x21788d;0x9;ラットン幻宮４階;Ratton Maze 4F;16;14;76;74
+0x21788d;0x3b;ラットン幻宮４階;Ratton Maze 4F;16;14;76;74
+0x2178dd;0x9;ラットン幻宮４階;Ratton Maze 4F;16;14;75;74
+0x2178dd;0x3b;ラットン幻宮４階;Ratton Maze 4F;16;14;75;74
+0x21792c;0x9;ラットン幻宮４階;Ratton Maze 4F;16;14;76;74
+0x21792c;0x3b;ラットン幻宮４階;Ratton Maze 4F;16;14;76;74
+0x21797c;0x9;ラットン幻宮４階;Ratton Maze 4F;16;14;76;74
+0x21797c;0x3b;ラットン幻宮４階;Ratton Maze 4F;16;14;76;74
+0x2179cc;0x9;ラットン幻宮４階;Ratton Maze 4F;16;14;76;74
+0x2179cc;0x3b;ラットン幻宮４階;Ratton Maze 4F;16;14;76;74
+0x217a1c;0x9;ラットン幻宮４階;Ratton Maze 4F;16;14;76;74
+0x217a1c;0x3b;ラットン幻宮４階;Ratton Maze 4F;16;14;76;74
+0x217a6c;0x9;ラットン幻宮５階;Ratton Maze 5F;16;14;76;74
+0x217a6c;0x3b;ラットン幻宮５階;Ratton Maze 5F;16;14;76;74
+0x217abc;0x9;ラットン幻宮５階;Ratton Maze 5F;16;14;76;74
+0x217abc;0x3b;ラットン幻宮５階;Ratton Maze 5F;16;14;76;74
+0x217b0c;0x9;ラットン幻宮５階;Ratton Maze 5F;16;14;76;74
+0x217b0c;0x3b;ラットン幻宮５階;Ratton Maze 5F;16;14;76;74
+0x217b5c;0x9;ラットン幻宮５階;Ratton Maze 5F;16;14;76;74
+0x217b5c;0x3b;ラットン幻宮５階;Ratton Maze 5F;16;14;76;74
+0x217bac;0x9;ラットン幻宮５階;Ratton Maze 5F;16;14;76;74
+0x217bac;0x3b;ラットン幻宮５階;Ratton Maze 5F;16;14;76;74
+0x217bfc;0x9;ラットン幻宮５階;Ratton Maze 5F;16;14;75;74
+0x217bfc;0x3b;ラットン幻宮５階;Ratton Maze 5F;16;14;75;74
+0x217c7e;0x9;マチェス古塔１階;Maches Tower 1F;16;15;72;71
+0x217c7e;0x3b;マチェス古塔１階;Maches Tower 1F;16;15;72;71
+0x217cca;0x9;マチェス古塔１階;Maches Tower 1F;16;15;72;72
+0x217cca;0x3b;マチェス古塔１階;Maches Tower 1F;16;15;72;72
+0x217d16;0x9;マチェス古塔１階;Maches Tower 1F;16;15;72;72
+0x217d16;0x3b;マチェス古塔１階;Maches Tower 1F;16;15;72;72
+0x217d62;0x9;マチェス古塔１階;Maches Tower 1F;16;15;72;72
+0x217d62;0x3b;マチェス古塔１階;Maches Tower 1F;16;15;72;72
+0x217dae;0x9;マチェス古塔１階;Maches Tower 1F;16;15;72;72
+0x217dae;0x3b;マチェス古塔１階;Maches Tower 1F;16;15;72;72
+0x217dfa;0x9;マチェス古塔１階;Maches Tower 1F;16;15;72;72
+0x217dfa;0x3b;マチェス古塔１階;Maches Tower 1F;16;15;72;72
+0x217e46;0x9;マチェス古塔１階;Maches Tower 1F;16;15;72;72
+0x217e46;0x3b;マチェス古塔１階;Maches Tower 1F;16;15;72;72
+0x217e92;0x9;マチェス古塔１階;Maches Tower 1F;16;15;72;72
+0x217e92;0x3b;マチェス古塔１階;Maches Tower 1F;16;15;72;72
+0x217ede;0x9;マチェス古塔２階;Maches Tower 2F;16;15;72;72
+0x217ede;0x3b;マチェス古塔２階;Maches Tower 2F;16;15;72;72
+0x217f2a;0x9;マチェス古塔２階;Maches Tower 2F;16;15;72;72
+0x217f2a;0x3b;マチェス古塔２階;Maches Tower 2F;16;15;72;72
+0x217f76;0x9;マチェス古塔２階;Maches Tower 2F;16;15;72;72
+0x217f76;0x3b;マチェス古塔２階;Maches Tower 2F;16;15;72;72
+0x217fc2;0x9;マチェス古塔２階;Maches Tower 2F;16;15;72;72
+0x217fc2;0x3b;マチェス古塔２階;Maches Tower 2F;16;15;72;72
+0x21800e;0x9;マチェス古塔２階;Maches Tower 2F;16;15;72;72
+0x21800e;0x3b;マチェス古塔２階;Maches Tower 2F;16;15;72;72
+0x21805a;0x9;マチェス古塔２階;Maches Tower 2F;16;15;72;72
+0x21805a;0x3b;マチェス古塔２階;Maches Tower 2F;16;15;72;72
+0x2180a6;0x9;マチェス古塔２階;Maches Tower 2F;16;15;72;72
+0x2180a6;0x3b;マチェス古塔２階;Maches Tower 2F;16;15;72;72
+0x2180f2;0x9;マチェス古塔３階;Maches Tower 3F;16;15;72;72
+0x2180f2;0x3b;マチェス古塔３階;Maches Tower 3F;16;15;72;72
+0x21813e;0x9;マチェス古塔３階;Maches Tower 3F;16;15;72;72
+0x21813e;0x3b;マチェス古塔３階;Maches Tower 3F;16;15;72;72
+0x21818a;0x9;マチェス古塔３階;Maches Tower 3F;16;15;72;72
+0x21818a;0x3b;マチェス古塔３階;Maches Tower 3F;16;15;72;72
+0x2181d6;0x9;マチェス古塔３階;Maches Tower 3F;16;15;72;72
+0x2181d6;0x3b;マチェス古塔３階;Maches Tower 3F;16;15;72;72
+0x218222;0x9;マチェス古塔３階;Maches Tower 3F;16;15;72;72
+0x218222;0x3b;マチェス古塔３階;Maches Tower 3F;16;15;72;72
+0x21826e;0x9;マチェス古塔３階;Maches Tower 3F;16;15;72;72
+0x21826e;0x3b;マチェス古塔３階;Maches Tower 3F;16;15;72;72
+0x2182ba;0x9;マチェス古塔３階;Maches Tower 3F;16;15;72;72
+0x2182ba;0x3b;マチェス古塔３階;Maches Tower 3F;16;15;72;72
+0x218306;0x9;マチェス古塔４階;Maches Tower 4F;16;15;72;72
+0x218306;0x3b;マチェス古塔４階;Maches Tower 4F;16;15;72;72
+0x218352;0x9;マチェス古塔４階;Maches Tower 4F;16;15;72;72
+0x218352;0x3b;マチェス古塔４階;Maches Tower 4F;16;15;72;72
+0x21839e;0x9;マチェス古塔４階;Maches Tower 4F;16;15;72;72
+0x21839e;0x3b;マチェス古塔４階;Maches Tower 4F;16;15;72;72
+0x2183ea;0x9;マチェス古塔４階;Maches Tower 4F;16;15;72;72
+0x2183ea;0x3b;マチェス古塔４階;Maches Tower 4F;16;15;72;72
+0x218436;0x9;マチェス古塔４階;Maches Tower 4F;16;15;72;72
+0x218436;0x3b;マチェス古塔４階;Maches Tower 4F;16;15;72;72
+0x218482;0x9;マチェス古塔４階;Maches Tower 4F;16;15;72;72
+0x218482;0x3b;マチェス古塔４階;Maches Tower 4F;16;15;72;72
+0x2184ce;0x9;マチェス古塔４階;Maches Tower 4F;16;15;72;72
+0x2184ce;0x3b;マチェス古塔４階;Maches Tower 4F;16;15;72;72
+0x21851a;0x9;マチェス古塔５階;Maches Tower 5F;16;15;72;72
+0x21851a;0x3b;マチェス古塔５階;Maches Tower 5F;16;15;72;72
+0x218566;0x9;マチェス古塔５階;Maches Tower 5F;16;15;72;72
+0x218566;0x3b;マチェス古塔５階;Maches Tower 5F;16;15;72;72
+0x2185b2;0x9;マチェス古塔５階;Maches Tower 5F;16;15;72;72
+0x2185b2;0x3b;マチェス古塔５階;Maches Tower 5F;16;15;72;72
+0x2185fe;0x9;マチェス古塔５階;Maches Tower 5F;16;15;72;72
+0x2185fe;0x3b;マチェス古塔５階;Maches Tower 5F;16;15;72;72
+0x21864a;0x9;マチェス古塔５階;Maches Tower 5F;16;15;72;72
+0x21864a;0x3b;マチェス古塔５階;Maches Tower 5F;16;15;72;72
+0x218696;0x9;マチェス古塔５階;Maches Tower 5F;16;15;72;72
+0x218696;0x3b;マチェス古塔５階;Maches Tower 5F;16;15;72;72
+0x2186e2;0x9;マチェス古塔５階;Maches Tower 5F;16;15;72;72
+0x2186e2;0x3b;マチェス古塔５階;Maches Tower 5F;16;15;72;72
+0x21872e;0x9;タンドリッジ深部１階;Tandridge Deep 1F;20;17;79;77
+0x21872e;0x3f;タンドリッジ深部１階;Tandridge Deep 1F;20;17;79;77
+0x218781;0x9;タンドリッジ深部１階;Tandridge Deep 1F;20;17;81;79
+0x218781;0x3f;タンドリッジ深部１階;Tandridge Deep 1F;20;17;81;79
+0x2187d6;0x9;タンドリッジ深部１階;Tandridge Deep 1F;20;17;81;79
+0x2187d6;0x3f;タンドリッジ深部１階;Tandridge Deep 1F;20;17;81;79
+0x21882b;0x9;タンドリッジ深部１階;Tandridge Deep 1F;20;17;81;79
+0x21882b;0x3f;タンドリッジ深部１階;Tandridge Deep 1F;20;17;81;79
+0x218880;0x9;タンドリッジ深部１階;Tandridge Deep 1F;20;17;81;79
+0x218880;0x3f;タンドリッジ深部１階;Tandridge Deep 1F;20;17;81;79
+0x2188d5;0x9;タンドリッジ深部１階;Tandridge Deep 1F;20;17;81;79
+0x2188d5;0x3f;タンドリッジ深部１階;Tandridge Deep 1F;20;17;81;79
+0x21892a;0x9;タンドリッジ深部１階;Tandridge Deep 1F;20;17;79;77
+0x21892a;0x3f;タンドリッジ深部１階;Tandridge Deep 1F;20;17;79;77
+0x21897d;0x9;タンドリッジ深部１階;Tandridge Deep 1F;20;17;81;79
+0x21897d;0x3f;タンドリッジ深部１階;Tandridge Deep 1F;20;17;81;79
+0x2189d2;0x9;タンドリッジ深部１階;Tandridge Deep 1F;20;17;81;79
+0x2189d2;0x3f;タンドリッジ深部１階;Tandridge Deep 1F;20;17;81;79
+0x218a27;0x9;タンドリッジ深部２階;Tandridge Deep 2F;20;17;81;79
+0x218a27;0x3f;タンドリッジ深部２階;Tandridge Deep 2F;20;17;81;79
+0x218a7c;0x9;タンドリッジ深部２階;Tandridge Deep 2F;20;17;79;77
+0x218a7c;0x3f;タンドリッジ深部２階;Tandridge Deep 2F;20;17;79;77
+0x218acf;0x9;タンドリッジ深部２階;Tandridge Deep 2F;20;17;81;79
+0x218acf;0x3f;タンドリッジ深部２階;Tandridge Deep 2F;20;17;81;79
+0x218b24;0x9;タンドリッジ深部２階;Tandridge Deep 2F;20;17;81;79
+0x218b24;0x3f;タンドリッジ深部２階;Tandridge Deep 2F;20;17;81;79
+0x218b79;0x9;タンドリッジ深部２階;Tandridge Deep 2F;20;17;81;79
+0x218b79;0x3f;タンドリッジ深部２階;Tandridge Deep 2F;20;17;81;79
+0x218bce;0x9;タンドリッジ深部２階;Tandridge Deep 2F;20;17;81;79
+0x218bce;0x3f;タンドリッジ深部２階;Tandridge Deep 2F;20;17;81;79
+0x218c23;0x9;タンドリッジ深部２階;Tandridge Deep 2F;20;17;81;79
+0x218c23;0x3f;タンドリッジ深部２階;Tandridge Deep 2F;20;17;81;79
+0x218c78;0x9;ホーンズ雪原;Horns Snow;12;10;72;69
+0x218c78;0x37;ホーンズ雪原;Horns Snow;12;10;72;69
+0x218cc4;0x9;ホーンズ雪原;Horns Snow;12;10;72;70
+0x218cc4;0x37;ホーンズ雪原;Horns Snow;12;10;72;70
+0x218d10;0x9;ホーンズ雪原;Horns Snow;12;10;72;70
+0x218d10;0x37;ホーンズ雪原;Horns Snow;12;10;72;70
+0x218d5c;0x9;ホーンズ雪原;Horns Snow;12;10;72;70
+0x218d5c;0x37;ホーンズ雪原;Horns Snow;12;10;72;70
+0x218da8;0x9;ホーンズ雪原;Horns Snow;12;10;72;69
+0x218da8;0x37;ホーンズ雪原;Horns Snow;12;10;72;69
+0x218df4;0x9;セルストークの森;Celstoke Forest;16;15;74;73
+0x218df4;0x3b;セルストークの森;Celstoke Forest;16;15;74;73
+0x218e42;0x9;セルストークの森;Celstoke Forest;16;15;74;73
+0x218e42;0x3b;セルストークの森;Celstoke Forest;16;15;74;73
+0x218e90;0x9;セルストークの森;Celstoke Forest;16;15;74;73
+0x218e90;0x3b;セルストークの森;Celstoke Forest;16;15;74;73
+0x218ede;0x9;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x218ede;0x3d;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x218f2d;0x9;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x218f2d;0x3d;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x218f7c;0x9;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x218f7c;0x3d;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x218fcb;0x9;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x218fcb;0x3d;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x21901a;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x21901a;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x219069;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x219069;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x2190b8;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x2190b8;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x219107;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x219107;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x219156;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x219156;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x2191a5;0x9;イヴァリーの塔３階;Ivarie Tower 3F;18;15;75;73
+0x2191a5;0x3d;イヴァリーの塔３階;Ivarie Tower 3F;18;15;75;73
+0x2191f4;0x9;イヴァリーの塔４階;Ivarie Tower 4F;18;15;76;74
+0x2191f4;0x3e;イヴァリーの塔４階;Ivarie Tower 4F;18;15;76;74
+0x219244;0x9;イヴァリーの塔５階;Ivarie Tower 5F;18;15;76;74
+0x219244;0x3e;イヴァリーの塔５階;Ivarie Tower 5F;18;15;76;74
+0x219294;0x9;イヴァリーの塔５階;Ivarie Tower 5F;18;15;76;74
+0x219294;0x3e;イヴァリーの塔５階;Ivarie Tower 5F;18;15;76;74
+0x2194c7;0x9;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x2194c7;0x3d;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x219516;0x9;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x219516;0x3d;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x219565;0x9;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x219565;0x3d;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x2195b4;0x9;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x2195b4;0x3d;イヴァリーの塔１階;Ivarie Tower 1F;18;15;75;73
+0x219603;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x219603;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x219652;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x219652;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x2196a1;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x2196a1;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x2196f0;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x2196f0;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x21973f;0x9;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x21973f;0x3d;イヴァリーの塔２階;Ivarie Tower 2F;18;15;75;73
+0x21978e;0x9;イヴァリーの塔３階;Ivarie Tower 3F;18;15;75;73
+0x21978e;0x3d;イヴァリーの塔３階;Ivarie Tower 3F;18;15;75;73
+0x2197dd;0x9;イヴァリーの塔４階;Ivarie Tower 4F;18;15;76;74
+0x2197dd;0x3e;イヴァリーの塔４階;Ivarie Tower 4F;18;15;76;74
+0x21982d;0x9;イヴァリーの塔５階;Ivarie Tower 5F;18;15;76;74
+0x21982d;0x3e;イヴァリーの塔５階;Ivarie Tower 5F;18;15;76;74
+0x21987d;0x9;イヴァリーの塔５階;Ivarie Tower 5F;18;15;76;74
+0x21987d;0x3e;イヴァリーの塔５階;Ivarie Tower 5F;18;15;76;74
+0x219af7;0x9;アビスターナ城門前;Avistana Gate;18;13;120;118
+0x219af7;0x3d;セルストークの森;Celstoke Forest;16;15;120;118
+0x219b73;0x9;セルストークの森 地下道;Celstoke Forest Path;23;20;87;86
+0x219b73;0x42;セルストークの森;Celstoke Forest;16;15;87;86
+0x219bce;0x9;セルストークの森 地下道;Celstoke Forest Path;23;20;87;86
+0x219bce;0x42;セルストークの森;Celstoke Forest;16;15;87;86
+0x219c29;0x9;セルストークの森 地下道;Celstoke Forest Path;23;20;87;86
+0x219c29;0x42;セルストークの森;Celstoke Forest;16;15;87;86
+0x219c84;0x9;セルストークの森 地下道;Celstoke Forest Path;23;20;87;86
+0x219c84;0x42;セルストークの森;Celstoke Forest;16;15;87;86
+0x219d3f;0x9;セルストークの森;Celstoke Forest;16;15;77;76
+0x219d3f;0x3b;セルストークの森;Celstoke Forest;16;15;77;76
+0x219d90;0x9;セルストークの森;Celstoke Forest;16;15;77;76
+0x219d90;0x3b;セルストークの森;Celstoke Forest;16;15;77;76
+0x219de1;0x9;セルストークの森;Celstoke Forest;16;15;77;76
+0x219de1;0x3b;セルストークの森;Celstoke Forest;16;15;77;76
+0x219e32;0x9;セルストークの森;Celstoke Forest;16;15;77;76
+0x219e32;0x3b;セルストークの森;Celstoke Forest;16;15;77;76
+0x219e83;0x9;アビスターナ城門前;Avistana Gate;18;13;120;118
+0x219e83;0x3d;セルストークの森;Celstoke Forest;16;15;120;118
+0x219eff;0x9;アビスターナ城門前;Avistana Gate;18;13;120;118
+0x219eff;0x3d;セルストークの森;Celstoke Forest;16;15;120;118
+0x219fc2;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x219fc2;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a014;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a014;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a066;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a066;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a0b8;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a0b8;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a10a;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a10a;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a15c;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a15c;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a1ae;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a1ae;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a200;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a200;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a252;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a252;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a2a4;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a2a4;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;78;76
+0x21a2f6;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;76;75
+0x21a2f6;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;76;75
+0x21a346;0x9;ワイトハーレン城１階;Harlene Castle 1F;20;17;76;75
+0x21a346;0x3f;ワイトハーレン城１階;Harlene Castle 1F;20;17;76;75
+0x21a396;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21a396;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21a3ea;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21a3ea;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21a43e;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21a43e;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21a492;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21a492;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21a4e6;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21a4e6;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;80;78
+0x21a53a;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;77
+0x21a53a;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;77
+0x21a58c;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;77
+0x21a58c;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;77
+0x21a5de;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;77
+0x21a5de;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;77
+0x21a630;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;77
+0x21a630;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;77
+0x21a682;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;77
+0x21a682;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;78;77
+0x21a6d4;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x21a6d4;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x21a728;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x21a728;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x21a77c;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x21a77c;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x21a7d0;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x21a7d0;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;80;78
+0x21a824;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;77
+0x21a824;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;77
+0x21a876;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;77
+0x21a876;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;77
+0x21a8c8;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;77
+0x21a8c8;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;77
+0x21a91a;0x9;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;77
+0x21a91a;0x40;ワイトハーレン城３階;Harlene Castle 3F;20;17;78;77
+0x21a96c;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;107;105
+0x21a96c;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;107;105
+0x21a9db;0x9;ワイトハーレン城２階;Harlene Castle 2F;20;17;103;101
+0x21a9db;0x40;ワイトハーレン城２階;Harlene Castle 2F;20;17;103;101
+0x21aaf8;0x9;ホーンズ雪原 地下道;Horns Snow Path;19;15;85;82
+0x21aaf8;0x3f;ホーンズ雪原;Horns Snow;12;10;85;82
+0x21ab51;0x9;ホーンズ雪原 地下道;Horns Snow Path;19;15;86;83
+0x21ab51;0x3f;ホーンズ雪原;Horns Snow;12;10;86;83
+0x21abab;0x9;ホーンズ雪原 地下道;Horns Snow Path;19;15;83;80
+0x21abab;0x3f;ホーンズ雪原;Horns Snow;12;10;83;80
+0x21ac02;0x9;ホーンズ雪原 地下道;Horns Snow Path;19;15;85;82
+0x21ac02;0x3f;ホーンズ雪原;Horns Snow;12;10;85;82
+0x21ac5b;0x9;ホーンズ雪原 地下道;Horns Snow Path;19;15;86;83
+0x21ac5b;0x3f;ホーンズ雪原;Horns Snow;12;10;86;83
+0x21acb5;0x9;ホーンズ雪原 地下道;Horns Snow Path;19;15;86;83
+0x21acb5;0x3f;ホーンズ雪原;Horns Snow;12;10;86;83
+0x21ad0f;0x9;ホーンズ雪原;Horns Snow;12;10;72;69
+0x21ad0f;0x37;ホーンズ雪原;Horns Snow;12;10;72;69
+0x21ad5b;0x9;ホーンズ雪原;Horns Snow;12;10;72;70
+0x21ad5b;0x37;ホーンズ雪原;Horns Snow;12;10;72;70
+0x21ada7;0x9;ホーンズ雪原;Horns Snow;12;10;72;70
+0x21ada7;0x37;ホーンズ雪原;Horns Snow;12;10;72;70
+0x21adf3;0x9;ホーンズ雪原;Horns Snow;12;10;72;70
+0x21adf3;0x37;ホーンズ雪原;Horns Snow;12;10;72;70
+0x21ae3f;0x9;ホーンズ雪原;Horns Snow;12;10;72;70
+0x21ae3f;0x37;ホーンズ雪原;Horns Snow;12;10;72;70
+0x2718b5;0x4;ここには%d個の宝箱がある;%d chests nearby;24;16;37;30
+0x273e71;0x4;宝箱が現れた;Chest found;12;11;26;25
+0x2746b0;0x4;ミニマップの表示方式を指定します;Set minimap display mode.;32;25;46;39
+0x2751ea;0x4;各地域のミニマップを表示します;Show each area minimap.;30;23;44;37
+0x276a2a;0x4;ミニマップ表示方式;Minimap Mode;18;12;31;26
+0x2775a2;0x4;ボネーラ酒場;Bonera Bar;12;10;25;25
+0x2775e0;0x4;レインテージ回廊;Raintage Hall;16;13;29;29
+0x27763d;0x4;リーボ地下宮殿;Reebo Palace;14;12;27;27
+0x27769c;0x4;タンドリッジ地下墓地;Tandridge Crypt;20;15;33;29
+0x278e66;0x4;ここには宝箱が無さそうだ;No chest here;24;13;37;27
+0x28cff5;0x8;ホーンズ雪原 地下道;Horns Snow Path;19;15;119;117
+0x28cff5;0x9a;ホーンズ雪原;Horns Snow;12;10;119;117
+0x28d0f7;0x8;セジェンム地下聖堂 １階;Sejenm Temple 1F;23;16;138;132
+0x28d0f7;0xb4;セジェンム地下聖堂;Sejenm Temple;18;13;138;132
+0x28d488;0x98;レインテージ回廊;Raintage Hall;16;13;132;130
+0x28d510;0xa9;レインテージ回廊;Raintage Hall;16;13;146;144

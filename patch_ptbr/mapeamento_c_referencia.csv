@@ -1,0 +1,264 @@
+﻿offset,nome_japones,nome_ptbr
+0x0006CCAC,咆哮,Rugido
+0x0006D55C,連撃弾,Projétil Múltiplo
+0x0006DAAE,咆哮,Rugido
+0x0006DC04,サンダーストーム,Tempestade Elétrica
+0x0006DDC2,フロストショック,Choque Gélido
+0x0006DF7B,コールドプリズン,Prisão Gelada
+0x0006E22C,アイスピラー,Pilar de Gelo
+0x0006E536,突風,Rajada de Vento
+0x0006E68B,咆哮,Rugido
+0x0006E874,落雷,Queda de Raio
+0x0006EA7E,吸収,Absorção
+0x0006EBF9,突風,Rajada de Vento
+0x0006ED93,混沌,Caos
+0x0006EF0E,閃光,Clarão
+0x0006F11D,嘶き,Relincho
+0x0006F2DC,吹雪,Nevasca
+0x0006F45F,飛翔,Voo
+0x0006F5DA,竜巻,Tornado
+0x0006F7DF,マグマ追跡,Perseguição de Magma
+0x0006F9EE,火柱,Coluna de Fogo
+0x0006FC5D,火炎,Chamas
+0x0006FED6,水柱,Coluna de Água
+0x0007029C,風球,Esfera de Vento
+0x000703BE,竜巻,Tornado
+0x00070619,石柱,Coluna de Pedra
+0x00070DB6,光球,Esfera de Luz
+0x00071154,闇球,Esfera Sombria
+0x00072634,金切り声,Grito Estridente
+0x0007353F,叩き付け,Golpe Esmagador
+0x0007367A,コンボ,Combo
+0x000737B4,力任せ,Força Bruta
+0x000743D1,破壊,Destruição
+0x00074620,壊滅,Devastação
+0x00074CFE,地割れ,Fissura no Solo
+0x000760BD,絶対零度,Zero Absoluto
+0x00076203,聖域,Santuário
+0x0007735E,開放(早),Liberação Rápida
+0x0007748D,掌底,Golpe com a Palma
+0x000775BD,竜巻,Tornado
+0x000776FA,落雷,Queda de Raio
+0x000778B4,落雷(早),Queda de Raio (Rápida)
+0x00077A6D,掌底:火(早),Golpe com a Palma: Fogo (Rápido)
+0x00077BDE,掌底:火,Golpe com a Palma: Fogo
+0x00077FB6,掌底:水(早),Palma: Água (Rápido)
+0x00078126,掌底:水,Golpe com a Palma: Água
+0x000782A4,竜巻:水,Tornado: Água
+0x000783E6,滝,Cachoeira
+0x000785D6,掌底:風(早),Golpe com a Palma: Vento (Rápido)
+0x00078747,掌底:風,Golpe com a Palma: Vento
+0x00078ADA,闘気(早),Luta Rápida
+0x00078C12,殴打(早),Pancada (Rápida)
+0x00078D68,殴打,Pancada
+0x00078EB6,振り上げる:火,Golpe Ascendente: Fogo
+0x00079183,火柱,Coluna de Fogo
+0x000793AB,殴打(早),Pancada (Rápida)
+0x00079501,殴打,Pancada
+0x00079650,振り上げる:水,Golpe Ascendente: Água
+0x00079B6E,間欠泉,Gêiser
+0x00079D96,殴打(早),Pancada (Rápida)
+0x00079EFA,殴打,Pancada
+0x0007A056,振り上げる:風,Golpe Ascendente: Vento
+0x0007A1A5,暴風,Vendaval
+0x0007A2F8,竜巻,Tornado
+0x0007A51C,爆,Explosão
+0x0007A6E5,雷,Raio
+0x0007A91A,砂,Areia
+0x0007AA7A,氷,Gelo
+0x0007ACC0,デッドリーサークル,Círculo Mortal
+0x0007AE0E,ダークインペイル,Empalamento Sombrio
+0x0007AFCD,メイルシュトローム,Redemoinho
+0x0007B12E,追跡,Perseguição
+0x0007B337,追跡,Rastrear
+0x0007B545,ダークインペイル,Empalamento Sombrio
+0x0007B749,麻痺毒,Veneno Paralisante
+0x0007B828,死の一刺し,Picada Mortal
+0x0007BD73,致死毒,Veneno Letal
+0x0007BE53,毒針,Agulha Venenosa
+0x0008090B,ハイランダー,Montanhês
+0x00080A69,治癒 I,Cura I
+0x00080C45,治癒 II,Cura II
+0x00080E1E,フェイタルショックⅠ,Choque Fatal I
+0x00080F71,ハウリング,Uivo
+0x000810A2,チャージSTR,Carga STR
+0x00081213,デマイズⅠ,Ruína I
+0x000813C7,デマイズⅡ,Ruína II
+0x0008157C,ホールトジャッジメントⅠ,Julgamento Imobilizador I
+0x000816B7,ホールトジャッジメントⅢ,Julgamento Imobilizador III
+0x000817F2,アナイアレイションⅠ,Aniquilação I
+0x00081927,アナイアレイションⅡ,Aniquilação II
+0x00081A5D,アンビション,Ambição
+0x00081BA0,カウントトレジャー,Contar Tesouros
+0x00081CD3,トレジャーハント,Caça ao Tesouro
+0x00081E0D,ディスパース,Dispersão
+0x00081F8C,チャージDEX,Carga DEX
+0x000820FC,チャージVIT,Carga VIT
+0x0008226C,チャージINT,Carga INT
+0x000823DC,チャージCON,Carga CON
+0x0008254D,チャージMEN,Carga MEN
+0x000826BC,ミラージュボディ,Corpo Miragem
+0x00082846,デコイ,Isca
+0x000829BD,オルターエゴ,Alter Ego
+0x00082B3E,サモナー召喚,Invocação do Invocador
+0x00082CC4,サモナー召喚,Invocação do Invocador
+0x00082E4A,サモナー召喚,Invocação do Invocador
+0x00082FD1,サモナー召喚,Invocação do Invocador
+0x00083157,サモナー召喚,Invocação do Invocador
+0x000832DE,サモナー召喚,Invocação do Invocador
+0x00083464,ネクロ召喚,Invocação do Necromante
+0x000835E5,ネクロ召喚,Invocação do Necromante
+0x00083766,ネクロ召喚,Invocação do Necromante
+0x000838E8,ネクロ召喚,Invocação do Necromante
+0x00083A6A,ネクロ召喚,Invocação do Necromante
+0x00083BEA,ネクロ召喚,Invocação do Necromante
+0x00083D6A,ブレイゾントラップⅠ,Armadilha Ardente I
+0x00083EEA,ブレイゾントラップⅡ,Armadilha Ardente II
+0x0008406A,ブレイゾントラップⅢ,Armadilha Ardente III
+0x000841E9,ブレイゾントラップⅣ,Armadilha Ardente IV
+0x00084369,ブレイゾントラップⅤ,Armadilha Ardente V
+0x000844E8,コンバージェンス,Convergência
+0x000846F1,ホールトジャッジメントⅡ,Julgamento Imobilizador II
+0x00084861,ペネトレイションスペル,Feitiço Penetrante
+0x000849CD,ディヴィネイションⅠ,Adivinhação I
+0x00084B37,ディヴィネイションⅡ,Adivinhação II
+0x00084CA1,マジックインパクトⅠ,Impacto Mágico I
+0x00084DF8,マジックインパクトⅡ,Impacto Mágico II
+0x00084F50,ロストターゲット,Alvo Perdido
+0x0008509F,アブソープションⅠ,Absorção I
+0x000851EE,アブソープションⅡ,Absorção II
+0x0008533E,ストルーボム,Bomba de Palha
+0x00085527,アサシネイションⅠ,Assassinato I
+0x00085642,アサシネイションⅡ,Assassinato II
+0x0008575E,バーンアップⅠ,Combustão I
+0x000858AC,バーンアップⅡ,Combustão II
+0x000859FA,ライフショック,Choque Vital
+0x00085B48,イフィシェントブレイク,Ruptura Eficiente
+0x00085C96,タードリィショックⅠ,Choque Retardado I
+0x00085DB8,タードリィショックⅡ,Choque Retardado II
+0x00085EDA,バリアブルアサルトⅠ,Assalto Variável I
+0x00085F82,バリアブルアサルトⅡ,Assalto Variável II
+0x0008602A,ライフブーストⅠ,Reforço Vital I
+0x000861AA,ペネトレイトⅠ,Penetração I
+0x00086310,ペネトレイトⅡ,Penetração II
+0x00086474,ライフブーストⅡ,Reforço Vital II
+0x000865F3,フォースリベレイションⅠ,Liberar Força I
+0x0008675E,フォースリベレイションⅡ,Liberar Força II
+0x000868C9,フォースリベレイションⅢ,Liberar Força III
+0x00086A35,アキュレイトマジックⅠ,Magia Precisa I
+0x00086B81,アキュレイトマジックⅡ,Magia Precisa II
+0x00086CCA,アキュレイトマジックⅢ,Magia Precisa III
+0x00086E25,アキュレイトマジックⅣ,Magia Precisa IV
+0x0008701B,アキュレイトマジックⅤ,Magia Precisa V
+0x00087202,フェイタルショックⅡ,Choque Fatal II
+0x00087354,スティールⅠ,Roubo I
+0x0008749D,リデュースSTRⅠ,Reduzir STR I
+0x00087689,リデュースDEXⅠ,Reduzir DEX I
+0x00087875,リデュースVITⅠ,Reduzir VIT I
+0x00087A5F,リデュースINTⅠ,Reduzir INT I
+0x00087C4C,リデュースCONⅠ,Reduzir CON I
+0x00087E39,リデュースMENⅠ,Reduzir MEN I
+0x00088025,リデュースALLⅠ,Reduzir ALL I
+0x0008822C,スティールⅡ,Roubo II
+0x00088376,リデュースSTRⅡ,Reduzir STR II
+0x00088561,リデュースDEXⅡ,Reduzir DEX II
+0x0008874D,リデュースVITⅡ,Reduzir VIT II
+0x00088938,リデュースINTⅡ,Reduzir INT II
+0x00088B24,リデュースCONⅡ,Reduzir CON II
+0x00088D11,リデュースMENⅡ,Reduzir MEN II
+0x00088EFE,リデュースALLⅡ,Reduzir ALL II
+0x00089105,アンプリファイSTRⅠ,Amplificar STR I
+0x000892FB,アンプリファイDEXⅠ,Amplificar DEX I
+0x000894EF,アンプリファイVITⅠ,Amplificar VIT I
+0x000896E4,アンプリファイINTⅠ,Amplificar INT I
+0x000898D8,アンプリファイCONⅠ,Amplificar CON I
+0x00089ACE,アンプリファイMENⅠ,Amplificar MEN I
+0x00089CC3,アンプリファイALLⅠ,Amplificar ALL I
+0x00089ED2,アンプリファイSTRⅡ,Amplificar STR II
+0x0008A0C8,アンプリファイDEXⅡ,Amplificar DEX II
+0x0008A2BD,アンプリファイVITⅡ,Amplificar VIT II
+0x0008A4B2,アンプリファイINTⅡ,Amplificar INT II
+0x0008A6A6,アンプリファイCONⅡ,Amplificar CON II
+0x0008A89C,アンプリファイMENⅡ,Amplificar MEN II
+0x0008AA91,アンプリファイALLⅡ,Amplificar ALL II
+0x0008AC9E,フェイタルショックⅢ,Choque Fatal III
+0x0008ADF1,ヒールⅠ,Cura I
+0x0008AFB2,アルケミー,Alquimia
+0x0008B117,ボムクリエイト,Criar Bomba
+0x0008B284,ファーマシー,Farmácia
+0x0008B3E8,エクスプロイト,Exploração
+0x0008B550,コンバート,Conversão
+0x0008B6B4,トランスファー,Transferência
+0x0008B826,アイデンティファイ,Identificar
+0x0008B997,ヒールⅡ,Cura II
+0x0008BB58,ヒールⅢ,Cura III
+0x0008BD1A,ヒールⅣ,Cura IV
+0x0008BEDC,ヒールⅤ,Cura V
+0x0008C09E,ヒールⅥ,Cura VI
+0x0008C25F,フェイタルショックⅣ,Choque Fatal IV
+0x0008C3B1,リフレッシュ,Revigorar
+0x0008C577,リペアウェポン,Reparar Arma
+0x0008C6CA,リペアリング,Reparo
+0x0008C810,フェイタルショックⅤ,Choque Fatal V
+0x0008CA25,リザレクションⅠ,Ressurreição I
+0x0008CC09,ファストリチャージⅠ,Recarga Rápida I
+0x0008CDDF,ファストリチャージⅡ,Recarga Rápida II
+0x0008CFB8,リザレクションⅡ,Ressurreição II
+0x0008D19D,リザレクションⅢ,Ressurreição III
+0x0008D382,リカバリーⅠ,Recuperação I
+0x0008D4D9,プロテクション,Proteção
+0x0008D621,スピードドライブ,Impulso Veloz
+0x0008D766,イベイジョン,Evasão
+0x0008D8A9,フィジクスネグレクト,Negação Física
+0x0008D9F8,パーフェクトガード,Defesa Perfeita
+0x0008DB43,ティップトゥ,Ponta dos Pés
+0x0008DC84,ファントム,Fantasma
+0x0008DDC4,デスペレイト,Desespero
+0x0008DF09,スペルカウンター,Contra-Magia
+0x0008E054,ウェポンシールド,Escudo de Arma
+0x0008E1A2,リカバリーⅡ,Recuperação II
+0x0008E2F8,リングシールド,Escudo Circular
+0x0008E440,ソリッドボディⅠ,Corpo Resistente I
+0x0008E58D,ソリッドボディⅡ,Corpo Resistente II
+0x0008E6D9,ライフガードⅠ,Proteção Vital I
+0x0008E827,ライフガードⅡ,Proteção Vital II
+0x0008E975,リカバリーⅢ,Recuperação III
+0x0008EACB,ヒールフィールドⅠ,Campo de Cura I
+0x0008ECB0,リフレクション,Reflexão
+0x0008EDF9,インスティンクト,Instinto
+0x0008EF94,インビンシブル,Invencível
+0x0008F0DB,クリティカルブレイク,Ruptura Crítica
+0x0008F22C,パースート,Perseguição
+0x0008F36A,マジックエコー,Eco Mágico
+0x0008F4B5,ドレインガード,Guarda Drenante
+0x0008F5FF,ガードカウンターⅠ,Contra-ataque de Defesa I
+0x0008F74E,ガードカウンターⅡ,Contra-ataque de Defesa II
+0x0008F89C,ブラッドサッカーⅠ,Sugador de Sangue I
+0x0008F9E9,ヒールフィールドⅡ,Campo de Cura II
+0x0008FBD0,ブラッドサッカーⅡ,Sugador de Sangue II
+0x0008FD1C,オートカウンターⅠ,Contra-ataque Automático I
+0x0008FE6C,オートカウンターⅡ,Contra-ataque Automático II
+0x0008FFBD,ヒールフィールドⅢ,Campo de Cura III
+0x000901A1,バンコンバット,Bloquear Combate
+0x00090399,バンマジック,Bloquear Magia
+0x00090597,バンムーブ,Bloquear Movimento
+0x00090794,デルード,Iludir
+0x00090984,メズマライズⅠ,Hipnotizar I
+0x00090B81,メズマライズⅡ,Hipnotizar II
+0x00090D7C,マリオネットⅠ,Marionete I
+0x00090F82,マリオネットⅡ,Marionete II
+0x0009118A,キープアウト,Manter Distância
+0x0009135D,ブレスドフィールド,Campo Abençoado
+0x0009152D,デミリタライズゾーン,Zona de Desmaterialização
+0x000916FE,コントラクト,Contrato
+0x000918BD,ネゴシエーション,Negociação
+0x00091A98,バックドア,Porta dos Fundos
+0x00091BB7,テレポート,Teleporte
+0x00091D09,スモーク,Fumaça
+0x00091E9B,インパート,Conceder
+0x00091FCF,フォールエアレイド,Ataque Aéreo Descendente
+0x00092157,ライジングエアレイド,Ataque Aéreo Ascendente
+0x000922BE,ランダマイザー,Aleatorizador
+0x000923A9,ディスペル,Dissipar
+0x000925A3,オートリザレクション,Ressurreição Automática
+0x00092795,オーバードライブ,Sobrecarga

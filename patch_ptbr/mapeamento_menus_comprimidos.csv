@@ -1,0 +1,25 @@
+﻿Offset do bloco;Original japonês;Português;Bytes compactados;Capacidade do campo
+0x271A61;アクティブメニュー;Menu em exibicao;31;18
+0x275B5D;アイテム;Itens;21;8
+0x277294;アイテム;Itens;21;8
+0x2793CE;武器;Arma;17;4
+0x277FE5;指輪;Anel;17;4
+0x277FFA;指輪;Anel;17;4
+0x27781A;防具;Def.;17;4
+0x277FA7;レジストコンボ;Combo Resist;27;14
+0x277FC6;レジストコンボ;Combo Resist;27;14
+0x2768F1;名前;Nome;17;4
+0x275CCA;クラス;Classe;19;6
+0x277C87;リチャージ;Recarga;23;10
+0x278F19;使用可能;Pronto;21;8
+0x27754C;ポーズメニュー;Menu Pausa;27;14
+0x278A16;ステータス;Status;23;10
+0x275F6D;地図;Mapa;17;4
+0x274181;大事な物;Chaves;21;8
+0x271AAE;AI編集;Ed. IA;19;6
+0x2725D6;AI説明;Ajuda;19;6
+0x272CF8;掲示板;Forum;19;6
+0x27735D;オプション;Opcoes;23;10
+0x27827D;モード選択へ;Mudar modo;25;12
+0x278D27;タイトルへ;Titulo;23;10
+0x275780;キャラクターのステータスを表示します;Mostra o status atual do personagem.;50;36

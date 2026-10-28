@@ -1,0 +1,12 @@
+RoL WIKI OFFLINE — PT-BR
+
+1. Extraia o ZIP inteiro.
+2. Abra index.html no navegador.
+3. Use a busca ou as categorias para navegar.
+4. Não mova arquivos isolados para fora da pasta.
+
+Observações: esta é uma coleção histórica; os fóruns são somente leitura, links externos exigem internet e algumas capturas originais têm imagens vazias. A busca funciona localmente no navegador.
+
+Relatório técnico: RELATORIO_DE_CONTEUDO.json
+
+PENDÊNCIA: a página tactics.htm ainda contém trechos japoneses não traduzidos. Consulte RELATORIO_DE_CONTEUDO.json. As demais páginas não apresentam caracteres japoneses no texto visível, mas ainda podem exigir revisão linguística.

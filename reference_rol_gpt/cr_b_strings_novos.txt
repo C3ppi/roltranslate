@@ -1,0 +1,928 @@
+0x000A57AE [10] Meses apos
+0x000CFF05 [24] Um rugido distante!     
+0x000D0532 [24] Tempo restante:         
+0x000D059C [24] Goblin Guard abatidos:  
+0x000D05E6 [24] Umgarna abatidos:       
+0x000D0628 [24] Ameba abatidos:         
+0x000D0673 [24] Skull Warrior abatidos: 
+0x000D06B5 [24] Fiend abatidos:         
+0x000D0700 [24] Oannes abatidos:        
+0x000D0742 [24] Vassago abatidos:       
+0x000D078D [24] Impalement abatidos:    
+0x000D07D8 [24] Abates Death Note:      
+0x000D081A [24] Abates Mad Golem:       
+0x000D0865 [24] Espadachim Fantasma:    
+0x000D089E [24] Abates Garm:            
+0x000D08E9 [24] Abates Chefe Goblin:    
+0x000D0934 [24] Abates Chefe Sahagin:   
+0x000D096D [24] Abates Marbas:          
+0x000D09AF [24] Abates Sylvil:          
+0x000D0D7C [24] Um rugido distante!     
+0x000D137D [24] Tempo restante:         
+0x000D13E7 [24] Goblin Guard abatidos:  
+0x000D1431 [24] Umgarna abatidos:       
+0x000D1473 [24] Ameba abatidos:         
+0x000D14BE [24] Skull Warrior abatidos: 
+0x000D1500 [24] Fiend abatidos:         
+0x000D154B [24] Oannes abatidos:        
+0x000D158D [24] Vassago abatidos:       
+0x000D15D8 [24] Impalement abatidos:    
+0x000D1623 [24] Abates Death Note:      
+0x000D1665 [24] Abates Mad Golem:       
+0x000D16B0 [24] Espadachim Fantasma:    
+0x000D16E9 [24] Abates Garm:            
+0x000D1734 [24] Abates Chefe Goblin:    
+0x000D177F [24] Abates Chefe Sahagin:   
+0x000D17B8 [24] Abates Marbas:          
+0x000D17FA [24] Abates Sylvil:          
+0x000D2F9F [24] Tempo restante:         
+0x000D3013 [24] Total de abates:        
+0x000D36A2 [24] Tempo restante:         
+0x000D3712 [24] Sidewinders abatidos:   
+0x000D3765 [24] Umgarna abatidos:       
+0x000D3ABE [24] Um rugido distante!     
+0x000D3E99 [24] Tempo restante:         
+0x000D3F09 [24] Abates Esqueleto:       
+0x000D3F50 [24] Skull Fencers abatidos: 
+0x000D3F9B [24] Skull Warrior abatidos: 
+0x000D3FE6 [24] Fiend abatidos:         
+0x000D4028 [24] Espadachim Fantasma:    
+0x000D4073 [24] Abates Garm:            
+0x000D4834 [24] Tempo restante:         
+0x000D48A7 [24] Abates Ryuberi:         
+0x000D48FA [24] Abates Cla Fengyun:     
+0x000D4E49 [24] Tempo restante:         
+0x000D4EBC [24] Abates Alma Perdida:    
+0x000D4F06 [24] Abates Banshee:         
+0x000D4F51 [24] Abates Asmodai:         
+0x000D4F9C [24] Abates Doom Ape:        
+0x000D4FDE [24] Abates Pendragon:       
+0x000D5020 [24] Abates Leonardo:        
+0x000D506B [24] Abates Fafnir:          
+0x000D50AE [24] Total de abates:        
+0x000D584B [24] Tempo restante:         
+0x000D58BF [24] Total de abates:        
+0x000D5F62 [24] Tempo restante:         
+0x000D5FD5 [24] Abates Jormungand:      
+0x000D6400 [24] Tempo restante:         
+0x000D6473 [24] Dragao de Gelo abatido: 
+0x000D64C6 [24] Abates Dagon:           
+0x000D6512 [24] Total de abates:        
+0x000D80BC [44] Tudo comecou com a descoberta de ruinas.    
+0x000D8149 [34] Duas potencias lutavam por poder. 
+0x000D8171 [50] enquanto pequenos reinos sumiam na guerra...      
+0x000D81D4 [18] Imperio Riantsu...
+0x000D820B [34] Com terras e muitos cavaleiros,   
+0x000D8233 [28] Queria unificar o mundo.    
+0x000D8274 [16] Estado de Zemea 
+0x000D82A9 [32] Unia povos sob uma unica fe.    
+0x000D82CF [30] um estado de avancada magia.  
+0x000D82F3 [32] A luta entre as duas potencias  
+0x000D8319 [52] arrastou pequenos reinos para uma guerra maior.     
+0x000D8372 [40] Um desses reinos era Sanberna...        
+0x000D83BF [42] Mesmo pequeno, tinha um rei sabio,        
+0x000D83EF [38] e prosperava com o apoio de seu povo. 
+0x000D843A [56] Sanberna mantinha amizade com Zemea havia geracoes,     
+0x000D8478 [50] mas o rei Laures, chamado Rei Coracao de Dragao,  
+0x000D84B0 [40] Temendo o futuro de um mundo em caos,   
+0x000D84DE [40] pedia a Riantsu e Zemea o fim da guerra 
+0x000D850C [34] e pregava a paz que viria depois. 
+0x000D8534 [30] Como em resposta a seu apelo, 
+0x000D8558 [36] O clamor pela paz so aumentava.     
+0x000D8582 [52] O mundo dava o primeiro passo para a conciliacao.   
+0x000D85BC [50] Mas o sonho de paz era fragil e passageiro...     
+0x000D8613 [36] Quando a esperanca de paz crescia...
+0x000D863D [58] Riantsu marchou com um grande exercito sobre Sanberna.    
+0x000D867D [40] Para o imperio que buscava unir o mundo,
+0x000D86AB [58] Sanberna, que defendia a paz, era um obstaculo.           
+0x000D86EB [28] Sanberna resistiu ao ataque,
+0x000D870D [50] mas sofria ante as forcas esmagadoras de Riantsu. 
+0x000D8745 [50] Mesmo assim, Zemea, seu antigo aliado,            
+0x000D877D [42] nao enviou reforcos e apenas observou.    
+0x000D87CC [20] Meses depois...     
+0x000D87E6 [56] Sanberna, ainda resistindo, enfim caiu.                 
+0x000D8824 [36] Ante o ataque surpresa de Riantsu,  
+0x000D884E [38] caiu Sentelro, capital de Sanberna.   
+0x000D887A [56] Laures morreu lutando pela paz ate o fim.               
+0x000D88B8 [58] Assim, a paz perdeu Sanberna, sua grande defensora,       
+0x000D88F8 [30] sumiu no caos da guerra.      
+0x000D891C [52] O mundo voltou a se encher de dor e tristeza...     
+0x000D8956 [28] Ja nao se detinha a guerra. 
+0x000D8978 [42] As chamas da guerra so se espalhavam.     
+0x000D89A8 [52] Foi entao que aquelas ruinas foram achadas...       
+0x000D8A01 [40] Em meio a uma guerra sem fim,           
+0x000D8A2F [40] As ruinas surgiram misteriosamente.     
+0x000D8A5D [24] Tudo era um misterio.   
+0x000D8A7B [42] Uns diziam que surgiram de repente.       
+0x000D8AAB [56] Outros, que um grande explorador as descobriu.          
+0x000D8AE9 [56] Afinal, ficavam numa terra sombria, envolta em nevoa.   
+0x000D8B27 [36] De todo modo, descobrir as ruinas   
+0x000D8B51 [54] gerou rumores e atraiu muitos para aquele lugar.      
+0x000D8BAC [42] Os primeiros a chegar foram os cacadores. 
+0x000D8BDC [56] Sem patria pela guerra, vagavam em busca de abrigo.     
+0x000D8C1A [44] Eram cacadores de recompensas, aventureiros,
+0x000D8C4C [34] pesquisadores, lojas e ladroes.   
+0x000D8C74 [42] Ali buscavam esperanca ou ambicao.        
+0x000D8CA4 [56] A maioria explorava sem interferir nos demais.          
+0x000D8CE2 [56] Mas nao so os cacadores chegaram as ruinas.             
+0x000D8D20 [50] Riantsu e Zemea, envolvidos na guerra,            
+0x000D8D58 [30] tambem viram algo nas ruinas. 
+0x000D8D9B [44] Tudo mudou quando ambos enviaram tropas.    
+0x000D8DCD [54] Passaram a lutar para tomar as ruinas.                
+0x000D8E09 [32] O conflito crescia a cada dia.  
+0x000D8E2F [50] Os fracos caiam; os ignorantes eram expulsos.     
+0x000D8E86 [50] Mas a guerra entre Riantsu e Zemea piorou,        
+0x000D8EBE [56] e, sem poder enviar tropas, a luta foi cedendo.         
+0x000D8EFC [56] Riantsu, Zemea e os cacadores                           
+0x000D8F3A [34] mantinham um equilibrio fragil.   
+0x000D8F6F [28] Meses apos a descoberta...  
+0x000D8F91 [56] Ali surgiu um estranho retrato do mundo em guerra.      
+0x000DE12C [12] /siacH{b(#b8
+0x000DE4B1 [9] O7gQ8D#~P
+0x000DE779 [8] UrK-*I-V
+0x000DEC90 [8] UrK-*I-V
+0x000DEDE7 [8] UrK-*I-V
+0x000DFADF [9] %MacHS!!`
+0x000E1A2C [8] A&Db2RY9
+0x000E27E5 [11] [U6jp6a$Xp,
+0x000E2F9B [8] M<n/<I1t
+0x000E3173 [8] UrK-*I-V
+0x000E4048 [8] UrK-*I-V
+0x000E5B5E [8] MS!NOa{z
+0x000E63A2 [8] UrK-*I-V
+0x000E6679 [8] UrK-*I-V
+0x000E6925 [8] UrK-*I-V
+0x000E7354 [8] UrK-*I-V
+0x000E73C6 [8] UrK-*I-V
+0x000E7645 [8] UrK-*I-V
+0x000E7791 [8] UrK-*I-V
+0x000E7C3B [10] e0'{4@%pLe
+0x000E97EB [8] M,VHU(,M
+0x000EBE21 [8] UrK-*I-V
+0x000EBE42 [10] )HU(I-RHIL
+0x000EBFC1 [8] UrK-*I-V
+0x000EC136 [8] UrK-*I-V
+0x000EC271 [8] UrK-*I-V
+0x000EC28C [9] Sp-.H-JU(
+0x000EC432 [8] UrK-*I-V
+0x000EC6CF [8] UrK-*I-V
+0x000EC86A [8] UrK-*I-V
+0x000ECBE6 [8] UrK-*I-V
+0x000ECDE0 [8] UrK-*I-V
+0x000ECDFE [9] /V((J,IML
+0x000ECE8D [11] /JTHN-*ITTp
+0x000ECF12 [8] UrK-*I-V
+0x000ED453 [8] UrK-*I-V
+0x000ED60C [8] (_!9191%
+0x000ED8C1 [8] UrK-*I-V
+0x000EDC3C [8] UrK-*I-V
+0x000EDDCE [8] UrK-*I-V
+0x000EDFBB [8] g3333333
+0x000EE43A [8] UrK-*I-V
+0x000EE587 [8] UrK-*I-V
+0x000EE73E [8] UrK-*I-V
+0x000EE96E [14] uu+*********tu
+0x000EEA74 [8] UrK-*I-V
+0x000EF0E6 [8] UrK-*I-V
+0x000EF353 [8] UrK-*I-V
+0x000EF4B2 [8] UrK-*I-V
+0x000EF800 [8] UrK-*I-V
+0x000EF8AB [8] I8\8itv$
+0x000EF9F9 [8] UrK-*I-V
+0x000EFA0B [9] ONUHUH,,M
+0x000EFAE9 [8] UrK-*I-V
+0x000EFC45 [8] UrK-*I-V
+0x000EFE5E [13] ,,MU(H,JT()J,
+0x000F011F [8] UrK-*I-V
+0x000F0688 [8] f:d+Qson
+0x000F0AA4 [8] UrK-*I-V
+0x000F145B [8] UrK-*I-V
+0x000F1659 [8] UrK-*I-V
+0x000F18A2 [8] UrK-*I-V
+0x000F1A7E [11] ts8`j'Gu'xA
+0x000F1CE9 [8] {3333333
+0x000F1E3B [8] {$$$$$$$
+0x000F26A5 [8] UrK-*I-V
+0x000F28AA [8] UrK-*I-V
+0x000F2946 [8] UrK-*I-V
+0x000F295B [8] WH-.IUHU
+0x000F29D3 [8] UrK-*I-V
+0x000F2A5C [8] UrK-*I-V
+0x000F2ADE [8] UrK-*I-V
+0x000F2BF8 [8] uYTUUUUU
+0x000F2EA5 [8] UrK-*I-V
+0x000F2FBE [8] UrK-*I-V
+0x000F30FB [8] UrK-*I-V
+0x000F32DF [8] UrK-*I-V
+0x000F36EB [8] UrK-*I-V
+0x000F3B7D [8] W(,MUHUH
+0x000F5502 [9] BJjqrb^qb
+0x000F5A08 [9] \w@bBLea;
+0x000F5D33 [8] Bq>X2713
+0x000F6C4C [8] H,JMNU(,
+0x000F8043 [8] 73333333
+0x000F8F6D [8] l4DcRi'4
+0x000F93C8 [9] $5/#Q!19?
+0x000F93D2 [10] $593%_!/1%
+0x000F9557 [8] WHIU(H,.
+0x000F965E [11] hfffffffff6
+0x000F9D37 [10] dffffff6M1
+0x000F9DD2 [11] l~qyu}s{w?+
+0x000FA4B8 [13] -)U7'_!9?7_!%
+0x000FA703 [8] HMNUH,,M
+0x000FAB1F [8] WHIU(H,.
+0x000FB1B2 [8] T(.MT(H-
+0x000FB1C0 [9] WHIUHLN-.
+0x000FB420 [8] i2Ww1 iQ
+0x000FB902 [8] BPbGNSq|
+0x000FC82C [8] UrK-*I-V
+0x000FCCE0 [11] Q(-NUH-.ITH
+0x000FD5A8 [8] UrK-*I-V
+0x000FD6A4 [8] UrK-*I-V
+0x000FD6DA [11] Br~nfz>\ZQW
+0x000FD7B6 [8] UrK-*I-V
+0x000FD7D7 [9] /JT(,MU(N
+0x000FDA8F [12] N7X-yURJ[~(U
+0x000FDD82 [8] UrK-*I-V
+0x000FE28A [8] UrK-*I-V
+0x000FE2AB [8] |=. #1_!
+0x000FE4C3 [8] UrK-*I-V
+0x000FE928 [8] UrK-*I-V
+0x000FEB8A [9] ~KI-N.M*J
+0x000FEF9B [8] /RH-.IUH
+0x000FF007 [8] UrK-*I-V
+0x000FF01B [10] W(,MU((J-I
+0x000FF123 [8] UrK-*I-V
+0x000FF13C [11] /UHL/JLIMN-
+0x000FF2C2 [8] UrK-*I-V
+0x000FF350 [8] UrK-*I-V
+0x000FF43C [8] UrK-*I-V
+0x000FF460 [10] W(,MUH-.IT
+0x000FFA82 [8] UrK-*I-V
+0x000FFC49 [8] UrK-*I-V
+0x000FFE16 [10] Hi/*L7DwwD
+0x001001E3 [8] UrK-*I-V
+0x001001FB [8] ,.NU(,MU
+0x001006DB [10] /R(,MUH,VH
+0x00100958 [8] UrK-*I-V
+0x00100A76 [8] UrK-*I-V
+0x00100A8E [8] JTH-.I,K
+0x00100B71 [12] 3b8yofffffff
+0x00100F71 [8] UrK-*I-V
+0x00100F85 [10] W(,MU((J-I
+0x001012B2 [8] QQvx|P_s
+0x001014C6 [8] JUHI-.)*
+0x0010153C [8] UrK-*I-V
+0x001015CE [9] :$uL|~Hm1
+0x001015FF [11] uu+******tu
+0x00101982 [9] ,ffffffff
+0x00101A2B [8] UrK-*I-V
+0x00103AA5 [11] BAQjIj^Jjn~
+0x0010419E [11] T(,MUH-.ITH
+0x00104D1E [8] UrK-*I-V
+0x00104F08 [9] tMIQfqIjr
+0x0010501F [8] UrK-*I-V
+0x0010551D [8] UrK-*I-V
+0x00105812 [8] xoffffff
+0x0010591A [14] /R(,MUH-.ITH,,
+0x0010594F [8] BPfb^I1\
+0x00106408 [8] UrK-*I-V
+0x00106488 [8] UrK-*I-V
+0x001064AB [8] UH,IUH,,
+0x00106931 [8] UrK-*I-V
+0x00106A99 [8] UrK-*I-V
+0x00107266 [8] UrK-*I-V
+0x0010765E [11] +)VH-.ITHIU
+0x00107AAC [10] M!Q!919Q!1
+0x00107C56 [9] 83WG!-39_
+0x00107E7E [9] e-Aw.Bf5s
+0x00108045 [8] UrK-*I-V
+0x001081C2 [8] UrK-*I-V
+0x001081D7 [11] QHTH/M-*JTH
+0x00108396 [8] UrK-*I-V
+0x0010870C [8] UrK-*I-V
+0x00108E5A [8] UrK-*I-V
+0x00109157 [10] e]UUUUUUu]
+0x001093F4 [9] z5Z5q7_xA
+0x0010992D [10] T(NUH,*J-H
+0x0010A193 [8] ~01aG'La
+0x0010A4FB [12] [j^Y~NYfJ>Wj
+0x0010A50E [10] Bf^rfJj^I*
+0x0010A801 [8] UrK-*I-V
+0x0010B16F [9] dvbr>Pwrj
+0x0010B346 [8] EUUUUUuY
+0x0010BC94 [8] UrK-*I-V
+0x0010BF7D [8] UrK-*I-V
+0x0010C29D [8] UrK-*I-V
+0x0010CD31 [8] &3333333
+0x0010CEC8 [17] ONUH-JTHTp,NTHIUp
+0x0010CFB7 [9] TR(,MU(HM
+0x0010D296 [8] W(H,JTH-
+0x0010E58D [11] =W@Qjrfqbn~
+0x0010E59E [9] BJjAQjqq"
+0x0010EA5A [9] URtK-*I-V
+0x0010F2F7 [12] WH-.H-J,KT(I
+0x0010FA65 [9] o}offffff
+0x00110F8C [8] UrK-*I-V
+0x0011145F [10] F|ll0R(.u/
+0x0011155B [8] UrK-*I-V
+0x00111771 [8] UrK-*I-V
+0x00111787 [9] W(,MUHI-N
+0x00111814 [9] H,JT(N-R(
+0x00111B69 [8] UrK-*I-V
+0x00111D7C [8] UrK-*I-V
+0x001122D0 [8] UrK-*I-V
+0x001122E5 [12] ONU(NLJUHIUH
+0x00112430 [11] HT(,MUpK-R(
+0x00112685 [8] UrK-*I-V
+0x001127B2 [8] UrK-*I-V
+0x00112A9A [8] UrK-*I-V
+0x00112C8F [8] UrK-*I-V
+0x00112CA1 [8] UH,)J,VH
+0x0011359B [9] URtK-*I-V
+0x001139F6 [8] bgMusHsp
+0x00113B8A [8] UrK-*I-V
+0x00113C92 [8] UrK-*I-V
+0x0011409D [8] UrK-*I-V
+0x001141C0 [8] UrK-*I-V
+0x0011432A [8] UrK-*I-V
+0x00114AC1 [8] UrK-*I-V
+0x00114D47 [8] b*|CtwwG
+0x00114F0E [8] UrK-*I-V
+0x00114FAC [8] UrK-*I-V
+0x00115025 [8] UrK-*I-V
+0x0011505B [9] BjqAjQbY"
+0x001150F4 [8] UrK-*I-V
+0x0011510D [12] r,H,JMN-UHIU
+0x0011517E [8] UrK-*I-V
+0x001151F7 [8] UrK-*I-V
+0x00115207 [8] sU(,MU(I
+0x00115279 [8] UrK-*I-V
+0x001153C4 [8] UrK-*I-V
+0x00115677 [12] W(N-,M-.)J,J
+0x00115C0A [9] {33333333
+0x0011600D [8] UrK-*I-V
+0x001169BA [8] Tl;k<7J:
+0x00118EF4 [11] H,JMNU(,MUp
+0x00118F02 [10] WH-.ITHT(N
+0x0011982A [8] UrK-*I-V
+0x00119EBA [10] 0l1wv8_beE
+0x0011A562 [8] W(JM.-N,
+0x0011A970 [8] 4U!5'U!-
+0x0011B01D [8] 41'3%1%U
+0x0011B1A6 [10] )JLOT()J-V
+0x0011BE8D [8] tvyu}s{w
+0x0011C3B9 [8] H,JMNU(,
+0x0011CE37 [8] s-.I,V(N
+0x0011CE4F [9] BHb^JQfJz
+0x0011CE5E [11] BbiI~QfUbrb
+0x0011CE6D [11] PCA>PQAbqqb
+0x0011CF19 [9] OIU(H,.N,
+0x0011D01D [12] 2Mffffffff6M
+0x0011D124 [8] 00?:r+R$
+0x0011D546 [8] kUUUUUUU
+0x0011D5CA [10] (RcWqSq|*X
+0x0011D7DE [10] WHIT(NM/-J
+0x0011EB6C [8] UrK-*I-V
+0x0011EB80 [11] H,JMNU(N-R(
+0x0011ECB1 [8] UrK-*I-V
+0x0011F220 [8] UrK-*I-V
+0x0011F34F [8] UrK-*I-V
+0x0011F3F1 [8] &i5[E`k*
+0x0011FEDF [11] Tw.(/nL\W?`
+0x001200CC [8] BqiVjfI>
+0x001202AB [8] UrK-*I-V
+0x0012081E [8] ONU(NLJU
+0x00120E8B [8] UrK-*I-V
+0x00120F63 [8] ob1H:/1_
+0x001214EC [8] UrK-*I-V
+0x00121C73 [9] BqiqAjfIb
+0x00121D48 [9] /*J-JTH,,
+0x00121FBB [8] UrK-*I-V
+0x0012209F [8] /*J-RH,,
+0x00122204 [9] QUUUUUUUU
+0x0012229B [8] UrK-*I-V
+0x00122426 [8] UrK-*I-V
+0x0012243C [9] KIT(,M-RH
+0x001224E3 [8] ONUHU(,M
+0x0012255C [8] UrK-*I-V
+0x001227A9 [8] 0]Bpwwww
+0x0012323D [8] %E8S.AxV
+0x0012338A [8] UrK-*I-V
+0x00123702 [8] UrK-*I-V
+0x0012371E [8] WHI-I-R(
+0x00123825 [8] UrK-*I-V
+0x00123838 [9] s-.NUH-JT
+0x00124192 [8] UrK-*I-V
+0x00124341 [8] UrK-*I-V
+0x0012445E [8] UrK-*I-V
+0x00124C76 [8] UrK-*I-V
+0x00124F1D [8] UrK-*I-V
+0x00124F41 [9] @25W!*575
+0x0012588E [10] |M`cpsbab@
+0x001259CE [8] UrK-*I-V
+0x00125AEE [8] UrK-*I-V
+0x00125B06 [16] OIU(JM.-H-J,R()M
+0x00125E9F [10] '!<yofffff
+0x00125F33 [8] UrK-*I-V
+0x00126003 [9] VUUUUUUUU
+0x001261FA [8] UrK-*I-V
+0x00126C91 [8] UrK-*I-V
+0x00126D15 [8] UrK-*I-V
+0x001270F9 [8] UrK-*I-V
+0x00127117 [11] T(,MUHLNLJ,
+0x00127207 [8] UrK-*I-V
+0x001274E1 [8] UrK-*I-V
+0x0012776E [8] UrK-*I-V
+0x001279B4 [8] 479?/#59
+0x00127F92 [8] UrK-*I-V
+0x00128263 [8] UrK-*I-V
+0x001284CA [8] UrK-*I-V
+0x00128620 [8] UrK-*I-V
+0x001296DC [8] UrK-*I-V
+0x0012975E [8] i{Dpv3Pn
+0x00129808 [8] UrK-*I-V
+0x00129B75 [10] Hi/*L7DwwD
+0x00129E13 [8] UrK-*I-V
+0x00129FC0 [8] UrK-*I-V
+0x00129FDD [8] HM)JTHIU
+0x0012A1D2 [8] UrK-*I-V
+0x0012A3F1 [8] JO1T.BO>
+0x0012A67E [9] V5T~>w4F[
+0x0012A8CB [8] UrK-*I-V
+0x0012AA5C [11] 152j\Sc5[]1
+0x0012AE5D [8] UrK-*I-V
+0x0012B1D6 [8] UrK-*I-V
+0x0012B2F7 [8] UrK-*I-V
+0x0012B315 [9] WH-.ITH,,
+0x0012B32A [11] KIU(N-JT(,M
+0x0012B793 [8] UrK-*I-V
+0x0012BFD7 [8] UrK-*I-V
+0x0012BFEA [8] s-.ITHK-
+0x0012C051 [8] UrK-*I-V
+0x0012C677 [8] UrK-*I-V
+0x0012CB4C [8] UrK-*I-V
+0x0012CB61 [12] /RHN,-NTHITp
+0x0012CC94 [8] UrK-*I-V
+0x0012CCA8 [12] W(,MUHI-KUHK
+0x0012CE00 [8] UrK-*I-V
+0x0012D337 [9] /JTHI-.N,
+0x0012D62F [8] UrK-*I-V
+0x0012E0EF [8] uUUUUU]W
+0x0012E3A9 [10] Hi/*L7DwwD
+0x0012E54D [8] UrK-*I-V
+0x0012E68D [8] UrK-*I-V
+0x0012E71E [8] ,N,RHIUH
+0x0012E7C8 [8] UrK-*I-V
+0x0012E918 [9] KTH,)J,VH
+0x0012E9B7 [8] UrK-*I-V
+0x0012EB95 [8] UrK-*I-V
+0x0012EE9A [8] ,N,RHIUH
+0x0012F772 [10] a033333333
+0x0012FC0C [8] ^UUUUUUU
+0x0013050E [12] W(H,.N,RHI,,
+0x00130820 [8] BIjQQfYj
+0x001308EB [8] J3ATnifI
+0x001309FE [12] 8M""""""2MF/
+0x00130E69 [21] Br~^qfJjQ"PEnb:PIAQ~f
+0x00131081 [8] fffffff6
+0x00131341 [10] R@5a@mzzz6
+0x00131868 [10] T(N-U(H,.N
+0x00131CA1 [8] tu+***tu
+0x00131DBE [8] 9EA&8pm4
+0x001324C8 [8] 9FflHn`d
+0x001330D7 [8] UrK-*I-V
+0x001330F4 [9] +NM/MU(NU
+0x001331E4 [8] UrK-*I-V
+0x00133382 [8] UrK-*I-V
+0x00133624 [8] UrK-*I-V
+0x001338C4 [8] UrK-*I-V
+0x001339B9 [8] UrK-*I-V
+0x001339CB [8] ONUHUHIU
+0x00133A88 [11] ]r~^Ij2PMr~
+0x00133B35 [8] UrK-*I-V
+0x00133D65 [8] UrK-*I-V
+0x00133EA9 [8] UrK-*I-V
+0x00134033 [8] UrK-*I-V
+0x00134457 [8] UrK-*I-V
+0x00134517 [8] /RpK-*I-
+0x00134525 [9] WH-.H-J,K
+0x0013459C [8] UrK-*I-V
+0x00134920 [8] UrK-*I-V
+0x001349AF [8] /RpK-*I-
+0x00134A4D [8] UrK-*I-V
+0x00134B19 [11] +1_!'?91G!?
+0x00134BAE [8] UrK-*I-V
+0x00134F07 [8] UrK-*I-V
+0x001353D1 [9] s-.H-JUTT
+0x00135C79 [8] UrK-*I-V
+0x0013644A [8] UrK-*I-V
+0x00136464 [9] T(I,JIUHI
+0x00136621 [8] UrK-*I-V
+0x001366E8 [8] /U(NLJ-R
+0x001368C0 [8] UrK-*I-V
+0x00136D2C [8] UrK-*I-V
+0x00136F39 [8] UrK-*I-V
+0x00136F4D [13] H,JMNU(,MU()M
+0x00136FE1 [9] /RpK-*I-V
+0x00137061 [10] ONUH-.ITHJ
+0x00137160 [8] UrK-*I-V
+0x0013717E [16] W(H-JNMJ-RHTHI-*
+0x0013741F [8] hfffffff
+0x001374C7 [8] UrK-*I-V
+0x00137B56 [8] UrK-*I-V
+0x00137D92 [8] UrK-*I-V
+0x00137DB0 [11] W(,MUH-.IT(
+0x00137F50 [8] UrK-*I-V
+0x00137FFE [8] W(,MUHI-
+0x00138186 [8] UrK-*I-V
+0x001381A7 [15] Q(N,,MUHTH-.HLI
+0x001381BE [12] W(H,.N,JTHI-
+0x001388BC [8] UrK-*I-V
+0x00138D1C [8] ,.NU(,MU
+0x00139125 [9] SUUUUUUu.
+0x001391FC [8] (`* ~qbE
+0x001395B6 [8] H,JMNUHK
+0x001397ED [9] Bnbf1P}Uf
+0x0013A19D [9] "U!9?73=_
+0x0013A6FE [8] i`cp]U@W
+0x0013AF5C [11] 2Mfffffff6M
+0x0013B399 [10] )@^EAfbrb>
+0x0013B3A6 [16] AiQfZfrbQ"PMni^J
+0x0013D45C [8] cA~qI~N~
+0x0013DE90 [8] q7yi9zE!
+0x0013E3F1 [8] fffffff6
+0x0013E4EA [8] +UHTH-.I
+0x0013E768 [11] /RpK-*I-VTp
+0x0013E8F6 [9] OIU(H,.N,
+0x0013EAA7 [10] s/JLN,VHT(
+0x0013EAD3 [10] WHL/JLIMN-
+0x0013ED33 [10] H,JMNU(,MU
+0x0013ED63 [9] OIU(H,.N,
+0x0013F23D [9] +ILIU(.-H
+0x0013F98A [10] EDDDDDkgMn
+0x00140527 [11] sK-RTpU(I-*
+0x0014089C [8] UrK-*I-V
+0x001409BE [8] UrK-*I-V
+0x00140C30 [8] UrK-*I-V
+0x00140C52 [8] W(,MUH-.
+0x00140DAA [8] UrK-*I-V
+0x00141061 [8] UrK-*I-V
+0x00141C03 [8] UrK-*I-V
+0x0014216D [8] UrK-*I-V
+0x0014247D [8] UrK-*I-V
+0x00142552 [9] 7,5)5%_!-
+0x00142605 [8] UrK-*I-V
+0x0014263F [10] ,N,KT(HMO,
+0x0014272E [10] qNQ11Vi&be
+0x001429B5 [8] UrK-*I-V
+0x00142B39 [8] UrK-*I-V
+0x00143028 [8] uu+***tu
+0x001433E9 [9] y63333333
+0x00143598 [8] UrK-*I-V
+0x0014370F [8] UrK-*I-V
+0x00143848 [8] UrK-*I-V
+0x00143B71 [8] UrK-*I-V
+0x00143DE6 [8] UrK-*I-V
+0x00143E0B [14] H,JMNU(,MUH,..
+0x0014413C [8] UrK-*I-V
+0x00144155 [13] ,.NU(,MU(J-.I
+0x0014441F [9] a03333333
+0x001444F0 [8] UrK-*I-V
+0x001449CF [8] UrK-*I-V
+0x00144AA0 [9] BA>HyAjJf
+0x00144C7C [10] R<xoffffff
+0x00144D2C [8] UrK-*I-V
+0x00144DBD [8] UrK-*I-V
+0x00144DDA [13] SpL/JLIMNTHTp
+0x00144FEB [14] M,V(H,JMNU(,MU
+0x0014508F [8] UrK-*I-V
+0x001451E7 [8] UrK-*I-V
+0x001451FF [17] SHTHN,-NTHI-KU(N-
+0x0014530A [8] UrK-*I-V
+0x00145641 [8] UrK-*I-V
+0x001457A0 [8] UrK-*I-V
+0x00145C92 [8] UrK-*I-V
+0x00145F3D [8] UrK-*I-V
+0x001460A6 [8] UrK-*I-V
+0x001479C9 [8] UrK-*I-V
+0x00147B76 [8] UrK-*I-V
+0x001484CF [8] UrK-*I-V
+0x0014877A [8] UrK-*I-V
+0x00148798 [8] WH-.IU(I
+0x00148857 [11] Tf^ZjQ^bf1W
+0x00148D88 [8] UrK-*I-V
+0x00148D99 [11] H,JMNU(,MUH
+0x00148E31 [10] SPw,NTHIUp
+0x00148E3E [8] M,Vp-NN,
+0x00148E58 [11] ONUH-.ITH,,
+0x00148EBB [8] UrK-*I-V
+0x001490B6 [8] UrK-*I-V
+0x001492C0 [8] ?;}%SGmI
+0x00149331 [12] B~RQfzbJ>\NQ
+0x001493CE [8] UrK-*I-V
+0x001495DB [8] UrK-*I-V
+0x00149807 [9] @^qfIibrb
+0x0014997D [8] UrK-*I-V
+0x00149D08 [8] )6-)vnB7
+0x00149FA4 [12] 4U!19#QG!=5/
+0x0014A01C [8] UrK-*I-V
+0x0014A33F [10] hU~A~Qf"P*
+0x0014B28D [8] UrK-*I-V
+0x0014B41D [8] UrK-*I-V
+0x0014B432 [10] ONUH-.ITHJ
+0x0014B582 [8] UrK-*I-V
+0x0014BB3F [8] 5k-OU"<W
+0x0014BBEB [8] w&SbX).l
+0x0014BD02 [8] UrK-*I-V
+0x0014BF9F [8] UrK-*I-V
+0x0014C10A [11] hKqq*W^jqIb
+0x0014C248 [8] UrK-*I-V
+0x0014C34A [8] UrK-*I-V
+0x0014C44B [8] UrK-*I-V
+0x0014C45F [8] H,JMNU(,
+0x0014C5B1 [8] UrK-*I-V
+0x0014CB35 [8] UrK-*I-V
+0x0014CB60 [9] JTH-.IT(J
+0x0014CBDA [8] UrK-*I-V
+0x0014CD17 [8] UrK-*I-V
+0x0014D23E [8] UrK-*I-V
+0x0014D544 [8] UrK-*I-V
+0x0014D72F [8] UrK-*I-V
+0x0014D7F5 [9] d::+(Kk(^
+0x0014D9DD [8] UrK-*I-V
+0x0014DBD6 [8] UrK-*I-V
+0x0014DD6E [8] UrK-*I-V
+0x0014DF26 [8] UrK-*I-V
+0x0014E1DD [8] UrK-*I-V
+0x0014E233 [9] Br~^qIQif
+0x0014E405 [8] UrK-*I-V
+0x0014E7DA [8] UrK-*I-V
+0x0014ECEF [8] UrK-*I-V
+0x0014ED09 [9] T(I,JIUHI
+0x0014F055 [8] UrK-*I-V
+0x0014F072 [8] /UHI-I-R
+0x0014F193 [8] UrK-*I-V
+0x0014F1A9 [9] KIT(,M-RH
+0x0014F8B6 [10] M,V((J-H,J
+0x0014F963 [8] UrK-*I-V
+0x0014FAB5 [8] UrK-*I-V
+0x0014FC29 [8] UrK-*I-V
+0x0015022C [8] UrK-*I-V
+0x00150C96 [10] Hi/*L7DwwD
+0x00150D3E [8] '3-393GG
+0x00150F34 [8] UrK-*I-V
+0x00151011 [8] UrK-*I-V
+0x0015261E [12] HUH-.N,V(H-.
+0x001527F9 [12] %E@Ff^YbJfQj
+0x00153974 [8] yoffffff
+0x00153FB0 [12] 7kUUUUUUUUUU
+0x00154165 [10] 7333333333
+0x001546D6 [8] BJjQQ~Ib
+0x001547E4 [9] xofffffff
+0x001554E6 [10] O}offfffff
+0x00155E42 [8] UrK-*I-V
+0x00156056 [11] BTjnj"HmjV"
+0x001566E2 [8] BQjnjJf~
+0x00156CCE [9] WfJJ"T;P1
+0x001571AC [10] K-.NUH-.IL
+0x0015723A [9] HUHTHIMK-
+0x00157688 [13] /V(.-H-J,B2HQ
+0x00157714 [9] Zp6K"6Y:w
+0x00157886 [9] 8.Z@HaZ8P
+0x00158356 [8] r,NTHIUp
+0x00158361 [8] M,Vp-NN,
+0x0015864E [8] qbAQjqqb
+0x00158B1A [9] NUH-U(N-*
+0x00158D8D [8] T$;|>VsG
+0x001598C7 [14] /R(,MUH-.ITH,,
+0x00159B33 [8] $883Sdwc
+0x00159C11 [8] ;t6qp6c"
+0x00159C5C [9] ZDDDDDDkg
+0x00159FCB [8] Qd#=re#L
+0x0015AB14 [9] ),M-RH.-.
+0x0015B05C [8] /RpK-*I-
+0x0015B0D8 [8] UrK-*I-V
+0x0015B5A6 [8] UrK-*I-V
+0x0015B5CD [8] HT(,MUHI
+0x0015B971 [8] UrK-*I-V
+0x0015BA59 [11] +IU(H-JNMJ-
+0x0015BB85 [8] UrK-*I-V
+0x0015C189 [8] UrK-*I-V
+0x0015C1A1 [8] Sp-.H-JU
+0x0015C2B0 [8] UrK-*I-V
+0x0015C35D [8] UrK-*I-V
+0x0015C524 [8] UrK-*I-V
+0x0015C790 [8] UrK-*I-V
+0x0015CA3C [8] UrK-*I-V
+0x0015CBE2 [8] UrK-*I-V
+0x0015CDC2 [8] UrK-*I-V
+0x0015CDD4 [12] W(,MUH-.ITHK
+0x0015CE42 [8] UrK-*I-V
+0x0015D226 [8] UrK-*I-V
+0x0015D551 [8] UrK-*I-V
+0x0015D684 [8] UrK-*I-V
+0x0015D695 [12] W(,MUH-.ITHL
+0x0015DABD [8] UrK-*I-V
+0x0015DC3B [10] sTp-.HLITH
+0x0015DCA7 [8] UrK-*I-V
+0x0015DDA5 [8] UrK-*I-V
+0x0015DDE8 [8] HG!5'U!%
+0x0015DDFB [10]  1%Q!%_!8?
+0x0015DE6C [10] sTp-.HLITH
+0x0015DEE8 [8] UrK-*I-V
+0x0015DF06 [8] WHT(J-.H
+0x0015E0DC [12] JI-.NTH-.HLI
+0x0015E168 [8] UrK-*I-V
+0x0015E4D2 [8] UrK-*I-V
+0x0015EC86 [10] w'kUUUUUUU
+0x0015EDA7 [8] UrK-*I-V
+0x0015EF02 [8] UrK-*I-V
+0x0015EF89 [8] UrK-*I-V
+0x0015F408 [10] ONUH-.ITHJ
+0x0015F4F1 [8] UrK-*I-V
+0x0015F830 [8] UrK-*I-V
+0x0015F9EF [8] UrK-*I-V
+0x0015FA14 [9] /U(JM.M,R
+0x0015FEBE [8] UrK-*I-V
+0x00160044 [8] UrK-*I-V
+0x00160262 [8] UrK-*I-V
+0x001602DB [8] UrK-*I-V
+0x0016049F [11] +_!-3W!%U!/
+0x0016059B [8] UrK-*I-V
+0x00160D79 [8] UrK-*I-V
+0x00160FDB [8] hIjQnf^~
+0x00161061 [8] UrK-*I-V
+0x00161089 [11] BbrbR~)\VQW
+0x001614D6 [8] UrK-*I-V
+0x0016175C [8] UrK-*I-V
+0x00161875 [8] UrK-*I-V
+0x00161C14 [8] UrK-*I-V
+0x00161DC5 [8] UrK-*I-V
+0x001629B9 [8] UrK-*I-V
+0x00162A97 [10] bpH)P{fqq>
+0x00162C18 [8] UrK-*I-V
+0x00162F73 [8] UrK-*I-V
+0x00163155 [8] UrK-*I-V
+0x00163166 [8] H,JTHI-*
+0x00163200 [9] QQ]m2mcWi
+0x001632C8 [8] UrK-*I-V
+0x0016390D [8] UrK-*I-V
+0x00163A2D [8] UrK-*I-V
+0x00163A56 [8] @*%_!8?)
+0x00163CED [8] Tn%+#"t1
+0x00164991 [9] kDkTDKFJy
+0x00165341 [10] n\)rpgkUUU
+0x00165CC6 [8] /YeQ0-rh
+0x00165D4B [8] MGeIL.Ea
+0x00165FEC [8] }8uniSpE
+0x00166F30 [8] 9MiA X&-
+0x0016733A [8] )JLOT(,M
+0x0016812D [12] H,JMNU(,MUHK
+0x001687E1 [8] Qdo'cTUU
+0x00168F6D [8] SH,V()J-
+0x00169308 [10] TH-.IT(.MT
+0x00169322 [8] -(JU(,MU
+0x00169658 [10] 3:J .9;7u{
+0x00169F34 [9] WHIUHNLNL
+0x0016A19B [8] _bqqiqI~
+0x0016A624 [10] -3_!%U!(31
+0x0016A6BB [8] WHIU()J-
+0x0016A6C6 [8] )JLOT()M
+0x0016AD26 [8] T(.MTH,-
+0x0016AD3A [9] OIU(H,.N,
+0x0016ADBF [10] ,NTHIU(H,.
+0x0016AF42 [9] @`=X8c&HU
+0x0016BD13 [8] HI,RH-.N
+0x0016BD20 [10] WHIUp/M-*J
+0x0016CAAF [8] cZz\yUb%
+0x0016CC97 [9] OIU(H,.N,
+0x0016D0E5 [9] v'r!&rg9!
+0x0016D59E [8] }DDDDDDD
+0x0016D714 [12] NU((JMK-JUHI
+0x0016D7B8 [8] }8uniSpE
+0x0016D9B3 [10] QHIUHNLITH
+0x0016DA41 [11] vi}.y4gw2 9
+0x0016DB0B [8] N-JT(,MU
+0x0016F09C [8] UrK-*I-V
+0x0016F129 [8] UrK-*I-V
+0x0016F14B [9] /J,RH,V(*
+0x0016F23E [8] e<#pY4JI
+0x0016F6EE [10] uu+*****tu
+0x0016F795 [8]  1/#U!Q!
+0x0016FB0A [9] URtK,*N,R
+0x0016FB38 [10] /-)J,V(H-.
+0x00170350 [8] @tQif^b1
+0x0017139A [8] PfX)-lq{
+0x00172521 [9] LO,RH,V(*
+0x00172D7F [12] KLIT(,MUH-U(
+0x0017352C [12] /V(H,JTH,V(*
+0x001735E2 [9] Bbr~nAb^F
+0x00174A8C [11] BnfqIjQf~1H
+0x00174E41 [9] wgkUUUUUU
+0x00174FC9 [13] OJTTp-UH-.I,K
+0x001751AD [13] $9C!91/95'1)'
+0x0017580F [8] U(,MU()J
+0x0017582D [11] bBHQbz"P>Q!
+0x00176B4A [9] LO,RH,V(*
+0x00176D6D [11] JTH-.I,KTHN
+0x0017736E [9] /J,RH,V(*
+0x001773D5 [9] Brb^rjNbR
+0x00177585 [12] c6F&8@T,+R~j
+0x001775F1 [12] c6F&8@T,+R~j
+0x0017765D [12] c6F&8@T,+R~j
+0x001777B6 [12] c6F&8@T,+R~j
+0x001780FB [9] Bbr~nAb^F
+0x00178F85 [8] KMN-RH,,
+0x001793F7 [10] ,M-R(,MUH-
+0x001794D7 [10] (1)1'#_!9?
+0x00179506 [9] Brb^rjNbR
+0x00179A0D [11] _^YjqIfzbrb
+0x00179D7A [9] WH-.H-J,J
+0x0017A53B [9] LO,RH,V(*
+0x0017A7AA [9] IacHRuaC,
+0x0017BF6E [8] ezK{*-Z;
+0x0017C520 [9] WHIUH/JLN
+0x0017C670 [8] EDDDDDkk
+0x0017E193 [8] 24Z*;<N%
+0x0017E336 [12] H,JMNU(,MU(I
+0x0017E353 [9] OIU(H,.N,
+0x0017E3EC [9] NU(,M-RHK
+0x0017E67F [8] BQ~^Jb^J
+0x0017E9B8 [14] BqiAjQf~Q*P.1_
+0x0017F09D [9] OIU(H,.N,
+0x0017F2D0 [8] +UNwr(C,
+0x0017F7D1 [9] /-)JT(H-.
+0x0017F929 [9] /-)JT(H-.
+0x0017FA95 [9] ((((((((1
+0x0018044C [10] ,?9UO!813Q
+0x0018069F [12] H,JMNU(,MU(I
+0x001806BC [9] OIU(H,.N,
+0x001809FF [8] {ijQQjfQ
+0x00180A0D [9] BIQbRbNF>
+0x00180DB8 [8] HI,RH-.N
+0x00180DC5 [10] WHIUp/M-*J
+0x00180F1A [8] BzijQQjf
+0x0018116D [8] WHIU(H,.
+0x00181212 [12] H,JMNU(,MU()
+0x00181236 [9] OIU(H,.N,
+0x001816A0 [12] I-KUH-.NU(HM
+0x0018176C [9] P^YjqIfzb
+0x001839F7 [8] /U(H-JI-
+0x00184862 [12] W(,MUH-.ITHK
+0x00184D22 [8] BIQbRbNF
+0x00185160 [8] P491)5'_
+0x00185386 [9] W(,MU(NUH
+0x0018539C [9] WHIUpLJLI
+0x00185E2B [11] ONUH,IU(,MU
+0x00186318 [12] W(,MUH-.ITHK
+0x001863C6 [9] )*KT(H,)*
+0x00186C0D [14] ONU(NLJU(,MUH-
+0x00186CF6 [8] nnbQf^F"
+0x00187442 [8] /U(N-R((
+0x00187C56 [10] H,JMNU(,MU
+0x00187F5C [9] UUUUUUUUk
+0x00188437 [8] _j^J>Wr~
+0x001885BA [8] 73333333
+0x00188CD6 [9] O!1S!%U!/
+0x001890BC [9] @873/1%_!
+0x001897C2 [9] BJjqrb^qb
+0x00189C98 [9] i>aPmIx5/
+0x0018A171 [8] W(,MUH-J
+0x0018A180 [9] QHIUpLJLI
+0x0018A9B8 [8] @*5W!73W
+0x0018ABA6 [9] --N,RHIUH
+0x0018BE54 [10] 85'591_!%U
+0x0018C7AA [8] L3akAe0u
+0x0018E258 [10] 2Qd8(tV8={
+0x0018E2F7 [8] Rqv|HPGD
+0x0018E5B8 [8] UrK-*I-V
+0x0018E73D [8] UrK-*I-V
+0x0018E8DC [8] UrK-*I-V
+0x0018EBFF [8] UrK-*I-V
+0x0018EC1A [8] W(,MUHI-
+0x0018ECB3 [8] /V()J-Vp
+0x0018EED7 [8] UrK-*I-V
+0x0018EEEB [9] W(,MU((JM
+0x0018F051 [8] UrK-*I-V
+0x0018F277 [8] UrK-*I-V
+0x0018F297 [9] W(,MU((JM
+0x0018F3F0 [8] UrK-*I-V
+0x0018F421 [9] /-)JT(H-.
+0x0018F878 [8] UrK-*I-V
+0x0018F88D [11] WH-.ITHUHTH
+0x0018FA1D [8] UrK-*I-V
+0x0018FADD [15] Br~^qfz"Wr~nAQb
+0x0018FAED [8] BbNzi.P-
+0x0018FB84 [8] UrK-*I-V
+0x00191937 [12] H,JMNU(,MUHK
+0x0019269A [9] Iacp\uae)
+0x00193192 [8] RbWI[q|x
+0x00193CF7 [9] T"yyk%kEH
+0x00194346 [10] u&*3rKUQee
+0x00194891 [11] H,JMNU(,MUH
+0x001948B2 [10] TH-.IT(.MT
+0x0019495E [12] Cw+;gEP9(#hB
+0x001952DF [9] Tk`k93/6n
+0x00196179 [8] ZpxWqriN
+0x001961A7 [9] MAQjr~^Jf

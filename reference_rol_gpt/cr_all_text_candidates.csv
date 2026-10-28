@@ -1,0 +1,923 @@
+﻿file,offset,bytes,status,source,reference
+a.cr,0x001DAB03,18,Japanese,x彡`g`hｰ聽d`,x彡`g`hｰ聽d`
+a.cr,0x001DAB2F,18,Japanese,x彡`g`hｰS綸`,x彡`g`hｰS綸`
+a.cr,0x001DAB5B,18,Japanese,x彡臣``ｰ鉗d`,x彡臣``ｰ鉗d`
+a.cr,0x001DAB9B,18,Japanese,x彡`g`hｰ聽d`,x彡`g`hｰ聽d`
+a.cr,0x001DABF3,18,Japanese,x彡臣``ｰ_ﾆﾄﾀ,x彡臣``ｰ_ﾆﾄﾀ
+a.cr,0x001DAC09,18,Japanese,x彡臣``ｰ_ﾆﾄﾀ,x彡臣``ｰ_ﾆﾄﾀ
+a.cr,0x001DAC4B,18,Japanese,x彡秦``ｰ鈑d`,x彡秦``ｰ鈑d`
+a.cr,0x001DAC61,18,Japanese,x彡`d``ｰ鈞d`,x彡`d``ｰ鈞d`
+a.cr,0x001EA39B,109,Japanese,x慱詁`,x慱詁`
+a.cr,0x001EAD98,101,Japanese,x罹稙`,x罹稙`
+a.cr,0x001EDD64,80,Japanese,x彡瀏`,x彡瀏`
+a.cr,0x001EDDB8,110,Japanese,x彡虍`,x彡虍`
+a.cr,0x001EDEA3,119,Japanese,x懊稟`,x懊稟`
+a.cr,0x001F9BD8,35,Japanese,x恣鈊ﾈﾀﾊﾀﾀﾐﾜﾘﾜﾍ,x恣鈊ﾈﾀﾊﾀﾀﾐﾜﾘﾜﾍ
+a.cr,0x001FA13D,39,Japanese,x徭愑ﾈﾀﾉﾀﾀﾐﾜﾕﾜﾚ\ﾑﾜﾅ,x徭愑ﾈﾀﾉﾀﾀﾐﾜﾕﾜﾚ\ﾑﾜﾅ
+a.cr,0x001FA324,33,Japanese,x恚臠b`f``陜ﾃ,x恚臠b`f``陜ﾃ
+a.cr,0x001FB0C6,39,Japanese,x悍/ﾌﾄﾀﾉﾀﾀﾐ\ﾒﾜﾙﾜﾝ愧,x悍/ﾌﾄﾀﾉﾀﾀﾐ\ﾒﾜﾙﾜﾝ愧
+a.cr,0x001FB788,37,Japanese,x戔ｮﾄﾄﾀﾎﾀﾀﾐ慵\ﾔﾜﾍ,x戔ｮﾄﾄﾀﾎﾀﾀﾐ慵\ﾔﾜﾍ
+a.cr,0x001FB92A,39,Japanese,x彡Tfb濺``h絈vl系禛,x彡Tfb濺``h絈vl系禛
+a.cr,0x001FB955,35,Japanese,x彡Rfb`e``h絜.b,x彡Rfb`e``h絜.b
+a.cr,0x001FB97C,37,Japanese,x彡Vfb`g``hnlvn使,x彡Vfb`g``hnlvn使
+a.cr,0x001FBB74,39,Japanese,x懊Wfb濺``hｮh絜絈餐,x懊Wfb濺``hｮh絜絈餐
+a.cr,0x001FBC93,41,Japanese,x恣Ufb瀁``hﾎo刺Nmvj槊,x恣Ufb瀁``hﾎo刺Nmvj槊
+a.cr,0x001FBCC0,39,Japanese,x恣Sfb濺``hｮk絈系伺,x恣Sfb濺``hｮk絈系伺
+a.cr,0x001FBD6C,41,Japanese,x彜Rfb瀁``hvnNhvk靖餐,x彜Rfb瀁``hvnNhvk靖餐
+a.cr,0x001FBD99,39,Japanese,x彜Vfb濺``hｮk.lnn禛,x彜Vfb濺``hｮk.lnn禛
+a.cr,0x001FBDED,41,Japanese,x彜Ufb瀁``hNkvjNoｮm槊,x彜Ufb瀁``hNkvjNoｮm槊
+a.cr,0x001FBE45,39,Japanese,x彜Wfb濺``hﾎmｮnﾎj掲,x彜Wfb濺``hﾎmｮnﾎj掲
+a.cr,0x001FBE99,39,Japanese,x慱Tfb濺``hNkvj系ｮf,x慱Tfb濺``hNkvj系ｮf
+a.cr,0x001FBEC4,39,Japanese,x慱Rfb濺``hﾎh靖vl禛,x慱Rfb濺``hﾎh靖vl禛
+a.cr,0x001FBF21,39,Japanese,x慱Qfb濺``hvn靖系ｮe,x慱Qfb濺``hvn靖系ｮe
+a.cr,0x001FBF4C,37,Japanese,x慱Ufb`g``h精系n`,x慱Ufb`g``h精系n`
+a.cr,0x001FBF75,35,Japanese,x慱Sfb`e``hnl禛,x慱Sfb`e``hnl禛
+a.cr,0x001FC0FA,39,Japanese,x惶Tfb濺``h精NjNnvb,x惶Tfb濺``h精NjNnvb
+a.cr,0x001FC125,39,Japanese,x惶Rfb濺``h竫刺Nmvb,x惶Rfb濺``h竫刺Nmvb
+a.cr,0x001FC1A8,37,Japanese,x惶Ufb`g``hvl絜福,x惶Ufb`g``hvl絜福
+a.cr,0x001FC1FE,39,Japanese,x惶Wfb濺``h.i精絜ﾎ`,x惶Wfb濺``h.i精絜ﾎ`
+a.cr,0x001FC258,39,Japanese,x徭Tfb濺``h.ivh.j福,x徭Tfb濺``h.ivh.j福
+a.cr,0x001FC306,39,Japanese,x徭Wfb濺``hNk絜.iv`,x徭Wfb濺``hNk絜.iv`
+a.cr,0x001FC35C,37,Japanese,x懽Tfb`g``hｮh絜.a,x懽Tfb`g``hｮh絜.a
+a.cr,0x001FC385,37,Japanese,x懽Rfb`g``h始權愴,x懽Rfb`g``h始權愴
+a.cr,0x001FC3AE,37,Japanese,x懽Vfb`g``hｮj絜餐,x懽Vfb`g``hｮj絜餐
+a.cr,0x001FC45A,37,Japanese,x懽Wfb`g``h精絜ｮf,x懽Wfb`g``h精絜ｮf
+a.cr,0x001FC8E9,39,Japanese,x恚ｳbb濺``h精vm靖餐,x恚ｳbb濺``h精vm靖餐
+a.cr,0x001FC9C5,37,Japanese,x廳ｷbb`g``hﾎk.j禛,x廳ｷbb`g``hﾎk.j禛
+a.cr,0x001FC9EE,37,Japanese,x慷ｰbb`g``h姉ﾎj禛,x慷ｰbb`g``h姉ﾎj禛
+a.cr,0x001FCA6B,37,Japanese,x慷ｶbb`g``h絜ﾎl槊,x慷ｶbb`g``h絜ﾎl槊
+a.cr,0x001FCABF,37,Japanese,x慷ｵbb`g``h竫史禛,x慷ｵbb`g``h竫史禛
+a.cr,0x001FCDB1,39,Japanese,x忰ｷbb濺``hｮh絜絈餐,x忰ｷbb濺``hｮh絜絈餐
+a.cr,0x001FCE2C,37,Japanese,x很ｲbb`g``hvoｮk槊,x很ｲbb`g``hvoｮk槊
+a.cr,0x001FCEA9,35,Japanese,x很ｵbb`e``h絈ﾎ`,x很ｵbb`e``h絈ﾎ`
+a.cr,0x001FCED0,41,Japanese,x罹ｵbb瀁``hﾎo刺Nmvj槊,x罹ｵbb瀁``hﾎo刺Nmvj槊
+a.cr,0x001FCEFD,39,Japanese,x罹ｳbb濺``hｮk絈系伺,x罹ｳbb濺``hｮk絈系伺
+a.cr,0x001FD43B,39,Japanese,x彈oﾅﾄﾀﾉﾀﾀﾐ\ﾒﾜﾙﾜﾝ愧,x彈oﾅﾄﾀﾉﾀﾀﾐ\ﾒﾜﾙﾜﾝ愧
+a.cr,0x001FD81B,33,Japanese,x戔栁ﾄﾀﾌﾀﾀﾐ霖,x戔栁ﾄﾀﾌﾀﾀﾐ霖
+a.cr,0x001FD890,33,Japanese,x忰憩b`f``陜ﾃ,x忰憩b`f``陜ﾃ
+a.cr,0x001FD930,39,Japanese,x彡.db濺``h竫vl權慘,x彡.db濺``h竫vl權慘
+a.cr,0x001FD95B,37,Japanese,x彡)db`g``h始nlvd,x彡)db`g``h始nlvd
+a.cr,0x001FD9AB,37,Japanese,x懽-eb`g``h士權\ﾄ,x懽-eb`g``h士權\ﾄ
+a.cr,0x001FD9D4,33,Japanese,x罹lab`f``陜ﾃ,x罹lab`f``陜ﾃ
+a.cr,0x00209448,110,Japanese,x很疎`瀑``h.m絈vmvlNj.c`b臣,x很疎`瀑``h.m絈vmvlNj.c`b臣
+a.cr,0x002095FC,96,Japanese,x罹紳``g``h.i靖vd瀉I,x罹紳``g``h.i靖vd瀉I
+a.cr,0x0020D77F,93,Japanese,x彡``d`臑``靠鐔ｧ0uJ郤ｦ,x彡``d`臑``靠鐔ｧ0uJ郤ｦ
+a.cr,0x0021CA90,33,Japanese,"x彡g``h姉靖槊ﾀd6柳ｦﾏph,k:ﾃ","x彡g``h姉靖槊ﾀd6柳ｦﾏph,k:ﾃ"
+a.cr,0x0021D193,33,Japanese,"x彡g``h始權愴ﾀd6柳ｶLmh,k:ﾃ","x彡g``h始權愴ﾀd6柳ｶLmh,k:ﾃ"
+a.cr,0x00244661,85,Japanese,"x彡c``H,Iv2```撝","x彡c``H,Iv2```撝"
+a.cr,0x0024470E,83,Japanese,"x彡c``H,Iv4```撝","x彡c``H,Iv4```撝"
+a.cr,0x00246481,83,Japanese,"x彡c``H,Iv4```撝","x彡c``H,Iv4```撝"
+a.cr,0x0024652C,82,Japanese,"x彡c``H,Iv2```撝","x彡c``H,Iv2```撝"
+a.cr,0x0024779C,85,Japanese,"x彡c``H,Iv1``撝ﾀﾀﾈ","x彡c``H,Iv1``撝ﾀﾀﾈ"
+a.cr,0x00249E98,83,Japanese,"x彡c``H,Iv4``瓔ﾋ","x彡c``H,Iv4``瓔ﾋ"
+a.cr,0x00249FB3,83,Japanese,"x彡c``H,Iv6``糺ﾋ","x彡c``H,Iv6``糺ﾋ"
+a.cr,0x0024EA69,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x0024EBDD,25,Japanese,x懊```(ﾊ/悔ｱ4``ｸﾀﾎﾀ,x懊```(ﾊ/悔ｱ4``ｸﾀﾎﾀ
+a.cr,0x0024EC33,23,Japanese,"x彡c``H,Iv2``佶ﾈﾀ","x彡c``H,Iv2``佶ﾈﾀ"
+a.cr,0x0024ECED,22,Japanese,x彡e``H-30``佶ﾈﾀ,x彡e``H-30``佶ﾈﾀ
+a.cr,0x0024ED07,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x002502CD,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x0025038D,26,Japanese,x懊d``HﾉOIO5功a`ﾘﾀﾂﾀ,x懊d``HﾉOIO5功a`ﾘﾀﾂﾀ
+a.cr,0x002503AB,26,Japanese,x懊d``HﾉOIO5詣b`ﾘﾀﾂﾀ,x懊d``HﾉOIO5詣b`ﾘﾀﾂﾀ
+a.cr,0x002510D5,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x002513A9,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x00251461,22,Japanese,x彡e``H-30``佶ﾈﾀ,x彡e``H-30``佶ﾈﾀ
+a.cr,0x002515BB,22,Japanese,x彡e``0265b`价ﾈﾀ,x彡e``0265b`价ﾈﾀ
+a.cr,0x00251607,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x00251723,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x002517D8,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x00251882,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x0025192C,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x00251A10,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x00251B27,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x00251B76,22,Japanese,x彡e``H-30b`佩ﾈﾀ,x彡e``H-30b`佩ﾈﾀ
+a.cr,0x00251BDA,23,Japanese,"x彡c``H,Iv6``佝ﾈﾀ","x彡c``H,Iv6``佝ﾈﾀ"
+a.cr,0x00251D63,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x00251D9B,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x00251ED4,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x00251FFB,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x00252016,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x0025214F,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x002521BD,23,Japanese,"x彡c``H,Iv2``佝ﾈﾀ","x彡c``H,Iv2``佝ﾈﾀ"
+a.cr,0x002521D8,23,Japanese,"x彡c``H,Iv6``佝ﾈﾀ","x彡c``H,Iv6``佝ﾈﾀ"
+a.cr,0x0025220E,23,Japanese,"x彡c``H,Iv3``佝ﾈﾀ","x彡c``H,Iv3``佝ﾈﾀ"
+a.cr,0x00252307,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x00252375,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x0025248D,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x00252582,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x0025259D,23,Japanese,"x彡c``H/M,Ja`伉ﾈﾀ","x彡c``H/M,Ja`伉ﾈﾀ"
+a.cr,0x0025C322,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C346,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C36A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C38E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C3B2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C3D6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C3FA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C41E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C442,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C466,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C48A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C4AE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C4D2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C4F6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C51A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C53E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C562,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C586,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C5AA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C5CE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C5F2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C616,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C63A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C65E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C682,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C6A6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C6CA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C6EE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C712,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C736,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C75A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C77E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C7A2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C7C6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C7EA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C80E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C832,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C856,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C87A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C89E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C8C2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C8E6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C90A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C92E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C952,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C976,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C99A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C9BE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025C9E2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CA06,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CA2A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CA4E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CA72,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CA96,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CABA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CADE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CB02,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CB26,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CB4A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CB6E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CB92,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CBB6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CBDA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CBFE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CC22,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CC46,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CC6A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CC8E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CCB2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CCD6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CCFA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CD1E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CD42,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CD66,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CD8A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CDAE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CDD2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CDF6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CE1A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CE3E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CE62,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CE86,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CEAA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CECE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CEF2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CF16,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CF3A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CF5E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CF82,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CFA6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CFCA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025CFEE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D012,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D036,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D05A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D07E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D0A2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D0C6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D0EA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D10E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D132,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D156,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D17A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D19E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D1C2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D1E6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D20A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D22E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D252,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D276,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D29A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D2BE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D2E2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D306,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D32A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D34E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D372,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D396,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D3BA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D3DE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D402,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D426,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D44A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D46E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D492,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D4B6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D4DA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D4FE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D522,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D546,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D56A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D58E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D5B2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D5D6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D5FA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D61E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D642,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D666,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D68A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D6AE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D6D2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D6F6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D71A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D73E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D762,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D786,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D7AA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D7CE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D7F2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D816,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D83A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D85E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D882,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D8A6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D8CA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D8EE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D912,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D936,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D95A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D97E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D9A2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D9C6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025D9EA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DA0E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DA32,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DA56,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DA7A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DA9E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DAC2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DAE6,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DB0A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DB2E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DB52,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DB76,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DB9A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DBBE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DBE2,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DC06,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DC2A,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DC4E,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DC72,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DC96,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DCBA,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DCDE,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DD02,30,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DD24,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DD48,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DD6C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DD90,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DDB4,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DDD8,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DDFC,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DE20,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DE44,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DE68,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DE8C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DEB0,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DED4,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DEF8,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DF1C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DF40,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DF64,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DF88,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DFAC,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DFD0,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025DFF4,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E018,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E03C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E060,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E084,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E0A8,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E0CC,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E0F0,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E114,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E138,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E15C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E180,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E1A4,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E1C8,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E1EC,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E210,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E234,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E258,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E27C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E2A0,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E2C4,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E2E8,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E30C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E330,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E354,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E378,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E39C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E3C0,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E3E4,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E408,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E42C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E450,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E474,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E498,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E4BC,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E4E0,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E504,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E528,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E54C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E570,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E594,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E5B8,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E5DC,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E600,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E624,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E648,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E66C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E690,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E6B4,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E6D8,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E6FC,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E720,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E744,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E768,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E78C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E7B0,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E7D4,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E7F8,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E81C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E840,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E864,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E888,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E8AC,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E8D0,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E8F4,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E918,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E93C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E960,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E984,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E9A8,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E9CC,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025E9F0,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EA14,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EA38,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EA5C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EA80,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EAA4,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EAC8,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EAEC,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EB10,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EB34,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EB58,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EB7C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EBA0,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EBC4,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EBE8,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EC0C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EC30,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EC54,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EC78,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EC9C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025ECC0,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025ECE4,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025ED08,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025ED2C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025ED50,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025ED74,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025ED98,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EDBC,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EDE0,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EE04,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EE28,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EE4C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EE70,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EE94,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EEB8,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EEDC,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EF00,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EF24,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EF48,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EF6C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EF90,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EFB4,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EFD8,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025EFFC,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F020,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F044,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F068,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F08C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F0B0,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F0D4,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F0F8,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F11C,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F140,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F164,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F337,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F35B,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F37F,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F3A3,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F3C7,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F3EB,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F40F,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F433,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F457,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F47B,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x0025F49F,32,Japanese,x懊鈎@,x懊鈎@
+a.cr,0x00266FE5,33,Japanese,x戔督ﾀﾈ,x戔督ﾀﾈ
+a.cr,0x002675DD,19,Japanese,x彡g``H三*10`,x彡g``H三*10`
+a.cr,0x0026763E,19,Japanese,x彡g``H三*10`,x彡g``H三*10`
+a.cr,0x0026C75F,21,Japanese,x懊d``ﾈMﾍ+済ﾍ/c,x懊d``ﾈMﾍ+済ﾍ/c
+a.cr,0x0026C78F,21,Japanese,x懊d``ﾈMﾍ+済ﾍ/c,x懊d``ﾈMﾍ+済ﾍ/c
+a.cr,0x0026CC86,22,Japanese,x懊b``ﾈLN弘*JMﾌf,x懊b``ﾈLN弘*JMﾌf
+a.cr,0x0026CDB6,22,Japanese,x懊b``(ﾎﾉﾌM弘L.a,x懊b``(ﾎﾉﾌM弘L.a
+a.cr,0x0026CDD0,22,Japanese,"x懊b``(ﾎﾉﾌM弘,ﾉf","x懊b``(ﾎﾉﾌM弘,ﾉf"
+a.cr,0x0026CDEA,20,Japanese,"x懊```H)J薫,ﾉf","x懊```H)J薫,ﾉf"
+a.cr,0x0026CE02,20,Japanese,x懊```H)J薫.ｪd,x懊```H)J薫.ｪd
+a.cr,0x0026CE34,21,Japanese,"x懊d``H)J薫ﾋ,Je","x懊d``H)J薫ﾋ,Je"
+a.cr,0x0026CE4D,20,Japanese,x懊```H)J薫.ｪd,x懊```H)J薫.ｪd
+a.cr,0x0026CEDA,20,Japanese,x懊```HﾍK弘ﾉLe,x懊```HﾍK弘ﾉLe
+a.cr,0x0026CF1C,21,Japanese,x懊d``(.O粧).Oa,x懊d``(.O粧).Oa
+a.cr,0x0026CF35,21,Japanese,x懊d``(.O粧-.Oa,x懊d``(.O粧-.Oa
+a.cr,0x0026CF98,22,Japanese,x懊b``ﾈM-Iﾌ16碓d,x懊b``ﾈM-Iﾌ16碓d
+a.cr,0x0026D00E,22,Japanese,"x懊b``H.J,ﾎ04軌b","x懊b``H.J,ﾎ04軌b"
+a.cr,0x0026D028,19,Japanese,"x彡g``H,ﾉ三ｬ`","x彡g``H,ﾉ三ｬ`"
+a.cr,0x0026D03F,21,Japanese,"x懊d``H,ﾉ煮).Oa","x懊d``H,ﾉ煮).Oa"
+a.cr,0x0026D058,21,Japanese,"x懊d``H,ﾉ煮-.Oa","x懊d``H,ﾉ煮-.Oa"
+a.cr,0x0026D170,20,Japanese,"x懊```ﾈH,ﾉ三ｬ`","x懊```ﾈH,ﾉ三ｬ`"
+a.cr,0x0026D188,22,Japanese,"x懊b``ﾈH,ﾉ煮).Oa","x懊b``ﾈH,ﾉ煮).Oa"
+a.cr,0x0026D1A2,22,Japanese,"x懊b``ﾈH,ﾉ煮-.Oa","x懊b``ﾈH,ﾉ煮-.Oa"
+a.cr,0x0026D273,20,Japanese,x懊```Hﾊﾏ54衆b,x懊```Hﾊﾏ54衆b
+a.cr,0x0026D620,22,Japanese,x懊b``ﾈM-Iﾌ11外b,x懊b``ﾈM-Iﾌ11外b
+a.cr,0x0026E21F,20,Japanese,x懊```Hﾉﾏ34衆b,x懊```Hﾉﾏ34衆b
+a.cr,0x0026E2D8,20,Japanese,x懊```Hﾉﾏ34衆b,x懊```Hﾉﾏ34衆b
+a.cr,0x00270663,21,Japanese,x懊d``hﾎh絜vnﾎ`,x懊d``hﾎh絜vnﾎ`
+a.cr,0x002706F0,23,Japanese,x懊f``hﾎk系ｮkNjNg,x懊f``hﾎk系ｮkNjNg
+a.cr,0x002707A1,23,Japanese,x懊f``h.h精Nkvj槊,x懊f``h.h精Nkvj槊
+a.cr,0x002707EC,27,Japanese,x懊g``h司系ﾎhｮm刺嗣掲,x懊g``h司系ﾎhｮm刺嗣掲
+a.cr,0x00270824,21,Japanese,x懊d``h史vn權慚,x懊d``h史vn權慚
+a.cr,0x002709B1,41,Japanese,この魔物の核はエントリが制限されています,この魔物の核はエントリが制限されています
+a.cr,0x002709E2,44,Japanese,x彜f``Pﾕ5ｴ(V5I髻ｯ,x彜f``Pﾕ5ｴ(V5I髻ｯ
+a.cr,0x00270A1D,39,Japanese,ランク %d の魔物の核を選択してください,ランク %d の魔物の核を選択してください
+a.cr,0x00270A6A,37,Japanese,x恣```P-Vh:ﾛ5ｹiUﾇｫ)%MG猤尠5拮Zﾄ,x恣```P-Vh:ﾛ5ｹiUﾇｫ)%MG猤尠5拮Zﾄ
+a.cr,0x002716CE,26,Japanese,x懊c``Pﾕ5ｴ(V54Hiｮh禛,x懊c``Pﾕ5ｴ(V54Hiｮh禛
+a.cr,0x00272694,24,Japanese,x懊f``仄pﾂ幡3ｽﾅ沌1,x懊f``仄pﾂ幡3ｽﾅ沌1
+a.cr,0x00272702,60,Japanese,距離/HP/Lv/Str/Dex/Vit/Int/Con/Men/種族/弱点/状態/確率/特殊,距離/HP/Lv/Str/Dex/Vit/Int/Con/Men/種族/弱点/状態/確率/特殊
+a.cr,0x002727A4,15,Japanese,x彡f``闃b,x彡f``闃b
+a.cr,0x002727DF,15,Japanese,x彡f``闃b,x彡f``闃b
+a.cr,0x00272810,21,Japanese,x懊d``hNknmvo禛,x懊d``hNknmvo禛
+a.cr,0x00272846,25,Japanese,x懊e``h.i竫系ﾎoNo禛,x懊e``h.i竫系ﾎoNo禛
+a.cr,0x002728D6,25,Japanese,x懊e``hNh系nh靖ｮh禛,x懊e``hNh系nh靖ｮh禛
+a.cr,0x0027290C,23,Japanese,x懊f``h.k靖vnni掲,x懊f``h.k靖vnni掲
+a.cr,0x00272963,25,Japanese,x懊e``hNm刺NoｮmNjN`,x懊e``hNm刺NoｮmNjN`
+a.cr,0x00272980,23,Japanese,x懊f``h綷權\ﾛ慟愨,x懊f``h綷權\ﾛ慟愨
+a.cr,0x00272A8D,15,Japanese,x彡f``顋ﾊ,x彡f``顋ﾊ
+a.cr,0x00272AA0,17,Japanese,x彡e``鎔嚼ﾃ,x彡e``鎔嚼ﾃ
+a.cr,0x00272AB5,17,Japanese,x彡e``俟ﾔ淨,x彡e``俟ﾔ淨
+a.cr,0x00272BC0,15,Japanese,x彡f``鞏ﾍ,x彡f``鞏ﾍ
+a.cr,0x00272BD3,15,Japanese,x彡f``禄ﾉ,x彡f``禄ﾉ
+a.cr,0x00272BE6,15,Japanese,x彡f``俥ﾍ,x彡f``俥ﾍ
+a.cr,0x00272BF9,15,Japanese,x彡f``侑ﾊ,x彡f``侑ﾊ
+a.cr,0x00272C70,15,Japanese,x彡f``俑ﾀ,x彡f``俑ﾀ
+a.cr,0x00273619,17,Japanese,x彡e``hｮh禛,x彡e``hｮh禛
+a.cr,0x0027394E,33,Japanese,封印が施されていて開きそうにない,封印が施されていて開きそうにない
+a.cr,0x00273A5D,41,Japanese,何か封印が施されているのか開きそうにない,何か封印が施されているのか開きそうにない
+a.cr,0x00273AEC,35,Japanese,同じ種類の魔物の核は選択出来ません,同じ種類の魔物の核は選択出来ません
+a.cr,0x00273BF7,15,Japanese,x彡f``們ﾎ,x彡f``們ﾎ
+a.cr,0x00273CDA,73,Japanese,新しいバージョンには挑戦する事は出来ません(最新版へのアップデートが必要),新しいバージョンには挑戦する事は出来ません(最新版へのアップデートが必要)
+a.cr,0x00273E1B,40,Japanese,x恣f``h:ﾞtｦﾋ{byﾓﾊｦ躱^}yM[幟4moZﾙ霖,x恣f``h:ﾞtｦﾋ{byﾓﾊｦ躱^}yM[幟4moZﾙ霖
+a.cr,0x00273E71,26,Japanese,x懊e``傅yﾊえU=ｻ嫂5冾,x懊e``傅yﾊえU=ｻ嫂5冾
+a.cr,0x00273EC1,17,Japanese,x彡e``俐ﾐﾓﾍ,x彡e``俐ﾐﾓﾍ
+a.cr,0x00273F70,15,Japanese,x彡f``閔ﾁ,x彡f``閔ﾁ
+a.cr,0x00273FAF,17,Japanese,x彡e``閔ﾑ崙,x彡e``閔ﾑ崙
+a.cr,0x002740EE,17,Japanese,x彡e``鑪jZﾄ,x彡e``鑪jZﾄ
+a.cr,0x0027439E,90,Japanese,レジストコンボの情報を設定します [↑↓] 切り替え [A] 決定 [B] キャンセル [Enter] 入力開始,レジストコンボの情報を設定します [↑↓] 切り替え [A] 決定 [B] キャンセル [Enter] 入力開始
+a.cr,0x0027457E,33,Japanese,主人公とカメラの距離を調節します,主人公とカメラの距離を調節します
+a.cr,0x002745B2,39,Japanese,主人公に対するカメラの高さを調節します,主人公に対するカメラの高さを調節します
+a.cr,0x002745EC,31,Japanese,カメラ回転時の速度を調節します,カメラ回転時の速度を調節します
+a.cr,0x00274945,39,Japanese,「はい」を選択するとタイトルへ戻ります,「はい」を選択するとタイトルへ戻ります
+a.cr,0x0027497F,25,Japanese,効果音の音量を設定します,効果音の音量を設定します
+a.cr,0x002749AB,65,Japanese,キャラクターとカメラの間のモデルを透明化する再の方式を指定します,キャラクターとカメラの間のモデルを透明化する再の方式を指定します
+a.cr,0x00274B4D,33,Japanese,AI編集に関する説明を閲覧できます,AI編集に関する説明を閲覧できます
+a.cr,0x00275225,43,Japanese,各種ゲームに関連するオプションを設定します,各種ゲームに関連するオプションを設定します
+a.cr,0x00275367,47,Japanese,現在受けているクエストに関する情報を表示します,現在受けているクエストに関する情報を表示します
+a.cr,0x0027573E,58,Japanese,陣形の配置や効果を閲覧出来ます [←→] 切り替え [B] 閉じる,陣形の配置や効果を閲覧出来ます [←→] 切り替え [B] 閉じる
+a.cr,0x00275D7E,15,Japanese,x彡f``霄ﾂ,x彡f``霄ﾂ
+a.cr,0x00275DA6,15,Japanese,x彡f``俐ﾈ,x彡f``俐ﾈ
+a.cr,0x00275E11,21,Japanese,x懊d``h竫系姉掲,x懊d``h竫系姉掲
+a.cr,0x00275F2F,33,Japanese,魔方陣が描かれているが反応は無い,魔方陣が描かれているが反応は無い
+a.cr,0x00276382,19,Japanese,x彡g``h.i竫掲,"x彡g``,+JU`"
+a.cr,0x002763A4,93,Japanese,シナリオからは独立した環境で、様々なクエストや遺跡調査、迷宮探索等を行う事が出来るモードです,シナリオからは独立した環境で、様々なクエストや遺跡調査、迷宮探索等を行う事が出来るモードです
+a.cr,0x0027642F,65,Japanese,与えられた条件を満たす事でクリアとなるミッションを遊ぶモードです,与えられた条件を満たす事でクリアとなるミッションを遊ぶモードです
+a.cr,0x00276478,25,translated/changed,x懊e``hｮm絜Nh.k靖vf,[invalid]
+a.cr,0x002764A0,37,Japanese,複数人数で同時にプレイするモードです,複数人数で同時にプレイするモードです
+a.cr,0x00276BE1,54,Japanese,半角4～18(全角2～9)文字でユーザー名を設定してください,半角4～18(全角2～9)文字でユーザー名を設定してください
+a.cr,0x00276C2A,43,Japanese,半角4～8文字でパスワードを設定してください,半角4～8文字でパスワードを設定してください
+a.cr,0x00276D7F,31,Japanese,不明な処理要求が送信されました,不明な処理要求が送信されました
+a.cr,0x00276E15,35,Japanese,少し時間をおいて再要求してください,少し時間をおいて再要求してください
+a.cr,0x00276E4B,35,Japanese,取得可能なデータがありませんでした,取得可能なデータがありませんでした
+a.cr,0x00276FC2,33,Japanese,同一アドレスからは挑戦できません,同一アドレスからは挑戦できません
+a.cr,0x002771F8,29,Japanese,新たな精錬が可能になりました,新たな精錬が可能になりました
+a.cr,0x002773B3,49,Japanese,他のキャラクターの倉庫にアイテムが入っていません,他のキャラクターの倉庫にアイテムが入っていません
+a.cr,0x002773F7,43,Japanese,レベル制限で幾つかの装備品が解除されました,レベル制限で幾つかの装備品が解除されました
+a.cr,0x0027754C,27,Japanese,x懊g``hｮi系四nlﾎjnm掲,x懊g``hｮi系四nlﾎjnm掲
+a.cr,0x00277710,21,Japanese,x懊d``hﾎm系ｮm禛,x懊d``hﾎm系ｮm禛
+a.cr,0x00277734,47,Japanese,キャラクターの現在の状態を用いて練習を行えます,キャラクターの現在の状態を用いて練習を行えます
+a.cr,0x0027778D,51,Japanese,現在所持しているスキルを自由に使って練習を行えます,現在所持しているスキルを自由に使って練習を行えます
+a.cr,0x00277AB4,33,Japanese,受ける事が出来る依頼はありません,受ける事が出来る依頼はありません
+a.cr,0x00277D2D,43,Japanese,登録手続きが必要なタイトルが見つかりません,登録手続きが必要なタイトルが見つかりません
+a.cr,0x00277D6B,87,Japanese,シリアルキー登録手続きを行う事が出来ます [↑↓] 選択切り替え  [A] 決定  [B] キャンセル,シリアルキー登録手続きを行う事が出来ます [↑↓] 選択切り替え  [A] 決定  [B] キャンセル
+a.cr,0x00277E11,21,Japanese,x懊d``h竫史NjNg,x懊d``h竫史NjNg
+a.cr,0x00277F84,27,Japanese,現在の状態を保存しますか？,現在の状態を保存しますか？
+a.cr,0x0027807A,35,Japanese,既に帰還ポイントに設定されています,既に帰還ポイントに設定されています
+a.cr,0x002782AF,17,Japanese,x彡e``來ﾒ]ﾀ,x彡e``來ﾒ]ﾀ
+a.cr,0x00278309,17,Japanese,x彡e``靺ﾒ変,x彡e``靺ﾒ変
+a.cr,0x0027834D,17,Japanese,x彡e``齏鑅g,x彡e``齏鑅g
+a.cr,0x0027838E,17,Japanese,x彡e``榔ﾞ涜,x彡e``榔ﾞ涜
+a.cr,0x00278452,15,Japanese,x彡f``鑷f,x彡f``鑷f
+a.cr,0x002784BD,31,Japanese,装備品の強化限界に達しています,装備品の強化限界に達しています
+a.cr,0x0027854A,38,Japanese,x恣d``hvlvnNmnhZ59ｴ饒ﾓ即EMw嘛6}d,x恣d``hvlvnNmnhZ59ｴ饒ﾓ即EMw嘛6}d
+a.cr,0x00278607,31,Japanese,この装備品は「精錬」出来ません,この装備品は「精錬」出来ません
+a.cr,0x0027867E,37,Japanese,「精錬」可能な条件を満たしていません,「精錬」可能な条件を満たしていません
+a.cr,0x002786E3,46,Japanese,x彜d``hﾚﾘtｦﾙｱﾙｹ9ｵｹ｡駘c髞矢とｲｦ｣Mｫ幟4匀抦,x彜d``hﾚﾘtｦﾙｱﾙｹ9ｵｹ｡駘c髞矢とｲｦ｣Mｫ幟4匀抦
+a.cr,0x002789CD,15,Japanese,x彡f``鞏ﾀ,x彡f``鞏ﾀ
+a.cr,0x00278A16,23,Japanese,x懊f``h刺Nm系嗣餐,x懊f``h刺Nm系嗣餐
+a.cr,0x00278BDA,27,Japanese,逃れえぬ呪縛、慰めなき解放,逃れえぬ呪縛、慰めなき解放
+a.cr,0x00278D27,23,Japanese,x懊f``h嗣vnNo絜ｺﾆ,x懊f``h嗣vnNo絜ｺﾆ
+a.cr,0x00278E31,45,Japanese,トランスポーターを設置した場所へ戻りますか？,トランスポーターを設置した場所へ戻りますか？
+a.cr,0x00278EE7,25,Japanese,x懊e``hvlNj.k絈系ﾎ`,x懊e``hvlNj.k絈系ﾎ`
+a.cr,0x00278F04,17,Japanese,x彡e``鍖oZﾂ,x彡e``鍖oZﾂ
+a.cr,0x002793F8,15,Japanese,x彡f``h惕,x彡f``h惕
+a.cr,0x0027D0DF,23,Japanese,x慷d``尽cdd`,x慷d``尽cdd`
+a.cr,0x0027D258,122,Japanese,x戔ﾂﾈﾀﾀ伉,x戔ﾂﾈﾀﾀ伉
+a.cr,0x0027D2D6,23,Japanese,x悳ﾎﾌﾀﾀ伉ﾈﾈ,x悳ﾎﾌﾀﾀ伉ﾈﾈ
+a.cr,0x0027D376,21,Japanese,x廳ea`H鐐dd,x廳ea`H鐐dd
+a.cr,0x0027D44A,21,Japanese,x恚`a`H禛dd,x恚`a`H禛dd
+a.cr,0x0027D4B2,23,Japanese,x懽ca`0鈎dd,x懽ca`0鈎dd
+a.cr,0x0027D584,23,Japanese,x徭aa`腎ddd,x徭aa`腎ddd
+a.cr,0x0027D59F,21,Japanese,x彈ﾄﾂﾀﾀ閉ﾈﾈ,x彈ﾄﾂﾀﾀ閉ﾈﾈ
+a.cr,0x0027D5B8,21,Japanese,x彈ﾈﾂﾀﾀ閉ﾈﾈ,x彈ﾈﾂﾀﾀ閉ﾈﾈ
+a.cr,0x0027D5D1,21,Japanese,x彈ﾀﾂﾀﾀ閉ﾈﾈ,x彈ﾀﾂﾀﾀ閉ﾈﾈ
+a.cr,0x0027D5EA,21,Japanese,x悍ﾏﾂﾀﾀ閉ﾈﾈ,x悍ﾏﾂﾀﾀ閉ﾈﾈ
+a.cr,0x0027D603,21,Japanese,x悍ﾇﾂﾀﾀ閉ﾈﾈ,x悍ﾇﾂﾀﾀ閉ﾈﾈ
+a.cr,0x0027D61C,21,Japanese,x悍ﾋﾂﾀﾀ閉ﾈﾈ,x悍ﾋﾂﾀﾀ閉ﾈﾈ
+a.cr,0x0027D635,23,Japanese,x悍ﾁﾂﾀﾀ堋ﾈﾈﾀ,x悍ﾁﾂﾀﾀ堋ﾈﾈﾀ
+a.cr,0x0027D650,23,Japanese,x悍ﾎﾂﾀﾀ堋ﾈﾈﾀ,x悍ﾎﾂﾀﾀ堋ﾈﾈﾀ
+a.cr,0x0027D66B,23,Japanese,x悍ﾆﾂﾀﾀ堋ﾈﾈﾀ,x悍ﾆﾂﾀﾀ堋ﾈﾈﾀ
+a.cr,0x0027D686,23,Japanese,x悍ﾊﾂﾀﾀ堋ﾈﾈﾀ,x悍ﾊﾂﾀﾀ堋ﾈﾈﾀ
+a.cr,0x0027D6A1,23,Japanese,x悍ﾂﾂﾀﾀ堋ﾈﾈﾀ,x悍ﾂﾂﾀﾀ堋ﾈﾈﾀ
+a.cr,0x0027D6BC,23,Japanese,x悍ﾌﾂﾀﾀ堋ﾈﾈﾀ,x悍ﾌﾂﾀﾀ堋ﾈﾈﾀ
+a.cr,0x0027D92C,24,Japanese,x懊aa`0夙dd`,x懊aa`0夙dd`
+a.cr,0x0027D9D8,21,Japanese,x彡ba`濳add,x彡ba`濳add
+a.cr,0x0027D9F1,21,Japanese,x彡da`濳add,x彡da`濳add
+a.cr,0x0027DA0A,21,Japanese,x彡`a`濳add,x彡`a`濳add
+a.cr,0x0027DA23,21,Japanese,x戔ﾏﾌﾀﾀ閉ﾈﾈ,x戔ﾏﾌﾀﾀ閉ﾈﾈ
+a.cr,0x0027DA3C,21,Japanese,x戔ﾇﾌﾀﾀ閉ﾈﾈ,x戔ﾇﾌﾀﾀ閉ﾈﾈ
+a.cr,0x0027DA55,21,Japanese,x戔ﾋﾌﾀﾀ閉ﾈﾈ,x戔ﾋﾌﾀﾀ閉ﾈﾈ
+a.cr,0x0027DA6E,23,Japanese,x戔ﾁﾌﾀﾀ堋ﾈﾈﾀ,x戔ﾁﾌﾀﾀ堋ﾈﾈﾀ
+a.cr,0x0027DA89,23,Japanese,x戔ﾎﾌﾀﾀ堋ﾈﾈﾀ,x戔ﾎﾌﾀﾀ堋ﾈﾈﾀ
+a.cr,0x0027DAA4,23,Japanese,x戔ﾆﾌﾀﾀ堋ﾈﾈﾀ,x戔ﾆﾌﾀﾀ堋ﾈﾈﾀ
+a.cr,0x0027DABF,23,Japanese,x戔ﾊﾌﾀﾀ堋ﾈﾈﾀ,x戔ﾊﾌﾀﾀ堋ﾈﾈﾀ
+a.cr,0x0027DADA,23,Japanese,x戔ﾂﾌﾀﾀ堋ﾈﾈﾀ,x戔ﾂﾌﾀﾀ堋ﾈﾈﾀ
+a.cr,0x0027DAF5,23,Japanese,x戔ﾌﾌﾀﾀ堋ﾈﾈﾀ,x戔ﾌﾌﾀﾀ堋ﾈﾈﾀ
+a.cr,0x0027E320,24,Japanese,x廳秣`0s```ddd`瀏,x廳秣`0s```ddd`瀏
+a.cr,0x0027E3BA,24,Japanese,x恚藺`ﾐ1c``ddd`瀏,x恚藺`ﾐ1c``ddd`瀏
+a.cr,0x0027E4EE,24,Japanese,x慱稙`0s```ddd`瀏,x慱稙`0s```ddd`瀏
+a.cr,0x0027E588,24,Japanese,x彜蘰`ﾐ1c``ddd`瀏,x彜蘰`ﾐ1c``ddd`瀏
+a.cr,0x0027E622,24,Japanese,x彜瀑`Pﾒa``ddd`瀏,x彜瀑`Pﾒa``ddd`瀏
+a.cr,0x0027E6BC,24,Japanese,x恣詁`娠b``ddd`瀏,x恣詁`娠b``ddd`瀏
+a.cr,0x0027EC4E,121,Japanese,x戔ﾄﾇﾀ珞ﾇﾀﾀﾈ,x戔ﾄﾇﾀ珞ﾇﾀﾀﾈ
+a.cr,0x0027ECCB,23,Japanese,x戔ﾈﾇﾀ琅ﾃﾀﾀﾈ,x戔ﾈﾇﾀ琅ﾃﾀﾀﾈ
+a.cr,0x0027ED02,121,Japanese,x悳ﾇﾇﾀ`蠶ﾀﾀﾈ,x悳ﾇﾇﾀ`蠶ﾀﾀﾈ
+a.cr,0x0027ED7F,23,Japanese,x悳ﾋﾇﾀ`眛ﾀﾀﾈ,x悳ﾋﾇﾀ`眛ﾀﾀﾈ
+a.cr,0x0027F13A,24,Japanese,x恚濛`Pﾒa``ddd`瀏,x恚濛`Pﾒa``ddd`瀏
+a.cr,0x0027F26E,24,Japanese,x懽綢`燗```ddd`瀏,x懽綢`燗```ddd`瀏
+a.cr,0x0027F308,24,Japanese,x懽臑``當``ddd`瀏,x懽臑``當``ddd`瀏
+a.cr,0x0027F571,24,Japanese,x戔ﾇﾍﾀ`貘ﾀﾀﾈﾈﾈﾀﾀﾏ,x戔ﾇﾍﾀ`貘ﾀﾀﾈﾈﾈﾀﾀﾏ
+a.cr,0x0027FF97,24,Japanese,x懽當`Pﾒa``ddd`瀏,x懽當`Pﾒa``ddd`瀏
+a.cr,0x00280031,24,Japanese,x徭軣`娠b``ddd`瀏,x徭軣`娠b``ddd`瀏
+a.cr,0x002800CB,24,Japanese,x徭稍`燗```ddd`瀏,x徭稍`燗```ddd`瀏
+a.cr,0x00280333,24,Japanese,x恣緘`0s```ddd`,x恣緘`0s```ddd`
+a.cr,0x002803CD,24,Japanese,x恣臠`ﾐ1c``ddd`,x恣臠`ﾐ1c``ddd`
+a.cr,0x00280501,24,Japanese,x懊軾`娠b``ddd`,x懊軾`娠b``ddd`
+a.cr,0x0028059B,24,Japanese,x懊稟`燗```ddd`,x懊稟`燗```ddd`
+a.cr,0x00280635,24,Japanese,x彡虍``當``ddd`,x彡虍``當``ddd`
+a.cr,0x00280806,24,Japanese,x憬ﾏﾇﾀ珥ﾅﾀﾀﾈﾈﾈﾀﾀﾏ,x憬ﾏﾇﾀ珥ﾅﾀﾀﾈﾈﾈﾀﾀﾏ
+a.cr,0x002808A1,24,Japanese,x憬ﾅﾇﾀ`貘ﾀﾀﾈﾈﾈﾀﾀﾏ,x憬ﾅﾇﾀ`貘ﾀﾀﾈﾈﾈﾀﾀﾏ
+a.cr,0x00280957,24,Japanese,x悍ﾌﾋﾀ珥ﾅﾀﾀﾈﾈﾈﾀﾀﾏ,x悍ﾌﾋﾀ珥ﾅﾀﾀﾈﾈﾈﾀﾀﾏ
+a.cr,0x00280A0D,24,Japanese,x罹綟`0s```ddd`瀏,x罹綟`0s```ddd`瀏
+a.cr,0x00280AC2,24,Japanese,x罹臚`ﾐ1c``ddd`瀏,x罹臚`ﾐ1c``ddd`瀏
+a.cr,0x00280B77,24,Japanese,x很疇`Pﾒa``ddd`瀏,x很疇`Pﾒa``ddd`瀏
+a.cr,0x00280C2C,24,Japanese,x忰軻`娠b``ddd`瀏,x忰軻`娠b``ddd`瀏
+a.cr,0x00280CE1,24,Japanese,x忰稙`燗```ddd`瀏,x忰稙`燗```ddd`瀏
+a.cr,0x002811B1,24,Japanese,x戔ﾎﾋﾀ珥ﾅﾀﾀﾈﾈﾈﾀﾀﾏ,x戔ﾎﾋﾀ珥ﾅﾀﾀﾈﾈﾈﾀﾀﾏ
+a.cr,0x0028124C,24,Japanese,x戔ﾄﾋﾀ`貘ﾀﾀﾈﾈﾈﾀﾀﾏ,x戔ﾄﾋﾀ`貘ﾀﾀﾈﾈﾈﾀﾀﾏ
+a.cr,0x00281712,121,Japanese,x悍ﾅﾃﾀ瑟ﾋﾀﾀﾈ,x悍ﾅﾃﾀ瑟ﾋﾀﾀﾈ
+a.cr,0x0028178F,23,Japanese,x悍ﾉﾃﾀ琲ﾍﾀﾀﾈ,x悍ﾉﾃﾀ琲ﾍﾀﾀﾈ
+a.cr,0x002817C6,121,Japanese,x悍ﾆﾃﾀ`鯲ﾀﾀﾈ,x悍ﾆﾃﾀ`鯲ﾀﾀﾈ
+a.cr,0x00281843,23,Japanese,x悍ﾊﾃﾀ`鏸ﾀﾀﾈ,x悍ﾊﾃﾀ`鏸ﾀﾀﾈ
+a.cr,0x0028192E,121,Japanese,x罹綢`Pﾕg``d,x罹綢`Pﾕg``d
+a.cr,0x002819AB,23,Japanese,x罹藺`Pﾖe``d,x罹藺`Pﾖe``d
+a.cr,0x002819E2,121,Japanese,x罹秣`新e``d,x罹秣`新e``d
+a.cr,0x00281A5F,23,Japanese,x罹臑`慎f``d,x罹臑`慎f``d
+a.cr,0x00281B13,23,Japanese,x很藺`燉d``d,x很藺`燉d``d
+a.cr,0x00281BC7,23,Japanese,x很臑``虍``d,x很臑``虍``d
+a.cr,0x00281CB0,121,Japanese,x戔ﾇﾃﾀ珞ﾇﾀﾀﾈ,x戔ﾇﾃﾀ珞ﾇﾀﾀﾈ
+a.cr,0x00281D2D,23,Japanese,x戔ﾋﾃﾀ琅ﾃﾀﾀﾈ,x戔ﾋﾃﾀ琅ﾃﾀﾀﾈ
+a.cr,0x00281D64,121,Japanese,x戔ﾅﾃﾀ`蠶ﾀﾀﾈ,x戔ﾅﾃﾀ`蠶ﾀﾀﾈ
+a.cr,0x00281DE1,23,Japanese,x戔ﾉﾃﾀ`眛ﾀﾀﾈ,x戔ﾉﾃﾀ`眛ﾀﾀﾈ
+a.cr,0x002823B7,121,Japanese,x惱ﾄﾍﾀ瑟ﾋﾀﾀﾈ,x惱ﾄﾍﾀ瑟ﾋﾀﾀﾈ
+a.cr,0x00282434,23,Japanese,x惱ﾈﾍﾀ琲ﾍﾀﾀﾈ,x惱ﾈﾍﾀ琲ﾍﾀﾀﾈ
+a.cr,0x00282AD9,121,Japanese,x慱綢`0ｰb``d,x慱綢`0ｰb``d
+a.cr,0x00282B56,23,Japanese,x慱藺`ﾐｳ```d,x慱藺`ﾐｳ```d
+a.cr,0x00282B8D,121,Japanese,x慱秣`P3```d,x慱秣`P3```d
+a.cr,0x00282C0A,23,Japanese,x慱臑`Pﾑc``d,x慱臑`Pﾑc``d
+a.cr,0x00282C41,121,Japanese,x彜綢`寝c``d,x彜綢`寝c``d
+a.cr,0x00282CBE,23,Japanese,x彜藺`審a``d,x彜藺`審a``d
+a.cr,0x0028310E,121,Japanese,x彜緜`ｰra``d,x彜緜`ｰra``d
+a.cr,0x0028318B,23,Japanese,x彜蘢`ｰpb``d,x彜蘢`ｰpb``d
+a.cr,0x002831C2,121,Japanese,x彜稍`0ｰb``d,x彜稍`0ｰb``d
+a.cr,0x0028323F,23,Japanese,x彜臘`ﾐｳ```d,x彜臘`ﾐｳ```d
+a.cr,0x00283276,121,Japanese,x恣緜`P3```d,x恣緜`P3```d
+a.cr,0x002832F3,23,Japanese,x恣蘢`Pﾑc``d,x恣蘢`Pﾑc``d
+a.cr,0x0028332A,121,Japanese,x恣稍`寝c``d,x恣稍`寝c``d
+a.cr,0x002833A7,23,Japanese,x恣臘`審a``d,x恣臘`審a``d
+a.cr,0x0028372B,121,Japanese,x罹稍`ｰtf``d,x罹稍`ｰtf``d
+a.cr,0x002837A8,23,Japanese,x罹臘`0wd``d,x罹臘`0wd``d
+a.cr,0x002837DF,121,Japanese,x很緜`ﾐｷd``d,x很緜`ﾐｷd``d
+a.cr,0x0028385C,23,Japanese,x很蘢`ﾐ5g``d,x很蘢`ﾐ5g``d
+a.cr,0x00283893,121,Japanese,x很稍`Pﾕg``d,x很稍`Pﾕg``d
+a.cr,0x00283910,23,Japanese,x很臘`Pﾖe``d,x很臘`Pﾖe``d
+a.cr,0x00283947,121,Japanese,x忰緜`新e``d,x忰緜`新e``d
+a.cr,0x002839C4,23,Japanese,x忰蘢`慎f``d,x忰蘢`慎f``d
+a.cr,0x00283A78,23,Japanese,x忰臘`燉d``d,x忰臘`燉d``d
+a.cr,0x00283DC5,121,Japanese,x恚蘰`ｰtf``d,x恚蘰`ｰtf``d
+a.cr,0x00283E5E,121,Japanese,x恚臚`ﾐｷd``d,x恚臚`ﾐｷd``d
+a.cr,0x00286234,23,Japanese,x悳+ﾀﾀ`鏸ﾀﾀﾈ,x悳+ﾀﾀ`鏸ﾀﾀﾈ
+a.cr,0x0028624F,23,Japanese,x悳#ﾀﾀ`鏸ﾀﾀﾈ,x悳#ﾀﾀ`鏸ﾀﾀﾈ
+a.cr,0x0028626A,23,Japanese,x悳-ﾀﾀ`鏸ﾀﾀﾈ,x悳-ﾀﾀ`鏸ﾀﾀﾈ
+a.cr,0x00286285,23,Japanese,x悳%ﾀﾀ`鏸ﾀﾀﾈ,x悳%ﾀﾀ`鏸ﾀﾀﾈ
+a.cr,0x002862A0,23,Japanese,x悳*ﾀﾀ`鏸ﾀﾀﾈ,x悳*ﾀﾀ`鏸ﾀﾀﾈ
+a.cr,0x002862BB,23,Japanese,"x悳""ﾀﾀ`鏸ﾀﾀﾈ","x悳""ﾀﾀ`鏸ﾀﾀﾈ"
+a.cr,0x002862D6,23,Japanese,"x悳,ﾀﾀ`鏸ﾀﾀﾈ","x悳,ﾀﾀ`鏸ﾀﾀﾈ"
+a.cr,0x002862F1,23,Japanese,x悳$ﾀﾀ`鏸ﾀﾀﾈ,x悳$ﾀﾀ`鏸ﾀﾀﾈ
+a.cr,0x0028630C,23,Japanese,x悳(ﾀﾀ`鏸ﾀﾀﾈ,x悳(ﾀﾀ`鏸ﾀﾀﾈ
+a.cr,0x00286327,23,Japanese,x悳 ﾀﾀ`鏸ﾀﾀﾈ,x悳 ﾀﾀ`鏸ﾀﾀﾈ
+a.cr,0x0028664C,23,Japanese,x悳/ﾀﾀ`鏸ﾀﾀﾈ,x悳/ﾀﾀ`鏸ﾀﾀﾈ
+a.cr,0x00286667,23,Japanese,x悳'ﾀﾀ`鏸ﾀﾀﾈ,x悳'ﾀﾀ`鏸ﾀﾀﾈ
+a.cr,0x00286BDD,23,Japanese,x惶wf`新e``d,x惶wf`新e``d
+a.cr,0x00286CFF,24,Japanese,x慱ub`0wd``ddd`瀏,x慱ub`0wd``ddd`瀏
+a.cr,0x00286DB4,24,Japanese,x彜ub`ﾐ5g``ddd`瀏,x彜ub`ﾐ5g``ddd`瀏
+a.cr,0x00286DEB,24,Japanese,x恣ub`Pﾖe``ddd`瀏,x恣ub`Pﾖe``ddd`瀏
+a.cr,0x00286F72,19,Japanese,x彈閒ﾀ ｣ﾆ,x彈閒ﾀ ｣ﾆ
+a.cr,0x002873CD,24,Japanese,x彡td`0s```ddd`瀏,x彡td`0s```ddd`瀏
+a.cr,0x0028756D,24,Japanese,x悳鯊ﾀ ｡ﾄﾀﾀﾈﾈﾈﾀﾀﾏ,x悳鯊ﾀ ｡ﾄﾀﾀﾈﾈﾈﾀﾀﾏ
+a.cr,0x00287622,24,Japanese,x悳霏ﾀﾀ'ﾁﾀﾀﾈﾈﾈﾀﾀﾏ,x悳霏ﾀﾀ'ﾁﾀﾀﾈﾈﾈﾀﾀﾏ
+a.cr,0x002877BF,24,Japanese,x彡ub``虍``ddd`,x彡ub``虍``ddd`
+a.cr,0x002878B7,23,Japanese,x憬柀ﾀ`hﾍﾀﾀﾈ,x憬柀ﾀ`hﾍﾀﾀﾈ
+a.cr,0x0028795C,23,Japanese,"x彈鯤ﾀ ,ﾋﾀﾀﾈ","x彈鯤ﾀ ,ﾋﾀﾀﾈ"
+a.cr,0x00287ADB,23,Japanese,x悍鑅ﾀ ｫﾎﾀﾀﾈ,x悍鑅ﾀ ｫﾎﾀﾀﾈ
+a.cr,0x00287B12,23,Japanese,"x悍靆ﾀ ,ﾋﾀﾀﾈ","x悍靆ﾀ ,ﾋﾀﾀﾈ"
+a.cr,0x00287E14,24,Japanese,x懊uc`ﾐ5g``ddd`瀏,x懊uc`ﾐ5g``ddd`瀏
+a.cr,0x00287E4B,24,Japanese,x彡uc`Pﾖe``ddd`瀏,x彡uc`Pﾖe``ddd`瀏
+a.cr,0x00288142,23,Japanese,x慷va`寝c``d,x慷va`寝c``d
+a.cr,0x00288476,24,Japanese,x戔霙ﾀ珥ﾅﾀﾀﾈﾈﾈﾀﾀﾏ,x戔霙ﾀ珥ﾅﾀﾀﾈﾈﾈﾀﾀﾏ
+a.cr,0x002884AD,24,Japanese,x悳鯆ﾀ`貘ﾀﾀﾈﾈﾈﾀﾀﾏ,x悳鯆ﾀ`貘ﾀﾀﾈﾈﾈﾀﾀﾏ
+a.cr,0x0028864F,24,Japanese,x惱霙ﾀ ｡ﾄﾀﾀﾈﾈﾈﾀﾀﾏ,x惱霙ﾀ ｡ﾄﾀﾀﾈﾈﾈﾀﾀﾏ
+a.cr,0x00288860,24,Japanese,x懊ｴe`Pﾒa``ddd`瀏,x懊ｴe`Pﾒa``ddd`瀏
+a.cr,0x00288915,24,Japanese,x彡ｴe`娠b``ddd`瀏,x彡ｴe`娠b``ddd`瀏
+a.cr,0x00288B0B,23,Japanese,x憬lﾃﾀ珞ﾇﾀﾀﾈ,x憬lﾃﾀ珞ﾇﾀﾀﾈ
+a.cr,0x00288B42,23,Japanese,x彈kﾃﾀ`蠶ﾀﾀﾈ,x彈kﾃﾀ`蠶ﾀﾀﾈ
+a.cr,0x00288E6E,24,Japanese,x恣ｴe`0s```ddd`瀏,x恣ｴe`0s```ddd`瀏
+a.cr,0x00289191,23,Japanese,x慷ｷf`新e``d,x慷ｷf`新e``d
+a.cr,0x00289B52,24,Japanese,x惱鯊ﾀﾀﾂﾇﾀﾀﾈﾈﾈﾀﾀﾏ,x惱鯊ﾀﾀﾂﾇﾀﾀﾈﾈﾈﾀﾀﾏ
+a.cr,0x00289BDC,23,Japanese,x悍暲ﾀ珞ﾇﾀﾀﾈ,x悍暲ﾀ珞ﾇﾀﾀﾈ
+a.cr,0x00289CB8,23,Japanese,x很v``寝c``d,x很v``寝c``d
+a.cr,0x00289DCA,24,Japanese,x徭ｵc`0wd``ddd`瀏,x徭ｵc`0wd``ddd`瀏
+a.cr,0x00289E7F,24,Japanese,x惶ｵc`ﾐ5g``ddd`瀏,x惶ｵc`ﾐ5g``ddd`瀏
+a.cr,0x00289F67,24,Japanese,x慱ｵc`慎f``ddd`瀏,x慱ｵc`慎f``ddd`瀏
+a.cr,0x0028A0D1,24,Japanese,x恣ｵc``虍``ddd`,x恣ｵc``虍``ddd`
+a.cr,0x0028A15B,23,Japanese,x惱oﾋﾀ瑕ﾏﾀﾀﾈ,x惱oﾋﾀ瑕ﾏﾀﾀﾈ
+a.cr,0x0028A192,23,Japanese,x惱iﾋﾀ`桄ﾀﾀﾈ,x惱iﾋﾀ`桄ﾀﾀﾈ
+a.cr,0x0028A6A3,21,Japanese,x悍#ﾁﾀﾀ鳴,x悍#ﾁﾀﾀ鳴
+a.cr,0x0028A6BC,21,Japanese,x悍'ﾁﾀ 青,x悍'ﾁﾀ 青
+a.cr,0x0028A6EE,21,Japanese,x彈(ﾁﾀ 淞,x彈(ﾁﾀ 淞
+a.cr,0x0028A707,21,Japanese,x彈$ﾁﾀ`慊,x彈$ﾁﾀ`慊
+a.cr,0x0028A79A,21,Japanese,"x彈""ﾁﾀ`崢","x彈""ﾁﾀ`崢"
+a.cr,0x0028A7FA,118,Japanese,x彈!ﾁﾀ`堕,x彈!ﾁﾀ`堕
+a.cr,0x0028A8A4,21,Japanese,x徭冒`ｰMa,x徭冒`ｰMa
+a.cr,0x0028A965,21,Japanese,x徭輿`pOa,x徭輿`pOa
+a.cr,0x0028AA72,21,Japanese,x慷蛋``Ka,x慷蛋``Ka
+a.cr,0x0028AA8B,21,Japanese,x慷冒`潘a,x慷冒`潘a
+a.cr,0x0028AAD6,21,Japanese,x慷伝`ﾐLa,x慷伝`ﾐLa
+a.cr,0x0028AAEF,21,Japanese,x慷輿`唇a,x慷輿`唇a
+a.cr,0x0028ABCB,21,Japanese,x惱+ﾁﾀ燼ﾂ,x惱+ﾁﾀ燼ﾂ
+a.cr,0x0028ABFB,118,Japanese,x惱/ﾁﾀ枢ﾂ,x惱/ﾁﾀ枢ﾂ
+a.cr,0x0028AC75,21,Japanese,x彡薪``Ka,x彡薪``Ka
+a.cr,0x0028ACA7,21,Japanese,x彡租`ﾐLa,x彡租`ﾐLa
+a.cr,0x0028ACC0,21,Japanese,x彡錨`唇a,x彡錨`唇a
+a.cr,0x0028ACD9,21,Japanese,x彡電`0Na,x彡電`0Na
+a.cr,0x0028AD09,21,Japanese,x懊薪`ｰMa,x懊薪`ｰMa
+a.cr,0x0028AF81,19,Japanese,x彈)ﾁﾀ熹ﾂ,x彈)ﾁﾀ熹ﾂ
+a.cr,0x0028AF98,118,Japanese,x彈%ﾁﾀ燗ﾂ,x彈%ﾁﾀ燗ﾂ
+a.cr,0x0028B012,21,Japanese,x彈-ﾁﾀ燼ﾂ,x彈-ﾁﾀ燼ﾂ
+a.cr,0x0028B02B,118,Japanese,x彈#ﾁﾀ瑞ﾂ,x彈#ﾁﾀ瑞ﾂ
+a.cr,0x0028B0A5,118,Japanese,x彈+ﾁﾀ枢ﾂ,x彈+ﾁﾀ枢ﾂ
+a.cr,0x0028B151,21,Japanese,x惱 ﾁﾀ 青,x惱 ﾁﾀ 青
+a.cr,0x0028B16A,21,Japanese,x惱(ﾁﾀ 堋,x惱(ﾁﾀ 堋
+a.cr,0x0028B19C,21,Japanese,"x惱,ﾁﾀ 淞","x惱,ﾁﾀ 淞"
+a.cr,0x0028B1B5,21,Japanese,"x惱""ﾁﾀ`慊","x惱""ﾁﾀ`慊"
+a.cr,0x0028B1CE,118,Japanese,x惱*ﾁﾀ`堕,x惱*ﾁﾀ`堕
+a.cr,0x0028B248,19,Japanese,x惱&ﾁﾀ熹ﾂ,x惱&ﾁﾀ熹ﾂ
+a.cr,0x0028B309,118,Japanese,x惱%ﾁﾀ瑞ﾂ,x惱%ﾁﾀ瑞ﾂ
+a.cr,0x0028B383,21,Japanese,x惱-ﾁﾀ`崢,x惱-ﾁﾀ`崢
+a.cr,0x0028B39C,118,Japanese,x惱#ﾁﾀ燗ﾂ,x惱#ﾁﾀ燗ﾂ
+a.cr,0x0028B416,21,Japanese,"x彈""ﾎﾀ 青","x彈""ﾎﾀ 青"
+a.cr,0x0028B448,21,Japanese,x彈.ﾎﾀ 淞,x彈.ﾎﾀ 淞
+a.cr,0x0028B461,21,Japanese,x彈!ﾎﾀ`慊,x彈!ﾎﾀ`慊
+a.cr,0x0028B47A,21,Japanese,x彈)ﾎﾀ`崢,x彈)ﾎﾀ`崢
+a.cr,0x0028B4AA,118,Japanese,x彈-ﾎﾀ`堕,x彈-ﾎﾀ`堕
+a.cr,0x0028B524,118,Japanese,x彈#ﾎﾀ燗ﾂ,x彈#ﾎﾀ燗ﾂ
+a.cr,0x0028B618,19,Japanese,x彈'ﾎﾀ熹ﾂ,x彈'ﾎﾀ熹ﾂ
+a.cr,0x0028B62F,21,Japanese,x彈/ﾎﾀ燼ﾂ,x彈/ﾎﾀ燼ﾂ
+a.cr,0x0028B65F,118,Japanese,x憬(ﾎﾀ瑞ﾂ,x憬(ﾎﾀ瑞ﾂ
+a.cr,0x0028B6F2,118,Japanese,"x憬,ﾎﾀ枢ﾂ","x憬,ﾎﾀ枢ﾂ"
+a.cr,0x0028B76C,21,Japanese,"x惱""ﾎﾀﾀ鳴","x惱""ﾎﾀﾀ鳴"
+a.cr,0x0028B785,21,Japanese,x惱*ﾎﾀﾀ敖,x惱*ﾎﾀﾀ敖
+a.cr,0x0028B79E,21,Japanese,x惱&ﾎﾀ 青,x惱&ﾎﾀ 青
+a.cr,0x0028B7B7,21,Japanese,x惱.ﾎﾀ 堋,x惱.ﾎﾀ 堋
+a.cr,0x0028BB0E,21,Japanese,x彈$ﾎﾀﾀ鳴,x彈$ﾎﾀﾀ鳴
+a.cr,0x0028BB3E,21,Japanese,x懊輿`ｰMa,x懊輿`ｰMa
+a.cr,0x0028BD9F,21,Japanese,x惶秦``Ka,x惶秦``Ka
+a.cr,0x0028BDB8,21,Japanese,x惶覗`潘a,x惶覗`潘a
+a.cr,0x0028BE03,21,Japanese,x惶疏`ﾐLa,x惶疏`ﾐLa
+a.cr,0x0028BE1C,21,Japanese,x惶描`唇a,x惶描`唇a
+a.cr,0x0028BE35,21,Japanese,x惶伝`0Na,x惶伝`0Na
+a.cr,0x0028BEF8,21,Japanese,x惱)ﾎﾀ 淞,x惱)ﾎﾀ 淞
+a.cr,0x0028BF11,21,Japanese,x惱%ﾎﾀ`慊,x惱%ﾎﾀ`慊
+a.cr,0x0028BFA4,118,Japanese,x惱#ﾎﾀ燗ﾂ,x惱#ﾎﾀ燗ﾂ
+a.cr,0x0028C035,21,Japanese,x惱'ﾎﾀ`崢,x惱'ﾎﾀ`崢
+a.cr,0x0028C07E,21,Japanese,x悳(ﾎﾀ燼ﾂ,x悳(ﾎﾀ燼ﾂ
+a.cr,0x0028C097,19,Japanese,x悳$ﾎﾀ熹ﾂ,x悳$ﾎﾀ熹ﾂ
+a.cr,0x0028C0AE,118,Japanese,"x悳,ﾎﾀ`堕","x悳,ﾎﾀ`堕"
+a.cr,0x0028C128,118,Japanese,"x悳""ﾎﾀ瑞ﾂ","x悳""ﾎﾀ瑞ﾂ"
+a.cr,0x0028C1A2,118,Japanese,x悳*ﾎﾀ枢ﾂ,x悳*ﾎﾀ枢ﾂ
+a.cr,0x0028C21C,21,Japanese,x彡伝``Ka,x彡伝``Ka
+a.cr,0x0028C24E,21,Japanese,x懊蛋`ﾐLa,x懊蛋`ﾐLa
+a.cr,0x0028C267,21,Japanese,x懊冒`唇a,x懊冒`唇a
+a.cr,0x0028C280,21,Japanese,x懊疏`0Na,x懊疏`0Na
+a.cr,0x0028C314,21,Japanese,x恚誕`0Na,x恚誕`0Na
+a.cr,0x0028C32D,21,Japanese,x恚紡`ｰMa,x恚紡`ｰMa
+a.cr,0x0028C406,21,Japanese,x慱蚤`ｰMa,x慱蚤`ｰMa
+a.cr,0x0028C41F,21,Japanese,x慱紳`0Na,x慱紳`0Na
+a.cr,0x0028C483,21,Japanese,x彜疎`ﾐLa,x彜疎`ﾐLa
+a.cr,0x0028C49C,21,Japanese,x彜紡`潘a,x彜紡`潘a
+a.cr,0x0028C59B,19,Japanese,x悳#ﾃﾀ瑞ﾂ,x悳#ﾃﾀ瑞ﾂ
+a.cr,0x0028C5B2,19,Japanese,x悳-ﾃﾀ燗ﾂ,x悳-ﾃﾀ燗ﾂ
+a.cr,0x0028C5E0,19,Japanese,x悳)ﾃﾀ`堕,x悳)ﾃﾀ`堕
+a.cr,0x0028C5F7,19,Japanese,x悳!ﾃﾀ 青,x悳!ﾃﾀ 青
+a.cr,0x0028C60E,19,Japanese,x憬%ﾃﾀ瑞ﾂ,x憬%ﾃﾀ瑞ﾂ
+a.cr,0x0028C63C,19,Japanese,x憬!ﾃﾀ熹ﾂ,x憬!ﾃﾀ熹ﾂ
+a.cr,0x0028C66A,19,Japanese,x憬&ﾃﾀ 閉,x憬&ﾃﾀ 閉
+a.cr,0x0028C698,21,Japanese,x憬#ﾍﾀﾀ鳴,x憬#ﾍﾀﾀ鳴
+a.cr,0x0028C6B1,21,Japanese,"x悍,ﾍﾀ`崢","x悍,ﾍﾀ`崢"
+a.cr,0x0028C6CA,21,Japanese,x悍$ﾍﾀ`慊,x悍$ﾍﾀ`慊
+a.cr,0x0028C6FC,21,Japanese,x悍 ﾍﾀ 堋,x悍 ﾍﾀ 堋
+a.cr,0x0028C72E,21,Japanese,x罹吐`ﾐLa,x罹吐`ﾐLa
+a.cr,0x0028C747,21,Japanese,x罹蒜`潘a,x罹蒜`潘a
+a.cr,0x0028C760,21,Japanese,x罹素`pOa,x罹素`pOa
+a.cr,0x0028C779,21,Japanese,x罹貿`唇a,x罹貿`唇a
+a.cr,0x0028C792,21,Japanese,x罹断``Ka,x罹断``Ka
+a.cr,0x0028C7AB,21,Japanese,x廳杷`ｰMa,x廳杷`ｰMa
+a.cr,0x0028C7C4,21,Japanese,x廳診`0Na,x廳診`0Na
+a.cr,0x0028C828,21,Japanese,x恚素`ﾐLa,x恚素`ﾐLa
+a.cr,0x0028C841,21,Japanese,x恚貿`潘a,x恚貿`潘a
+a.cr,0x0028C85A,21,Japanese,x恚断`pOa,x恚断`pOa
+a.cr,0x0028C873,21,Japanese,x恚杷`唇a,x恚杷`唇a
+a.cr,0x0028C88C,21,Japanese,x恚診``Ka,x恚診``Ka
+a.cr,0x0028C8A5,21,Japanese,x彜誕`pOa,x彜誕`pOa
+a.cr,0x0028C8BE,21,Japanese,x彜蚤`唇a,x彜蚤`唇a
+a.cr,0x0028C8D7,21,Japanese,x彜紳``Ka,x彜紳``Ka
+a.cr,0x0028C8F0,21,Japanese,x戔.ﾍﾀ`崢,x戔.ﾍﾀ`崢
+a.cr,0x0028C909,21,Japanese,x戔&ﾍﾀ`慊,x戔&ﾍﾀ`慊
+a.cr,0x0028C93B,21,Japanese,"x戔""ﾍﾀ 堋","x戔""ﾍﾀ 堋"
+a.cr,0x0028C986,21,Japanese,x戔(ﾍﾀﾀ敖,x戔(ﾍﾀﾀ敖
+a.cr,0x0028C99F,21,Japanese,x戔 ﾍﾀ燼ﾂ,x戔 ﾍﾀ燼ﾂ
+a.cr,0x0028C9B8,21,Japanese,x悳/ﾍﾀ 淞,x悳/ﾍﾀ 淞
+a.cr,0x0028C9D1,21,Japanese,x悳'ﾍﾀﾀ鳴,x悳'ﾍﾀﾀ鳴
+a.cr,0x0028CA80,21,Japanese,x憬/ﾍﾀﾀ敖,x憬/ﾍﾀﾀ敖
+a.cr,0x0028CA99,21,Japanese,x憬'ﾍﾀ燼ﾂ,x憬'ﾍﾀ燼ﾂ
+a.cr,0x0028CAB2,21,Japanese,x憬+ﾍﾀ 淞,x憬+ﾍﾀ 淞
+b.cr,0x000A5473,10,Japanese,ＭＳ 明朝,ＭＳ 明朝
+b.cr,0x000A57AE,11,translated/changed,数ヵ月後…,Meses apos
+b.cr,0x000AB21D,10,Japanese,ＭＳ 明朝,ＭＳ 明朝
+b.cr,0x000CFF05,25,translated/changed,遠くで唸り声が聞こえた！,Um rugido distante!     
+b.cr,0x000D078D,25,translated/changed,インペイルメント討伐数：,Impalement abatidos:    
+b.cr,0x000D0D7C,25,translated/changed,遠くで唸り声が聞こえた！,Um rugido distante!     
+b.cr,0x000D15D8,25,translated/changed,インペイルメント討伐数：,Impalement abatidos:    
+b.cr,0x000D2C50,5,translated/changed,残り,Left
+b.cr,0x000D3306,5,translated/changed,残り,Left
+b.cr,0x000D3712,25,translated/changed,サイドワインダー討伐数：,Sidewinders abatidos:   
+b.cr,0x000D3945,5,translated/changed,あと,Left
+b.cr,0x000D3ABE,25,translated/changed,遠くで唸り声が聞こえた！,Um rugido distante!     
+b.cr,0x000D3F50,25,translated/changed,スカルフェンサー討伐数：,Skull Fencers abatidos: 
+b.cr,0x000D54F3,5,translated/changed,残り,Left
+b.cr,0x000D6473,25,translated/changed,フロストドラゴン討伐数：,Dragao de Gelo abatido: 
+b.cr,0x000D807F,10,Japanese,ＭＳ 明朝,ＭＳ 明朝
+b.cr,0x000D80BC,45,translated/changed,それは、一つの遺跡の発見から始まった・・・。,Tudo comecou com a descoberta de ruinas.    
+b.cr,0x000D8149,35,translated/changed,二つの大国が互いの覇権を懸けて争い,Duas potencias lutavam por poder. 
+b.cr,0x000D8171,51,translated/changed,数多の小国が戦乱のさなかに消えていった時代・・・。,enquanto pequenos reinos sumiam na guerra...      
+b.cr,0x000D81D4,19,translated/changed,リアンツ帝国・・・,Imperio Riantsu...
+b.cr,0x000D820B,35,translated/changed,広大な領土と多くの騎士団を背景に、,"Com terras e muitos cavaleiros,   "
+b.cr,0x000D8233,29,translated/changed,世界の統一を掲げる騎士国家。,Queria unificar o mundo.    
+b.cr,0x000D8274,17,translated/changed,ゼメア教国・・・,Estado de Zemea 
+b.cr,0x000D82A9,33,translated/changed,多くの民族をひとつの宗教で束ね、,Unia povos sob uma unica fe.    
+b.cr,0x000D82CF,31,translated/changed,高度な魔法技術を誇る宗教国家。,um estado de avancada magia.  
+b.cr,0x000D82F3,33,translated/changed,拮抗した二つの勢力による抗争は、,A luta entre as duas potencias  
+b.cr,0x000D8319,53,translated/changed,周囲に存在した小国を巻き込み戦渦を拡大させていった。,arrastou pequenos reinos para uma guerra maior.     
+b.cr,0x000D8372,41,translated/changed,その小国の中の一つ・・・サンベルナ王国。,Um desses reinos era Sanberna...        
+b.cr,0x000D83BF,43,translated/changed,小国でありながらも偉大なる賢王の治世の下、,"Mesmo pequeno, tinha um rei sabio,        "
+b.cr,0x000D83EF,39,translated/changed,多くの民衆に支持され繁栄していた王国。,e prosperava com o apoio de seu povo. 
+b.cr,0x000D843A,57,translated/changed,サンベルナ王国は先代よりゼメア教国と友好関係にあったが、,"Sanberna mantinha amizade com Zemea havia geracoes,     "
+b.cr,0x000D8478,51,translated/changed,当代の国王であり「竜心王」とも称されるラウレスは、,"mas o rei Laures, chamado Rei Coracao de Dragao,  "
+b.cr,0x000D84B0,41,translated/changed,争いと混乱に満ちた世界の前途を憂い―――,"Temendo o futuro de um mundo em caos,   "
+b.cr,0x000D84DE,41,translated/changed,リアンツ、ゼメア両国に対し戦争の終結と、,pedia a Riantsu e Zemea o fim da guerra 
+b.cr,0x000D850C,35,translated/changed,その先にある平和を呼びかけ続けた。,e pregava a paz que viria depois. 
+b.cr,0x000D8534,31,translated/changed,その呼びかけに応じるかのように,"Como em resposta a seu apelo, "
+b.cr,0x000D8558,37,translated/changed,世界の平和を望む声は高まっていった。,O clamor pela paz so aumentava.     
+b.cr,0x000D8582,53,translated/changed,世界は争い無き、宥和への一歩を踏み出そうとしていた。,O mundo dava o primeiro passo para a conciliacao.   
+b.cr,0x000D85BC,51,translated/changed,だが、平和への願いは儚き夢のように脆かった・・・。,Mas o sonho de paz era fragil e passageiro...     
+b.cr,0x000D8613,37,translated/changed,平和への気運が高まりを見せた頃・・・,Quando a esperanca de paz crescia...
+b.cr,0x000D863D,59,translated/changed,リアンツ帝国は大軍を率いサンベルナ王国への進軍を開始した。,Riantsu marchou com um grande exercito sobre Sanberna.    
+b.cr,0x000D867D,41,translated/changed,世界の統一を掲げるリアンツ帝国にとって、,"Para o imperio que buscava unir o mundo,"
+b.cr,0x000D86AB,59,translated/changed,平和を訴えるサンベルナ王国は邪魔な存在でしかなかったのだ。,"Sanberna, que defendia a paz, era um obstaculo.           "
+b.cr,0x000D86EB,29,translated/changed,サンベルナ王国は応戦するも、,"Sanberna resistiu ao ataque,"
+b.cr,0x000D870D,51,translated/changed,リアンツ帝国の圧倒的な兵力の前に苦戦を強いられた。,mas sofria ante as forcas esmagadoras de Riantsu. 
+b.cr,0x000D8745,51,translated/changed,だが、この事態に際し、友好国であったゼメア教国も、,"Mesmo assim, Zemea, seu antigo aliado,            "
+b.cr,0x000D877D,43,translated/changed,援軍を派遣する事は無く非情な傍観に徹した。,nao enviou reforcos e apenas observou.    
+b.cr,0x000D87CC,21,translated/changed,そして数ヵ月後・・・,Meses depois...     
+b.cr,0x000D87E6,57,translated/changed,応戦を続けていたサンベルナ王国もついに滅びの日を迎える。,"Sanberna, ainda resistindo, enfim caiu.                 "
+b.cr,0x000D8824,37,translated/changed,突然のリアンツ帝国軍の総攻撃の前に、,"Ante o ataque surpresa de Riantsu,  "
+b.cr,0x000D884E,39,translated/changed,サンベルナ王国の王都センテルロは陥落。,"caiu Sentelro, capital de Sanberna.   "
+b.cr,0x000D887A,57,translated/changed,最後まで平和を願い戦ったラウレス王は壮絶な最期を遂げた。,Laures morreu lutando pela paz ate o fim.               
+b.cr,0x000D88B8,59,translated/changed,かくして平和を望む声はその担い手たるサンベルナ王国を失い、,"Assim, a paz perdeu Sanberna, sua grande defensora,       "
+b.cr,0x000D88F8,31,translated/changed,戦乱の世にかき消されていった。,sumiu no caos da guerra.      
+b.cr,0x000D891C,53,translated/changed,世界は再び怒号と悲しみの連鎖に包まれていった・・・。,O mundo voltou a se encher de dor e tristeza...     
+b.cr,0x000D8956,29,translated/changed,もはや争いを止める術は無く、,Ja nao se detinha a guerra. 
+b.cr,0x000D8978,43,translated/changed,戦火は苛烈を極め、更に拡大の一途を辿った。,As chamas da guerra so se espalhavam.     
+b.cr,0x000D89A8,53,translated/changed,その遺跡が発見されたのはまさにそんな時だった・・・。,Foi entao que aquelas ruinas foram achadas...       
+b.cr,0x000D8A01,41,translated/changed,いつ果てるとも知れぬ戦乱の時を迎える中、,"Em meio a uma guerra sem fim,           "
+b.cr,0x000D8A2F,41,translated/changed,忽然と姿を現したその遺跡の発見の経緯は、,As ruinas surgiram misteriosamente.     
+b.cr,0x000D8A5D,25,translated/changed,幾多の謎に包まれていた。,Tudo era um misterio.   
+b.cr,0x000D8A7B,43,translated/changed,或る者はそれは突如として現れたのだと言い、,Uns diziam que surgiram de repente.       
+b.cr,0x000D8AAB,57,translated/changed,また、或る者はそれは偉大な冒険家が発見したのだと謳った。,"Outros, que um grande explorador as descobriu.          "
+b.cr,0x000D8AE9,57,translated/changed,光の届かぬ霧深き闇の地にそれがあったのだから無理もない。,"Afinal, ficavam numa terra sombria, envolta em nevoa.   "
+b.cr,0x000D8B27,37,translated/changed,だが、いずれにせよその遺跡の発見は、,"De todo modo, descobrir as ruinas   "
+b.cr,0x000D8B51,55,translated/changed,その謎故に憶測を呼び、多くの者をこの地へと惹き付けた。,gerou rumores e atraiu muitos para aquele lugar.      
+b.cr,0x000D8BAC,43,translated/changed,最初に遺跡を訪れたのはハンター達であった。,Os primeiros a chegar foram os cacadores. 
+b.cr,0x000D8BDC,57,translated/changed,戦乱の中、帰る国を失い、生き場を求め放浪する者達・・・。,"Sem patria pela guerra, vagavam em busca de abrigo.     "
+b.cr,0x000D8C1A,45,translated/changed,それは賞金稼ぎであり、冒険者、研究者、商人、,"Eram cacadores de recompensas, aventureiros,"
+b.cr,0x000D8C4C,35,translated/changed,そして盗賊といった類の者達だった。,"pesquisadores, lojas e ladroes.   "
+b.cr,0x000D8C74,43,translated/changed,彼らはこの地に希望を、或いは野望を見出し、,Ali buscavam esperanca ou ambicao.        
+b.cr,0x000D8CA4,57,translated/changed,その多くは互いに干渉することなく探索、調査を進めていた。,A maioria explorava sem interferir nos demais.          
+b.cr,0x000D8CE2,57,translated/changed,だが、その遺跡に導かれたのはハンター達だけではなかった。,Mas nao so os cacadores chegaram as ruinas.             
+b.cr,0x000D8D20,51,translated/changed,戦乱の渦中にあったリアンツ帝国、ゼメア教国もまた、,"Riantsu e Zemea, envolvidos na guerra,            "
+b.cr,0x000D8D58,31,translated/changed,この遺跡に何かを見出していた。,tambem viram algo nas ruinas. 
+b.cr,0x000D8D9B,45,translated/changed,両国がこの地へ派兵を始めると状況は一変した。,Tudo mudou quando ambos enviaram tropas.    
+b.cr,0x000D8DCD,55,translated/changed,彼らは遺跡を占有しようと争いを繰り広げるようになった。,Passaram a lutar para tomar as ruinas.                
+b.cr,0x000D8E09,33,translated/changed,争いは日々激しさを増していった。,O conflito crescia a cada dia.  
+b.cr,0x000D8E2F,51,translated/changed,力無き者は倒れ、知無き者はこの地を追われた・・・。,Os fracos caiam; os ignorantes eram expulsos.     
+b.cr,0x000D8E86,51,translated/changed,しかしリアンツ、ゼメアの本国における戦争が激化し、,"Mas a guerra entre Riantsu e Zemea piorou,        "
+b.cr,0x000D8EBE,57,translated/changed,この地への派兵が困難になると争いは次第に収束へと向かい、,"e, sem poder enviar tropas, a luta foi cedendo.         "
+b.cr,0x000D8EFC,57,translated/changed,リアンツ帝国、ゼメア教国、そしてハンター達を含む関係は、,"Riantsu, Zemea e os cacadores                           "
+b.cr,0x000D8F3A,35,translated/changed,微妙なバランスをとり始めた・・・。,mantinham um equilibrio fragil.   
+b.cr,0x000D8F6F,29,translated/changed,そして発見から数ヵ月後・・・,Meses apos a descoberta...  
+b.cr,0x000D8F91,57,translated/changed,図らずもそこには世界の縮図ともいえる奇妙な光景があった。,Ali surgiu um estranho retrato do mundo em guerra.      
+b.cr,0x001216B3,230,translated/changed,x彳祥Jﾃ@,[invalid]
+eft.cr,0x00097D2E,12,Japanese,",C\}擯ﾁ鴃銷",",C\}擯ﾁ鴃銷"
+eft.cr,0x001397E4,256,Japanese,鳧故,鳧故
+eft.cr,0x002AC9F6,12,Japanese,>ﾝb0中歯h\us,>ﾝb0中歯h\us
+map.cr,0x004935AB,7,Japanese,ﾐ懼沈ｾｾ,ﾐ懼沈ｾｾ

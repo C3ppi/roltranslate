@@ -1,0 +1,439 @@
+{
+  "total_pages": 53,
+  "translated_override": 23,
+  "archive_pages": 53,
+  "pages_with_japanese_remaining": [
+    {
+      "file": "tactics.htm",
+      "japanese_characters": 4151
+    }
+  ],
+  "internal_links_converted": 3794,
+  "external_links_retained": 295,
+  "files": [
+    {
+      "file": "QandA.htm",
+      "title": "Perguntas e respostas",
+      "category": "Guias",
+      "source": "tradução revisada nesta conversa",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "arena.htm",
+      "title": "Arena de batalha",
+      "category": "Guias",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "armor.htm",
+      "title": "Armaduras",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 26,
+      "japanese_characters": 0
+    },
+    {
+      "file": "axe.htm",
+      "title": "Machados",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 22,
+      "japanese_characters": 0
+    },
+    {
+      "file": "blade.htm",
+      "title": "Katanas",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 25,
+      "japanese_characters": 0
+    },
+    {
+      "file": "boss001020.htm",
+      "title": "Chefes 001–020",
+      "category": "Bestiário",
+      "source": "tradução revisada nesta conversa",
+      "images": 20,
+      "japanese_characters": 0
+    },
+    {
+      "file": "castle.htm",
+      "title": "Castelo de Whiteharen",
+      "category": "Mapas",
+      "source": "tradução revisada nesta conversa",
+      "images": 4,
+      "japanese_characters": 0
+    },
+    {
+      "file": "cave.htm",
+      "title": "Cavernas de Bare",
+      "category": "Mapas",
+      "source": "tradução revisada nesta conversa",
+      "images": 2,
+      "japanese_characters": 0
+    },
+    {
+      "file": "chara.htm",
+      "title": "Personagens e monstros",
+      "category": "Bestiário",
+      "source": "tradução revisada nesta conversa",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "church.htm",
+      "title": "Catedral subterrânea de Sejenmu",
+      "category": "Mapas",
+      "source": "tradução revisada nesta conversa",
+      "images": 5,
+      "japanese_characters": 0
+    },
+    {
+      "file": "class.htm",
+      "title": "Classes",
+      "category": "Habilidades",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "class_skill.htm",
+      "title": "Habilidades de classe",
+      "category": "Habilidades",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 70,
+      "japanese_characters": 0
+    },
+    {
+      "file": "cloister.htm",
+      "title": "Galeria de Reintage",
+      "category": "Mapas",
+      "source": "tradução revisada nesta conversa",
+      "images": 3,
+      "japanese_characters": 0
+    },
+    {
+      "file": "cloth.htm",
+      "title": "Roupas",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 26,
+      "japanese_characters": 0
+    },
+    {
+      "file": "dagger.htm",
+      "title": "Adagas",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 24,
+      "japanese_characters": 0
+    },
+    {
+      "file": "equip.htm",
+      "title": "Equipamentos",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "forest.htm",
+      "title": "Floresta de Celstork",
+      "category": "Mapas",
+      "source": "tradução revisada nesta conversa",
+      "images": 1,
+      "japanese_characters": 0
+    },
+    {
+      "file": "grave.htm",
+      "title": "Catacumbas de Tandridge",
+      "category": "Mapas",
+      "source": "tradução revisada nesta conversa",
+      "images": 3,
+      "japanese_characters": 0
+    },
+    {
+      "file": "hammer.htm",
+      "title": "Martelos",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 22,
+      "japanese_characters": 0
+    },
+    {
+      "file": "high001020.htm",
+      "title": "Monstros superiores 001–020",
+      "category": "Bestiário",
+      "source": "tradução revisada nesta conversa",
+      "images": 20,
+      "japanese_characters": 0
+    },
+    {
+      "file": "image_bbs.htm",
+      "title": "Fórum de imagens (arquivo)",
+      "category": "Fóruns",
+      "source": "tradução revisada nesta conversa",
+      "images": 3,
+      "japanese_characters": 0
+    },
+    {
+      "file": "index.htm",
+      "title": "Início original",
+      "category": "Início",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "info_bbs.htm",
+      "title": "Fórum de informações (arquivo)",
+      "category": "Fóruns",
+      "source": "tradução revisada nesta conversa",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "item.htm",
+      "title": "Itens",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "jacket.htm",
+      "title": "Jaquetas",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 26,
+      "japanese_characters": 0
+    },
+    {
+      "file": "koneta.htm",
+      "title": "Curiosidades e segredos",
+      "category": "Guias",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "laby.htm",
+      "title": "Labirinto de Carod",
+      "category": "Guias",
+      "source": "tradução revisada nesta conversa",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "low001020.htm",
+      "title": "Monstros comuns 001–020",
+      "category": "Bestiário",
+      "source": "tradução revisada nesta conversa",
+      "images": 20,
+      "japanese_characters": 0
+    },
+    {
+      "file": "mace.htm",
+      "title": "Maças",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 21,
+      "japanese_characters": 0
+    },
+    {
+      "file": "magic_skill.htm",
+      "title": "Habilidades mágicas",
+      "category": "Habilidades",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 57,
+      "japanese_characters": 0
+    },
+    {
+      "file": "master001020.htm",
+      "title": "Monstros mestres 001–020",
+      "category": "Bestiário",
+      "source": "tradução revisada nesta conversa",
+      "images": 17,
+      "japanese_characters": 0
+    },
+    {
+      "file": "mausoleum.htm",
+      "title": "Profundezas de Tandridge",
+      "category": "Mapas",
+      "source": "tradução revisada nesta conversa",
+      "images": 2,
+      "japanese_characters": 0
+    },
+    {
+      "file": "monster_skill.htm",
+      "title": "Habilidades de monstros",
+      "category": "Habilidades",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 78,
+      "japanese_characters": 0
+    },
+    {
+      "file": "npc_frame.htm",
+      "title": "Índice de personagens",
+      "category": "Bestiário",
+      "source": "tradução revisada nesta conversa",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "palace.htm",
+      "title": "Palácio subterrâneo de Ribo",
+      "category": "Mapas",
+      "source": "tradução revisada nesta conversa",
+      "images": 3,
+      "japanese_characters": 0
+    },
+    {
+      "file": "passive.htm",
+      "title": "Habilidades passivas",
+      "category": "Habilidades",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "phantom.htm",
+      "title": "Palácio ilusório de Ratton",
+      "category": "Mapas",
+      "source": "tradução revisada nesta conversa",
+      "images": 5,
+      "japanese_characters": 0
+    },
+    {
+      "file": "prison.htm",
+      "title": "Prisão de Anfeed",
+      "category": "Mapas",
+      "source": "tradução revisada nesta conversa",
+      "images": 3,
+      "japanese_characters": 0
+    },
+    {
+      "file": "quest.htm",
+      "title": "Missões",
+      "category": "Guias",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "rapier.htm",
+      "title": "Floretes",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 22,
+      "japanese_characters": 0
+    },
+    {
+      "file": "ring.htm",
+      "title": "Anéis",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "saber.htm",
+      "title": "Espadas curvas",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 23,
+      "japanese_characters": 0
+    },
+    {
+      "file": "scenario.htm",
+      "title": "Detonado da história",
+      "category": "Guias",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "skill.htm",
+      "title": "Índice de habilidades",
+      "category": "Habilidades",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 18,
+      "japanese_characters": 0
+    },
+    {
+      "file": "snowfield.htm",
+      "title": "Planície nevada de Horns",
+      "category": "Mapas",
+      "source": "tradução revisada nesta conversa",
+      "images": 1,
+      "japanese_characters": 0
+    },
+    {
+      "file": "sword.htm",
+      "title": "Espadas longas",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 29,
+      "japanese_characters": 0
+    },
+    {
+      "file": "tactics.htm",
+      "title": "Táticas e combos",
+      "category": "Guias",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 0,
+      "japanese_characters": 4151
+    },
+    {
+      "file": "tower.htm",
+      "title": "Torre de Ivary",
+      "category": "Mapas",
+      "source": "tradução revisada nesta conversa",
+      "images": 14,
+      "japanese_characters": 0
+    },
+    {
+      "file": "town.htm",
+      "title": "Rua de Abistana",
+      "category": "Mapas",
+      "source": "tradução revisada nesta conversa",
+      "images": 1,
+      "japanese_characters": 0
+    },
+    {
+      "file": "unique.htm",
+      "title": "Equipamentos únicos",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "wand.htm",
+      "title": "Cajados",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 24,
+      "japanese_characters": 0
+    },
+    {
+      "file": "weapon_index.htm",
+      "title": "Índice de armas",
+      "category": "Equipamentos",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 0,
+      "japanese_characters": 0
+    },
+    {
+      "file": "weapon_skill.htm",
+      "title": "Habilidades de armas",
+      "category": "Habilidades",
+      "source": "HTML traduzido no arquivo enviado",
+      "images": 99,
+      "japanese_characters": 0
+    }
+  ]
+}

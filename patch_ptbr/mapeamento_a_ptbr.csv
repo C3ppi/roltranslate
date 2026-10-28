@@ -1,0 +1,44 @@
+﻿offset,field_bytes,translation_bytes,source_japanese,translation_ptbr
+0x002709B1,41,27,この魔物の核はエントリが制限されています,Nucleo de monstro restrito.
+0x00270A1D,39,36,ランク %d の魔物の核を選択してください,Escolha o nucleo de monstro Rank %d.
+0x0027394E,33,30,封印が施されていて開きそうにない,Esta selado; nao parece abrir.
+0x00273A5D,41,24,何か封印が施されているのか開きそうにない,Parece selado; nao abre.
+0x00273AEC,35,25,同じ種類の魔物の核は選択出来ません,Escolha tipos diferentes.
+0x00273CDA,73,61,新しいバージョンには挑戦する事は出来ません(最新版へのアップデートが必要),Nao pode desafiar nesta versao. Atualize para a mais recente.
+0x0027439E,90,74,レジストコンボの情報を設定します [↑↓] 切り替え [A] 決定 [B] キャンセル [Enter] 入力開始,Ajuste o Resist Combo [Cima/Baixo] trocar [A] OK [B] voltar [Enter] editar
+0x0027457E,33,31,主人公とカメラの距離を調節します,Distancia entre heroi e camera.
+0x002745B2,39,37,主人公に対するカメラの高さを調節します,Altura da camera em relacao ao heroi.
+0x002745EC,31,29,カメラ回転時の速度を調節します,Velocidade de giro da camera.
+0x00274945,39,36,「はい」を選択するとタイトルへ戻ります,Selecione Sim para voltar ao titulo.
+0x0027497F,25,19,効果音の音量を設定します,Volume dos efeitos.
+0x002749AB,65,55,キャラクターとカメラの間のモデルを透明化する再の方式を指定します,Define como ocultar o modelo entre personagem e camera.
+0x00274B4D,33,29,AI編集に関する説明を閲覧できます,Veja a ajuda da edicao de IA.
+0x00275225,43,35,各種ゲームに関連するオプションを設定します,Configura as opcoes gerais do jogo.
+0x00275367,47,29,現在受けているクエストに関する情報を表示します,Mostra dados da missao atual.
+0x0027573E,58,52,陣形の配置や効果を閲覧出来ます [←→] 切り替え [B] 閉じる,Veja formacoes e efeitos [Esq/Dir] trocar [B] fechar
+0x00275F2F,33,27,魔方陣が描かれているが反応は無い,O circulo magico nao reage.
+0x002763A4,93,78,シナリオからは独立した環境で、様々なクエストや遺跡調査、迷宮探索等を行う事が出来るモードです,"Modo livre: complete missoes, explore ruinas e masmorras sem afetar o cenario."
+0x0027642F,65,46,与えられた条件を満たす事でクリアとなるミッションを遊ぶモードです,Modo de missoes: cumpra objetivos para vencer.
+0x002764A0,37,18,複数人数で同時にプレイするモードです,Modo multijogador.
+0x00276BE1,54,35,半角4～18(全角2～9)文字でユーザー名を設定してください,Nome: 4-18 caracteres (2-9 largos).
+0x00276C2A,43,27,半角4～8文字でパスワードを設定してください,Senha: de 4 a 8 caracteres.
+0x00276D7F,31,28,不明な処理要求が送信されました,Pedido desconhecido enviado.
+0x00276E15,35,26,少し時間をおいて再要求してください,Aguarde e tente novamente.
+0x00276E4B,35,25,取得可能なデータがありませんでした,Nao ha dados disponiveis.
+0x00276FC2,33,30,同一アドレスからは挑戦できません,Desafio negado neste endereco.
+0x002771F8,29,26,新たな精錬が可能になりました,Nova refinacao disponivel.
+0x002773B3,49,34,他のキャラクターの倉庫にアイテムが入っていません,Armazem do outro personagem vazio.
+0x002773F7,43,35,レベル制限で幾つかの装備品が解除されました,Equipamentos bloqueados pelo nivel.
+0x00277734,47,40,キャラクターの現在の状態を用いて練習を行えます,Treine com o estado atual do personagem.
+0x0027778D,51,46,現在所持しているスキルを自由に使って練習を行えます,Treine livremente com suas habilidades atuais.
+0x00277AB4,33,27,受ける事が出来る依頼はありません,Nao ha missoes disponiveis.
+0x00277D2D,43,30,登録手続きが必要なタイトルが見つかりません,Nenhum titulo requer registro.
+0x00277D6B,87,62,シリアルキー登録手続きを行う事が出来ます [↑↓] 選択切り替え  [A] 決定  [B] キャンセル,Registre a chave serial [Cima/Baixo] mover [A] OK [B] cancelar
+0x00277F84,27,20,現在の状態を保存しますか？,Salvar estado atual?
+0x0027807A,35,34,既に帰還ポイントに設定されています,Ja definido como ponto de retorno.
+0x002784BD,31,28,装備品の強化限界に達しています,Limite de melhoria atingido.
+0x00278607,31,28,この装備品は「精錬」出来ません,Este item nao aceita refino.
+0x0027867E,37,34,「精錬」可能な条件を満たしていません,Condicoes de refino nao atendidas.
+0x00278BDA,27,23,逃れえぬ呪縛、慰めなき解放,"Jugo sem fuga, sem paz."
+0x00278E31,45,33,トランスポーターを設置した場所へ戻りますか？,Voltar ao local do transportador?
+0x00272702,60,59,距離/HP/Lv/Str/Dex/Vit/Int/Con/Men/種族/弱点/状態/確率/特殊,Dist/HP/Nv/For/Des/Vit/Int/Con/Men/Raca/Fraq/Est/Prob/Extra

@@ -1,0 +1,286 @@
+﻿Offset do bloco;Nome japonês;Nome PT da referência;Tradução aplicada;Idioma;Capacidade bytes;Bytes usados;Resultado
+0x1E6F2E;アイアンダガー;Adaga de Ferro;Adaga Ferro;PT-BR curto;14;11;Aplicado
+0x1E7277;ミスリルダガー;Adaga de Mithril;Mithril Dagger;EN/curto;14;14;Aplicado
+0x1E739D;ベノムナイフ;Faca Venenosa;Poison Knife;EN/curto;12;12;Aplicado
+0x1E74B3;ミストダガー;Adaga da Nevoa;Mist Dagger;EN/curto;12;11;Aplicado
+0x1E7690;ハツオイイルハル;Hatsuoi Iruharu;Iruharu;EN (abreviado);16;7;Aplicado
+0x1E76FF;プロミネンスナイフ;Faca da Proeminencia;Prominence Knife;EN/curto;18;16;Aplicado
+0x1E7777;カーズナイフ;Faca Amaldicoada;Cursed Knife;EN/curto;12;12;Aplicado
+0x1E7B66;アイアンレイピア;Florete de Ferro;Florete Ferro;PT-BR curto;16;13;Aplicado
+0x1E7BC3;バトルレイピア;Florete de Batalha;Battle Rapier;EN/curto;14;13;Aplicado
+0x1E7CDC;ドレスソード;Espada de Gala;Dress Sword;EN/curto;12;11;Aplicado
+0x1E7DAA;プラチナレイピア;Florete de Platina;Platinum Rapier;EN/curto;16;15;Aplicado
+0x1E7F41;ワスプニードル;Agulha de Vespa;Wasp Needle;EN/curto;14;11;Aplicado
+0x1E8147;メイジマッシャー;Esmagador de Magos;Mage Crusher;EN/curto;16;12;Aplicado
+0x1E84A7;フォースフルーレ;Florete de Forca;Florete Forca;PT-BR curto;16;13;Aplicado
+0x1E8687;ヘラルドレイピア;Florete do Arauto;Herald Rapier;EN/curto;16;13;Aplicado
+0x1E8871;アイアンソード;Espada de Ferro;Iron Sword;EN/curto;14;10;Aplicado
+0x1E88CA;バスタードソード;Espada Bastarda;Espada Bast.;PT-BR curto;16;12;Aplicado
+0x1E8983;シルバーソード;Espada de Prata;Silver Sword;EN/curto;14;12;Aplicado
+0x1E8AA2;プラチナソード;Espada de Platina;Platinum Sword;EN/curto;14;14;Aplicado
+0x1E8BC0;ミスリルソード;Espada de Mitril;Mithril Sword;EN/curto;14;13;Aplicado
+0x1E8CE8;ウォーソード;Espada de Guerra;War Sword;EN/curto;12;9;Aplicado
+0x1E8D47;ワイバーンキラー;Matadora de Serpes;Wyvern Slayer;EN/curto;16;13;Aplicado
+0x1E8F3A;カッパーソード;Espada de Cobre;Copper Sword;EN/curto;14;12;Aplicado
+0x1E926E;ヴァラーソード;Espada do Valor;Valor Sword;EN/curto;14;11;Aplicado
+0x1E9C24;ダマスカスソード;Espada de Damasco;Damascus;EN (abreviado);16;8;Aplicado
+0x1E9C88;マンイーター;Devoradora de Homens;Man Eater;EN/curto;12;9;Aplicado
+0x1E9D44;キルソード;Espada Assassina;Slayer;EN (abreviado);10;6;Aplicado
+0x1E9F9C;カタラクトソード;Espada da Catarata;Waterfall Sword;EN/curto;16;15;Aplicado
+0x1EA015;古錠刀;Gujing Dao;Gujing;EN (abreviado);6;6;Aplicado
+0x1EA40C;和泉守兼定;Izuminokami Kanesada;Kanesada;EN (abreviado);10;8;Aplicado
+0x1EA463;上総介兼重;Kazusanosuke Kaneshige;Kaneshige;EN (abreviado);10;9;Aplicado
+0x1EA4B9;長曾禰虎徹;Nagasone Kotetsu;Kotetsu;EN (abreviado);10;7;Aplicado
+0x1EA516;孫六兼元;Magoroku Kanemoto;Kanemoto;EN (abreviado);8;8;Aplicado
+0x1EA571;備前長船兼光;Bizen Osafune Kanemitsu;Kanemitsu;EN (abreviado);12;9;Aplicado
+0x1EA62C;五郎入道正宗;Goro Nyudo Masamune;Masamune;EN (abreviado);12;8;Aplicado
+0x1EA688;宗三左文字;Soza Samonji;Samonji;EN (abreviado);10;7;Aplicado
+0x1EA6E3;大般若長光;Daihannya Nagamitsu;Nagamitsu;EN (abreviado);10;9;Aplicado
+0x1EA79B;蜂須賀正恒;Hachisuka Masatsune;Masatsune;EN (abreviado);10;9;Aplicado
+0x1EA7F6;数珠丸恒次;Juzumaru Tsunetsugu;Tsunetsugu;EN (abreviado);10;10;Aplicado
+0x1EA851;木刀;Bokken (espada de madeira);Bok.;EN (abreviado);4;4;Aplicado
+0x1EA899;鬼切;Onikiri;Oni;EN (abreviado);4;3;Aplicado
+0x1EA8F5;波切丸;Namikirimaru;Wave;EN (abreviado);6;4;Aplicado
+0x1EA9AB;千鳥;Chidori;Bird;EN (abreviado);4;4;Aplicado
+0x1EAA0C;石割;Ishiwari;Rock;EN (abreviado);4;4;Aplicado
+0x1EAA70;村雨丸;Murasamemaru;Rain;EN (abreviado);6;4;Aplicado
+0x1EAAD6;雷切;Raikiri;Bolt;EN (abreviado);4;4;Aplicado
+0x1EAB3A;獅子王;Shishio (Rei Leao);Lion;EN (abreviado);6;4;Aplicado
+0x1EABA0;抜丸;Nukemaru;Nuke;EN (abreviado);4;4;Aplicado
+0x1EAC04;薄緑;Usumidori;Leaf;EN (abreviado);4;4;Aplicado
+0x1EAC67;青蛇丸;Aojamaru;Blue;EN (abreviado);6;4;Aplicado
+0x1EAD31;骨喰吉光;Honebami Yoshimitsu;Honebami;EN (abreviado);8;8;Aplicado
+0x1EAD98;クトネシリカ;Kutoneshirika;Kutoneshiri;EN (abreviado);12;11;Aplicado
+0x1EAE68;神息;Shinsoku;Fast;EN (abreviado);4;4;Aplicado
+0x1EAECB;天座;Tenza;Tenz;EN (abreviado);4;4;Aplicado
+0x1EAF91;アイアンアクス;Machado de Ferro;Iron Axe;EN/curto;14;8;Aplicado
+0x1EAFEF;ラージアクス;Machado Grande;Great Axe;EN/curto;12;9;Aplicado
+0x1EB10F;エルムリーパー;Ceifador de Olmo;Elm Reaper;EN (abreviado);14;10;Aplicado
+0x1EB1D8;プラチナアクス;Machado de Platina;Platinum Axe;EN/curto;14;12;Aplicado
+0x1EB23F;エナジーアクス;Machado de Energia;Energy Axe;EN/curto;14;10;Aplicado
+0x1EB305;バタフライアクス;Machado Borboleta;Butterfly Axe;EN/curto;16;13;Aplicado
+0x1EB36E;イビルアクス;Machado Maligno;Evil Axe;EN/curto;12;8;Aplicado
+0x1EB436;ウォーアクス;Machado de Guerra;War Axe;EN/curto;12;7;Aplicado
+0x1EB498;ビーストバスター;Destruidor de Feras;Beast Buster;EN/curto;16;12;Aplicado
+0x1EB55F;メテオライトアクス;Machado de Meteorito;Meteorito Axe;EN/curto;18;13;Aplicado
+0x1EB62A;ネックチョッパー;Cortador de Pescocos;Neck Cutter;EN/curto;16;11;Aplicado
+0x1EB690;カッパーアクス;Machado de Cobre;Copper Axe;EN/curto;14;10;Aplicado
+0x1EB6E4;スケイルアクス;Machado de Escamas;Scale Axe;EN/curto;14;9;Aplicado
+0x1EB7C5;テンペスタスアクス;Machado Tempestus;Machado Temp.;PT-BR curto;18;13;Aplicado
+0x1EB9A8;ソウルハーベスト;Colheita de Almas;Soul Harvest;EN/curto;16;12;Aplicado
+0x1EBA97;ダイダロスアクス;Machado de Dedalo;Daedalus Axe;EN/curto;16;12;Aplicado
+0x1EBB83;デモンズアクス;Machado Demoniaco;Demoniaco Axe;EN/curto;14;13;Aplicado
+0x1EBC6A;アイアンハンマー;Martelo de Ferro;Martelo Ferro;PT-BR curto;16;13;Aplicado
+0x1EBCD0;バトルハンマー;Martelo de Batalha;Battle Hammer;EN/curto;14;13;Aplicado
+0x1EBEE8;プラチナハンマー;Martelo de Platina;Platinum Hammer;EN/curto;16;15;Aplicado
+0x1EC02B;ミスリルハンマー;Martelo de Mitril;Mithril Hammer;EN/curto;16;14;Aplicado
+0x1EC09A;アースパウンダー;Esmagador da Terra;Earth Pounder;EN (abreviado);16;13;Aplicado
+0x1EC108;ファインハンマー;Martelo Refinado;Martelo Fino;PT-BR curto;16;12;Aplicado
+0x1EC326;パイルアンカー;Ancora de Estacas;Stake Anchor;EN/curto;14;12;Aplicado
+0x1EC63E;バンデッドハンマー;Martelo Reforcado;Martelo Reforc.;PT-BR curto;18;15;Aplicado
+0x1ECA17;ガーネットロッド;Bastao de Granada;Garnet Staff;EN/curto;16;12;Aplicado
+0x1ECA71;ボーンロッド;Bastao de Osso;Bone Staff;EN/curto;12;10;Aplicado
+0x1ECACB;バトルスタッフ;Cajado de Batalha;Battle Staff;EN/curto;14;12;Aplicado
+0x1ECB24;ジルコンロッド;Bastao de Zircao;Zircao Staff;EN/curto;14;12;Aplicado
+0x1ECB80;マイトワンド;Varinha do Poder;Power Wand;EN (abreviado);12;10;Aplicado
+0x1ECC97;エナジーロッド;Bastao de Energia;Energy Staff;EN/curto;14;12;Aplicado
+0x1ECCF6;ブレスドワンド;Varinha Abencoada;Abencoada Wand;EN/curto;14;14;Aplicado
+0x1ECD55;アークワンド;Varinha Arcana;Arcana Wand;EN/curto;12;11;Aplicado
+0x1ECDB2;ジオロッド;Bastao da Terra;Earth Rod;EN (abreviado);10;9;Aplicado
+0x1ECE6C;サンロッド;Bastao Solar;Sun Staff;EN (abreviado);10;9;Aplicado
+0x1ECEC6;ピクシーロッド;Bastao das Fadas;Fairy Staff;EN (abreviado);14;11;Aplicado
+0x1ECF24;グレイブロッド;Bastao da Sepultura;Grave Staff;EN (abreviado);14;11;Aplicado
+0x1ECF82;ウィローワンド;Varinha de Salgueiro;Willow Wand;EN/curto;14;11;Aplicado
+0x1ED09D;カッパーロッド;Bastao de Cobre;Copper Staff;EN/curto;14;12;Aplicado
+0x1ED378;オラクルロッド;Bastao do Oraculo;Oracle Staff;EN (abreviado);14;12;Aplicado
+0x1ED461;テンプルロッド;Bastao do Templo;Temple Staff;EN (abreviado);14;12;Aplicado
+0x1ED628;ウッドカジェル;Cajado de Madeira;Wood Staff;EN/curto;14;10;Aplicado
+0x1ED687;アイゼンメイス;Maca de Ferro;Maca Ferro;PT-BR curto;14;10;Aplicado
+0x1ED7AD;スパイクドクラブ;Clava com Espinhos;Spiked Club;EN (abreviado);16;11;Aplicado
+0x1ED87C;トパーズメイス;Maca de Topazio;Topaz Mace;EN/curto;14;10;Aplicado
+0x1EDF1E;タイタンカジェル;Cajado Titanico;Cajado Titan.;PT-BR curto;16;13;Aplicado
+0x1EE092;ヒュドラクラブ;Clava de Hidra;Clava Hidra;PT-BR curto;14;11;Aplicado
+0x1EE373;アイアンリング;Anel de Ferro;Anel Ferro;PT-BR curto;14;10;Aplicado
+0x1EE3D4;アイアンリング;Anel de Ferro;Anel Ferro;PT-BR curto;14;10;Aplicado
+0x1EE432;アイアンリング;Anel de Ferro;Anel Ferro;PT-BR curto;14;10;Aplicado
+0x1EE492;アイアンリング;Anel de Ferro;Anel Ferro;PT-BR curto;14;10;Aplicado
+0x1EE4F0;アイアンリング;Anel de Ferro;Anel Ferro;PT-BR curto;14;10;Aplicado
+0x1EE550;アイアンリング;Anel de Ferro;Anel Ferro;PT-BR curto;14;10;Aplicado
+0x1EEFF2;ジルコンリング;Anel de Zircao;Zircon;EN (abreviado);14;6;Aplicado
+0x1EF116;バウンスリング;Anel de Ricochete;Anel Ricochete;PT-BR curto;14;14;Aplicado
+0x1EF179;バウンスリング;Anel de Ricochete;Anel Ricochete;PT-BR curto;14;14;Aplicado
+0x1EF1DC;バウンスリング;Anel de Ricochete;Bounce;EN (abreviado);14;6;Aplicado
+0x1EF23E;バウンスリング;Anel de Ricochete;Anel Ricochete;PT-BR curto;14;14;Aplicado
+0x1EF2A1;バウンスリング;Anel de Ricochete;Bounce;EN (abreviado);14;6;Aplicado
+0x1EF303;バウンスリング;Anel de Ricochete;Bounce;EN (abreviado);14;6;Aplicado
+0x1EF365;マイトリング;Anel do Poder;Power Ring;EN/curto;12;10;Aplicado
+0x1EF3C6;マイトリング;Anel do Poder;Power Ring;EN/curto;12;10;Aplicado
+0x1EF428;マイトリング;Anel do Poder;Power Ring;EN/curto;12;10;Aplicado
+0x1EF48B;マイトリング;Anel do Poder;Power Ring;EN/curto;12;10;Aplicado
+0x1EF4ED;マイトリング;Anel do Poder;Power Ring;EN/curto;12;10;Aplicado
+0x1EF550;マイトリング;Anel do Poder;Power Ring;EN/curto;12;10;Aplicado
+0x1EF5B3;プラチナリング;Anel de Platina;Platinum Ring;EN/curto;14;13;Aplicado
+0x1EF61B;プラチナリング;Anel de Platina;Platinum Ring;EN/curto;14;13;Aplicado
+0x1EF683;プラチナリング;Anel de Platina;Platinum Ring;EN/curto;14;13;Aplicado
+0x1EF6EA;プラチナリング;Anel de Platina;Platinum Ring;EN/curto;14;13;Aplicado
+0x1EF752;プラチナリング;Anel de Platina;Platinum Ring;EN/curto;14;13;Aplicado
+0x1EF7B9;プラチナリング;Anel de Platina;Platinum Ring;EN/curto;14;13;Aplicado
+0x1EF821;トパーズリング;Anel de Topazio;Topaz Ring;EN/curto;14;10;Aplicado
+0x1EF884;トパーズリング;Anel de Topazio;Topaz Ring;EN/curto;14;10;Aplicado
+0x1EF8E5;トパーズリング;Anel de Topazio;Topaz Ring;EN/curto;14;10;Aplicado
+0x1EF948;トパーズリング;Anel de Topazio;Topaz Ring;EN/curto;14;10;Aplicado
+0x1EF9A8;トパーズリング;Anel de Topazio;Topaz Ring;EN/curto;14;10;Aplicado
+0x1EFA0D;トパーズリング;Anel de Topazio;Topaz Ring;EN/curto;14;10;Aplicado
+0x1EFF27;ミスリルリング;Anel de Mithril;Mithril Ring;EN/curto;14;12;Aplicado
+0x1EFF8D;ミスリルリング;Anel de Mithril;Mithril Ring;EN/curto;14;12;Aplicado
+0x1EFFF4;ミスリルリング;Anel de Mithril;Mithril Ring;EN/curto;14;12;Aplicado
+0x1F005A;ミスリルリング;Anel de Mithril;Mithril Ring;EN/curto;14;12;Aplicado
+0x1F00C0;ミスリルリング;Anel de Mithril;Mithril Ring;EN/curto;14;12;Aplicado
+0x1F0126;ミスリルリング;Anel de Mithril;Mithril Ring;EN/curto;14;12;Aplicado
+0x1F018C;アクアマリンリング;Anel de Agua-marinha;Aquamarine;EN (abreviado);18;10;Aplicado
+0x1F01EE;アクアマリンリング;Anel de Agua-marinha;Aquamarine;EN (abreviado);18;10;Aplicado
+0x1F0251;アクアマリンリング;Anel de Agua-marinha;Aquamarine;EN (abreviado);18;10;Aplicado
+0x1F02B3;アクアマリンリング;Anel de Agua-marinha;Aquamarine;EN (abreviado);18;10;Aplicado
+0x1F0315;アクアマリンリング;Anel de Agua-marinha;Aquamarine;EN (abreviado);18;10;Aplicado
+0x1F0379;アクアマリンリング;Anel de Agua-marinha;Aquamarine;EN (abreviado);18;10;Aplicado
+0x1F03DD;オブシダンリング;Anel de Obsidiana;Obsidiana Ring;EN/curto;16;14;Aplicado
+0x1F0443;オブシダンリング;Anel de Obsidiana;Obsidiana Ring;EN/curto;16;14;Aplicado
+0x1F04A9;オブシダンリング;Anel de Obsidiana;Obsidiana Ring;EN/curto;16;14;Aplicado
+0x1F050F;オブシダンリング;Anel de Obsidiana;Obsidiana Ring;EN/curto;16;14;Aplicado
+0x1F0575;オブシダンリング;Anel de Obsidiana;Obsidiana Ring;EN/curto;16;14;Aplicado
+0x1F05DB;オブシダンリング;Anel de Obsidiana;Obsidiana Ring;EN/curto;16;14;Aplicado
+0x1F0641;ヘイルリング;Anel de Granizo;Granizo Ring;EN/curto;12;12;Aplicado
+0x1F06A2;ヘイルリング;Anel de Granizo;Granizo Ring;EN/curto;12;12;Aplicado
+0x1F0704;ヘイルリング;Anel de Granizo;Granizo Ring;EN/curto;12;12;Aplicado
+0x1F0767;ヘイルリング;Anel de Granizo;Granizo Ring;EN/curto;12;12;Aplicado
+0x1F07C9;ヘイルリング;Anel de Granizo;Granizo Ring;EN/curto;12;12;Aplicado
+0x1F082C;ヘイルリング;Anel de Granizo;Granizo Ring;EN/curto;12;12;Aplicado
+0x1F088F;ダマスカスリング;Anel de Damasco;Anel Damasco;PT-BR curto;16;12;Aplicado
+0x1F08FA;ダマスカスリング;Anel de Damasco;Anel Damasco;PT-BR curto;16;12;Aplicado
+0x1F0964;ダマスカスリング;Anel de Damasco;Anel Damasco;PT-BR curto;16;12;Aplicado
+0x1F09CF;ダマスカスリング;Anel de Damasco;Anel Damasco;PT-BR curto;16;12;Aplicado
+0x1F0A39;ダマスカスリング;Anel de Damasco;Anel Damasco;PT-BR curto;16;12;Aplicado
+0x1F0AA4;ダマスカスリング;Anel de Damasco;Anel Damasco;PT-BR curto;16;12;Aplicado
+0x1F1006;アリューアリング;Anel do Encanto;Anel Encanto;PT-BR curto;16;12;Aplicado
+0x1F106B;アリューアリング;Anel do Encanto;Anel Encanto;PT-BR curto;16;12;Aplicado
+0x1F10D1;アリューアリング;Anel do Encanto;Anel Encanto;PT-BR curto;16;12;Aplicado
+0x1F1136;アリューアリング;Anel do Encanto;Anel Encanto;PT-BR curto;16;12;Aplicado
+0x1F119C;アリューアリング;Anel do Encanto;Anel Encanto;PT-BR curto;16;12;Aplicado
+0x1F1203;アリューアリング;Anel do Encanto;Anel Encanto;PT-BR curto;16;12;Aplicado
+0x1F20E3;アセントリング;Anel da Ascensao;Ascend;EN (abreviado);14;6;Aplicado
+0x1F2154;アセントリング;Anel da Ascensao;Ascend;EN (abreviado);14;6;Aplicado
+0x1F21C5;アセントリング;Anel da Ascensao;Ascend;EN (abreviado);14;6;Aplicado
+0x1F2237;アセントリング;Anel da Ascensao;Ascend;EN (abreviado);14;6;Aplicado
+0x1F22A9;アセントリング;Anel da Ascensao;Anel Ascensao;PT-BR curto;14;13;Aplicado
+0x1F231B;アセントリング;Anel da Ascensao;Anel Ascensao;PT-BR curto;14;13;Aplicado
+0x1F343C;ウィズダムリング;Anel da Sabedoria;Sabedoria Ring;EN/curto;16;14;Aplicado
+0x1F34BA;ウィズダムリング;Anel da Sabedoria;Sabedoria Ring;EN/curto;16;14;Aplicado
+0x1F3538;ウィズダムリング;Anel da Sabedoria;Sabedoria Ring;EN/curto;16;14;Aplicado
+0x1F35B6;ウィズダムリング;Anel da Sabedoria;Sabedoria Ring;EN/curto;16;14;Aplicado
+0x1F3635;ウィズダムリング;Anel da Sabedoria;Sabedoria Ring;EN/curto;16;14;Aplicado
+0x1F36B1;ウィズダムリング;Anel da Sabedoria;Sabedoria Ring;EN/curto;16;14;Aplicado
+0x1F372D;エミネンスリング;Anel da Eminencia;Eminencia Ring;EN/curto;16;14;Aplicado
+0x1F37A6;エミネンスリング;Anel da Eminencia;Eminencia Ring;EN/curto;16;14;Aplicado
+0x1F381F;エミネンスリング;Anel da Eminencia;Eminencia Ring;EN/curto;16;14;Aplicado
+0x1F3898;エミネンスリング;Anel da Eminencia;Eminencia Ring;EN/curto;16;14;Aplicado
+0x1F3912;エミネンスリング;Anel da Eminencia;Eminencia Ring;EN/curto;16;14;Aplicado
+0x1F398C;エミネンスリング;Anel da Eminencia;Eminencia Ring;EN/curto;16;14;Aplicado
+0x1F403B;カッパーソード;Espada de Cobre;Copper Sword;EN/curto;14;12;Aplicado
+0x1F40D0;木刀;Bokken (espada de madeira);Bok.;EN (abreviado);4;4;Aplicado
+0x1F4111;カッパーアクス;Machado de Cobre;Copper Axe;EN/curto;14;10;Aplicado
+0x1F41B0;カッパーロッド;Bastao de Cobre;Copper Staff;EN/curto;14;12;Aplicado
+0x1F4596;ライトシクラス;Ciclade de Leve;Leve Chiton;EN/curto;14;11;Aplicado
+0x1F462D;コットンシクラス;Ciclade de AlgodaoLuvas de AlgodaoSapatos de Algodao;Cotton Chiton;EN/curto;16;13;Aplicado
+0x1F4677;フリースダブレット;Gibao de La polarLuvas de La polarBotas de La polar;La polar Coat;EN/curto;18;13;Aplicado
+0x1F46C3;キルトチュニック;Tunica de AcolchoadoLuvas de AcolchoadoSapatos de Acolchoado;Quilted Tunic;EN/curto;16;13;Aplicado
+0x1F470D;フェザークローク;Capa de PenasLuvas de PenasBotas de Penas;Feather Cloak;EN/curto;16;13;Aplicado
+0x1F4755;フランネルクロス;Vestimenta de FlanelaLuvas de FlanelaSapatos de Flanela;Flannel Robe;EN/curto;16;12;Aplicado
+0x1F479F;ムーンクローク;Capa de LunarLuvas de LunarSapatos de Lunar;Moon Cloak;EN/curto;14;10;Aplicado
+0x1F47E6;ウールダルマティカ;Dalmatica de LaLuvas de LaSapatos de La;Dalmatica de La;EN/curto;18;15;Aplicado
+0x1F4831;フェアリークロス;Vestimenta de FadaLuvas de FadaSapatos de Fada;Fairy Robe;EN/curto;16;10;Aplicado
+0x1F487B;エンジェルクロス;Vestimenta de AnjoMitones de AnjoBotas de Anjo;Angel Robe;EN/curto;16;10;Aplicado
+0x1F48C5;サンクローク;Capa de SolarLuvas de SolarSapatos de Solar;Sun Cloak;EN/curto;12;9;Aplicado
+0x1F490B;バルキーコート;Casaco de VolumosoLuvas de VolumosoSapatos de Volumoso;Bulky Coat;EN (abreviado);14;10;Aplicado
+0x1F4952;グロリアスクロス;Vestimenta de GloriosoLuvas de GloriosoSapatos de Glorioso;Glorioso Robe;EN/curto;16;13;Aplicado
+0x1F499B;リネンシクラス;Ciclade de LinhoMitones de LinhoSapatos de Linho;Linen Chiton;EN/curto;14;12;Aplicado
+0x1F49E6;シルククローク;Capa de SedaLuvas de SedaSapatos de Seda;Silk Cloak;EN/curto;14;10;Aplicado
+0x1F4A7D;スペルクロス;Vestimenta de MagicoLuvas de MagicoSapatos de Magico;Magico Robe;EN/curto;12;11;Aplicado
+0x1F4AC6;タフタシクラス;Ciclade de TafetaLuvas de TafetaSapatos de Tafeta;Cic. Tafeta;PT-BR curto;14;11;Aplicado
+0x1F4B10;エルヴンクローク;Capa de ElficoLuvas de ElficoSapatos de Elfico;Elfico Cloak;EN/curto;16;12;Aplicado
+0x1F4B5E;ゴブランクロス;Vestimenta de GobelinLuvas de GobelinBotas de Gobelin;Gobelin Robe;EN/curto;14;12;Aplicado
+0x1F4BA9;カノニカルクローク;Capa de CanonicoLuvas de CanonicoBotas de Canonico;Canonical Cloak;EN/curto;18;15;Aplicado
+0x1F4C42;レイブンクロス;Vestimenta de CorvoLuvas de CorvoBotas de Corvo;Raven Robe;EN/curto;14;10;Aplicado
+0x1F4C8D;ビショップガーブ;Traje de BispoLuvas de BispoSapatos de Bispo;Traje de Bispo;EN/curto;16;14;Aplicado
+0x1F4CDA;ウィザードコート;Casaco de MagoLuvas de MagoSapatos de Mago;Casaco de Mago;EN/curto;16;14;Aplicado
+0x1F4D26;レバレンドローブ;Manto de ReverendoLuvas de ReverendoBotas de Reverendo;Reverend Robe;EN/curto;16;13;Aplicado
+0x1F4DBD;セイントリークロス;Vestimenta de SagradoMitones de SagradoBotas de Sagrado;Holy Robe;EN/curto;18;9;Aplicado
+0x1F4E0C;サープリス;SobrepelizMitones de CardealBotas de Cardeal;Surplice;EN/curto;10;8;Aplicado
+0x1F4F35;レザージャケット;Jaqueta de CouroLuvas de CouroBotas de Couro;Leather Jacket;EN/curto;16;14;Aplicado
+0x1F4F7C;チェーンベスト;Colete de MalhaLuvas de MalhaBotas de Malha;Malha Vest;EN/curto;14;10;Aplicado
+0x1F4FC2;ローズジャケット;Jaqueta de RosasLuvas de RosasBotas de Rosas;Rosas Jacket;EN/curto;16;12;Aplicado
+0x1F500A;シルバーベスト;Colete PrateadoLuvas PrateadasBotas Prateadas;Silver Vest;EN (abreviado);14;11;Aplicado
+0x1F5050;エナジーブレスト;Peitoral de EnergiaLuvas de EnergiaBotas de Energia;Energy Armor;EN/curto;16;12;Aplicado
+0x1F5098;レッドアクトン;Gibao VermelhoBraceletes VermelhasBotas Vermelhas;Gibao Vermelho;EN/curto;14;14;Aplicado
+0x1F50DE;サバイバルベスト;Colete de SobrevivenciaLuvas de SobrevivenciaBotas de Sobrevivencia;Survival Vest;EN/curto;16;13;Aplicado
+0x1F5124;ミスリルベスト;Colete de MitrilLuvas de MitrilBotas de Mitril;Mithril Vest;EN/curto;14;12;Aplicado
+0x1F5168;アデプトブレスト;Peitoral do AdeptoLuvas do AdeptoBotas do Adepto;Adept Armor;EN (abreviado);16;11;Aplicado
+0x1F51B0;ウォーキュイラス;Couraca de GuerraLuvas de GuerraBotas de Guerra;War Armor;EN/curto;16;9;Aplicado
+0x1F51F8;ブリガンダイン;BrigandinaManoplas da TumbaBotas da Tumba;Brigandina;EN/curto;14;10;Aplicado
+0x1F523E;クルセイドタバード;Tabardo da CruzadaLuvas da CruzadaBotas da Cruzada;Tabardo da Cruzada;EN/curto;18;18;Aplicado
+0x1F5288;スターディベスト;Colete ResistenteLuvas ResistentesBotas Resistentes;Sturdy Vest;EN (abreviado);16;11;Aplicado
+0x1F52D1;ハードチェーン;Cota de Malha ReforcadaLuvas ReforcadasBotas Reforcadas;Hard Mail;EN (abreviado);14;9;Aplicado
+0x1F5363;ブルーアクトン;Gibao AzulBraceletes AzuisBotas Azuis;Gibao Azul;EN/curto;14;10;Aplicado
+0x1F53AC;トレジャーベスト;Colete do TesouroLuvas do TesouroBotas do Tesouro;Treasure Vest;EN (abreviado);16;13;Aplicado
+0x1F5442;フォースブレスト;Peitoral da ForcaLuvas da ForcaBotas da Forca;Force Armor;EN (abreviado);16;11;Aplicado
+0x1F551F;オラクルブレスト;Peitoral do OraculoLuvas do OraculoBotas do Oraculo;Oracle Armor;EN (abreviado);16;12;Aplicado
+0x1F556A;キラージャケット;Jaqueta do AssassinoLuvas do AssassinoBotas do Assassino;Assassin Jacket;EN (abreviado);16;15;Aplicado
+0x1F55B5;スパークブレスト;Peitoral da CentelhaLuvas do ArautoBotas do Arauto;Spark Armor;EN (abreviado);16;11;Aplicado
+0x1F55FE;ワンダーキュイラス;Couraca MaravilhosaLuvas MaravilhosasBotas Maravilhosas;Wonder Armor;EN (abreviado);18;12;Aplicado
+0x1F5696;ブラックアクトン;Gibao PretoBraceletes PretasBotas Pretas;Gibao Preto;EN/curto;16;11;Aplicado
+0x1F56DF;スペリオルブレスト;Peitoral SuperiorLuvas SuperioresBotas Superiores;Peit. Superior;PT-BR curto;18;14;Aplicado
+0x1F57B8;レザーアーマー;CouroArmaduraCouroManoplasCouroGrevas;Leather;EN (abreviado);14;7;Aplicado
+0x1F57FB;アイアンメイル;FerroCotaFerroManoplasFerroGrevas;Iron Mail;EN/curto;14;9;Aplicado
+0x1F583D;ラメラーアーマー;LamelarArmaduraLamelarManoplasLamelarGrevas;Armd. Lamelar;PT-BR curto;16;13;Aplicado
+0x1F5882;シルバーメイル;PrataCotaPrataManoplasPrataGrevas;Silver Mail;EN/curto;14;11;Aplicado
+0x1F58C7;ファインプレート;RefinadaPlacasRefinadaManoplasRefinadaGrevas;Fine Plate;EN/curto;16;10;Aplicado
+0x1F590E;プラチナアーマー;PlatinaArmaduraPlatinaManoplasPlatinaGrevas;Platinum Armor;EN/curto;16;14;Aplicado
+0x1F5955;スプリントメイル;Cota de TalasTalasProtecaoTalasGrevas;Splint Mail;EN/curto;16;11;Aplicado
+0x1F599C;ミスリルアーマー;MithrilArmaduraMithrilManoplasMithrilGrevas;Mithril Armor;EN/curto;16;13;Aplicado
+0x1F59E3;オーラプレート;AuraPlacasAuraManoplasAuraGrevas;Aura Plate;EN/curto;14;10;Aplicado
+0x1F5A27;ダマスカスアーマー;DamascoArmaduraDamascoManoplasDamascoGrevas;Damascus Armor;EN/curto;18;14;Aplicado
+0x1F5A6E;ミストアーマー;NevoaArmaduraNevoaManoplasNevoaGrevas;Mist Armor;EN/curto;14;10;Aplicado
+0x1F5AB3;ブレイブアーマー;BravaArmaduraBravaManoplasBravaGrevas;Brave Armor;EN/curto;16;11;Aplicado
+0x1F5AF9;ブラスアーマー;LataoArmaduraLataoManoplasLataoGrevas;Brass Armor;EN/curto;14;11;Aplicado
+0x1F5B3F;スケイルメイル;Cota de EscamasEscamasManoplasEscamasGrevas;Scale Mail;EN/curto;14;10;Aplicado
+0x1F5BC6;スペルメイル;Cota ArcanaArcanoManoplasArcanoGrevas;Arcane Mail;EN/curto;12;11;Aplicado
+0x1F5C0A;スコーピオンシェル;Carapaca de EscorpiaoEscorpiaoManoplasEscorpiaoGrevas;Scorpion Shell;EN/curto;18;14;Aplicado
+0x1F5C54;武者胴丸;Couraca de GuerreiroManoplas de GuerreiroCaneleiras de Guerreiro;Warrior;EN/curto;8;7;Aplicado
+0x1F5C95;ヘビィアーマー;PesadaArmaduraPesadaManoplasPesadaGrevas;Heavy Armor;EN/curto;14;11;Aplicado
+0x1F5CDB;インペリアルメイル;ImperialCotaImperialProtecaoImperialBotas;Imperial Mail;EN/curto;18;13;Aplicado
+0x1F5D6C;ヴァラーメイル;ValorCotaValorManoplasValorGrevas;Valor Mail;EN/curto;14;10;Aplicado
+0x1F5DB2;ヒュドラスケイル;Escamas de HidraHidraManoplasHidraGrevas;Hydra Scale;EN/curto;16;11;Aplicado
+0x1F5DFA;ダイダロスメイル;Cota de DedaloDedaloManoplasDedaloGrevas;Cota Dedalo;PT-BR curto;16;11;Aplicado
+0x1F5E3F;バイキングメイル;VikingCotaVikingManoplasVikingGrevas;Viking Mail;EN/curto;16;11;Aplicado
+0x1F5EC6;デモンズハイド;DemonioCouroDemonioMaosDemonioPernas;Demonhide;EN/curto;14;9;Aplicado
+0x1F5F0C;ロバストプレート;RobustaPlacasRobustaManoplasRobustaGrevas;Sturdy Plate;EN/curto;16;12;Aplicado
+0x2727A4;鎧;Armaduras Pesadas;HA;EN (abreviado);2;2;Aplicado
+0x2727B7;服;Roupas;Cl;EN (abreviado);2;2;Aplicado
+0x2727CA;軽鎧;Armaduras Leves;LA;EN (abreviado);4;2;Aplicado
+0x2727DF;鎧;Armaduras Pesadas;HA;EN (abreviado);2;2;Aplicado
+0x272C70;斧;Machados;Ax;EN (abreviado);2;2;Aplicado
+0x272F2D;強化;Materiais de aprimoramento;Upg.;EN (abreviado);4;4;Aplicado
+0x2731E9;棍;Macas;Ma;EN (abreviado);2;2;Aplicado
+0x273F83;手袋;Luvas;Glov;EN (abreviado);4;4;Aplicado
+0x273F98;軽手甲;Manoplas Leves;LGnt;EN (abreviado);6;4;Aplicado
+0x273FAF;手甲;Manoplas;Gnt.;EN (abreviado);4;4;Aplicado
+0x2740B9;鎚;Martelos;Hm;EN (abreviado);2;2;Aplicado
+0x275DA6;刀;Katanas;Kt;EN (abreviado);2;2;Aplicado
+0x275DE7;短剣;Adagas;Dag;EN (abreviado);4;3;Aplicado
+0x277C44;細剣;Floretes;Rap;EN (abreviado);4;3;Aplicado
+0x27800F;杖;Cajados;St;EN (abreviado);2;2;Aplicado
+0x278452;靴;Sapatos;Sh;EN (abreviado);2;2;Aplicado
+0x278465;軽具足;Botas Leves;LBts;EN (abreviado);6;4;Aplicado
+0x27847C;具足;Grevas;Grv;EN (abreviado);4;3;Aplicado
+0x278914;曲刀;Espadas Curvas;Scim;EN (abreviado);4;4;Aplicado
+0x278C6C;長剣;Espadas Longas;Long;EN (abreviado);4;4;Aplicado
+0x278E8F;強化;Materiais de aprimoramento;Upg.;EN (abreviado);4;4;Aplicado

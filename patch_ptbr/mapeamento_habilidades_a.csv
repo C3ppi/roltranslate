@@ -1,0 +1,71 @@
+﻿Offset;Japonês;PT do glossário;Texto aplicado;Idioma;Capacidade bytes;Resultado
+2123242;ライフガードⅠ;Protecao Vital I;;;14;Sem traducao que caiba
+0x205446;フェイタルショックⅠ;Choque Fatal I;Choque Fatal I;PT-BR;20;Zlib nao coube no tamanho original
+0x2054D8;フェイタルショックⅡ;Choque Fatal II;Choque Fatal II;PT-BR;20;Aplicado
+0x205586;フェイタルショックⅢ;Choque Fatal III;Choque Fatal III;PT-BR;20;Aplicado
+0x205621;ハウリング;Uivo;Uivo;PT-BR;10;Aplicado
+0x205694;スティールⅠ;Roubo I;Roubo I;PT-BR;12;Aplicado
+0x205716;ヒールⅠ;Cura I;Cura I;PT-BR;8;Aplicado
+0x205773;ヒールⅡ;Cura II;Cura II;PT-BR;8;Aplicado
+0x2057CE;ヒールⅢ;Cura III;Cura III;PT-BR;8;Aplicado
+0x20582D;ヒールⅣ;Cura IV;Cura IV;PT-BR;8;Aplicado
+0x205889;リザレクションⅠ;Ressurreicao I;Ressurreicao I;PT-BR;16;Aplicado
+0x2058FD;リザレクションⅡ;Ressurreicao II;Ressurreicao II;PT-BR;16;Aplicado
+0x205972;リカバリーⅠ;Recuperacao I;Recup. I;PT curto;12;Aplicado
+0x2059DB;リカバリーⅡ;Recuperacao II;Recup. II;PT curto;12;Aplicado
+0x205A44;ヒールフィールドⅠ;Campo de Cura I;Campo de Cura I;PT-BR;18;Aplicado
+0x205AC4;ヒールフィールドⅡ;Campo de Cura II;Campo de Cura II;PT-BR;18;Zlib nao coube no tamanho original
+0x205B44;チャージSTR;Carga STR;Carga STR;PT-BR;11;Aplicado
+0x205BB0;チャージVIT;Carga VIT;Carga VIT;PT-BR;11;Aplicado
+0x205C1C;チャージINT;Carga INT;Carga INT;PT-BR;11;Aplicado
+0x205C88;チャージMEN;Carga MEN;Carga MEN;PT-BR;11;Aplicado
+0x205CF4;ライフブーストⅠ;Reforco Vital I;Reforco Vital I;PT-BR;16;Aplicado
+0x205D6C;リデュースSTRⅠ;Reduzir STR I;Reduzir STR I;PT-BR;15;Aplicado
+0x205DDD;リデュースVITⅠ;Reduzir VIT I;Reduzir VIT I;PT-BR;15;Aplicado
+0x205E4E;リデュースINTⅠ;Reduzir INT I;Reduzir INT I;PT-BR;15;Aplicado
+0x205EBF;リデュースMENⅠ;Reduzir MEN I;Reduzir MEN I;PT-BR;15;Aplicado
+0x205F30;リデュースSTRⅡ;Reduzir STR II;Reduzir STR II;PT-BR;15;Zlib nao coube no tamanho original
+0x205FA7;リデュースINTⅡ;Reduzir INT II;Reduzir INT II;PT-BR;15;Zlib nao coube no tamanho original
+0x20601E;アルケミー;Alquimia;Alquimia;PT-BR;10;Zlib nao coube no tamanho original
+0x2060B7;ボムクリエイト;Criar Bomba;Criar Bomba;PT-BR;14;Zlib nao coube no tamanho original
+0x206157;ファーマシー;Farmacia;Farmacia;PT-BR;12;Aplicado
+0x2061F9;ファストリチャージⅠ;Recarga Rapida I;Recarga Rapida I;PT-BR;20;Zlib nao coube no tamanho original
+0x206269;プロテクション;Protecao;Protecao;PT-BR;14;Aplicado
+0x2062F5;スピードドライブ;Impulso Veloz;Impulso Veloz;PT-BR;16;Aplicado
+0x206371;パーフェクトガード;Defesa Perfeita;Defesa Perfeita;PT-BR;18;Aplicado
+0x20641D;ティップトゥ;Ponta dos Pes;Tiptoe;PT curto;12;Zlib nao coube no tamanho original
+0x2064C6;スペルカウンター;Contra-Magia;Contra-Magia;PT-BR;16;Zlib nao coube no tamanho original
+0x20656B;ソリッドボディⅠ;Corpo Resistente I;Corpo Solido I;PT curto;16;Aplicado
+0x20666C;ドレインガード;Guarda Drenante;Guarda Dreno;PT curto;14;Zlib nao coube no tamanho original
+0x206724;オートカウンターⅠ;Contra-ataque Automatico I;Contra Auto I;PT curto;18;Aplicado
+0x2067B9;オートカウンターⅡ;Contra-ataque Automatico II;Contra Auto II;PT curto;18;Aplicado
+0x20684E;バンコンバット;Bloquear Combate;Bloq. Combate;PT curto;14;Zlib nao coube no tamanho original
+0x2068CB;バンマジック;Bloquear Magia;Bloq. Magia;PT curto;12;Aplicado
+0x206947;デルード;Iludir;Iludir;PT-BR;8;Aplicado
+0x2069BB;メズマライズⅠ;Hipnotizar I;Hipnotizar I;PT-BR;14;Aplicado
+0x206A35;マリオネットⅠ;Marionete I;Marionete I;PT-BR;14;Aplicado
+0x206A9C;マリオネットⅡ;Marionete II;Marionete II;PT-BR;14;Aplicado
+0x206B03;ブレスドフィールド;Campo Abencoado;Campo Abencoado;PT-BR;18;Aplicado
+0x206B8D;デマイズⅠ;Ruina I;Ruina I;PT-BR;10;Aplicado
+0x206C0C;デマイズⅡ;Ruina II;Ruina II;PT-BR;10;Aplicado
+0x206C85;ディスパース;Dispersao;Dispersao;PT-BR;12;Aplicado
+0x206CF5;デコイ;Isca;Isca;PT-BR;6;Aplicado
+0x206D5D;マジックインパクトⅠ;Impacto Magico I;Impacto Magico I;PT-BR;20;Aplicado
+0x206DCD;ロストターゲット;Alvo Perdido;Alvo Perdido;PT-BR;16;Aplicado
+0x206E33;ストルーボム;Bomba de Palha;Bomba Palha;PT curto;12;Aplicado
+0x206F25;バーンアップⅠ;Combustao I;Combustao I;PT-BR;14;Aplicado
+0x206FD0;イフィシェントブレイク;Ruptura Eficiente;Ruptura Eficiente;PT-BR;22;Aplicado
+0x207055;タードリィショックⅠ;Choque Retardado I;Choque Retardado I;PT-BR;20;Aplicado
+0x2070E5;バリアブルアサルトⅠ;Assalto Variavel I;Assalto Variavel I;PT-BR;20;Zlib nao coube no tamanho original
+0x20715C;ペネトレイトⅠ;Penetracao I;Penetracao I;PT-BR;14;Aplicado
+0x2071E7;フォースリベレイションⅠ;Liberar Forca I;Liberar Forca I;PT-BR;24;Aplicado
+0x207268;アキュレイトマジックⅠ;Magia Precisa I;Magia Precisa I;PT-BR;22;Aplicado
+0x2072E1;アキュレイトマジックⅡ;Magia Precisa II;Magia Precisa II;PT-BR;22;Aplicado
+0x20735B;アキュレイトマジックⅢ;Magia Precisa III;Magia Precisa III;PT-BR;22;Aplicado
+0x2073D5;テレポート;Teleporte;Teleporte;PT-BR;10;Aplicado
+0x20743E;スモーク;Fumaca;Fumaca;PT-BR;8;Aplicado
+0x2074BA;インパート;Conceder;Conceder;PT-BR;10;Aplicado
+0x20752D;フォールエアレイド;Ataque Aereo Descendente;Ataque Rasante;PT curto;18;Aplicado
+0x2075A2;ライジングエアレイド;Ataque Aereo Ascendente;Ataque Aereo Alto;PT curto;20;Aplicado
+0x207624;ディスペル;Dissipar;Dissipar;PT-BR;10;Aplicado
+0x209995;サンダーストーム;Tempestade Eletrica;Trovao;PT curto;16;Aplicado

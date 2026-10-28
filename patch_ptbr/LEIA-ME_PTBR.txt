@@ -1,0 +1,16 @@
+Camada parcial de traducao PT-BR para The Ruins Of The Lost Kingdom v7.02.
+
+Arquivos desta pasta:
+- cr\a.cr: textos de interface, 285 campos de itens/equipamentos (209 nomes distintos) e 441 campos de habilidades/passivas/nomes traduzidos. Foram usados nomes em portugues quando cabiam; ingles e abreviacoes curtas foram usados nos campos estreitos.
+- cr\b.cr: pacote da referencia do usuario, com 82 textos de jogo traduzidos confirmados.
+- cr\c.cr: pacote da referencia aplicado, com 263 nomes de ataques e habilidades em portugues.
+- mapeamento_a_ptbr.csv: pares japones-portugues usados na primeira camada de a.cr.
+- mapeamento_menus_comprimidos.csv: 24 campos de interface identificados pelas capturas.
+- mapeamento_itens_armas.csv: nomes de itens/equipamentos alterados, idioma, limite de bytes e resultado.
+- mapeamento_c_referencia.csv: nomes de ataques/habilidades alterados em c.cr.
+- mapeamento_habilidades_a.csv e mapeamento_habilidades_restantes.csv: nomes de habilidades/passivas identificados em a.cr e resultado por campo.
+- mapeamento_mapa_baus.csv: 1.095 campos de lugares, mapas, minimapa, chaves e baus alterados; inclui bytes, offsets e tradutores usados.
+
+Os arquivos foram aplicados em game\rol\cr. Os originais de a.cr, b.cr e c.cr estao preservados como *.codex-original.bak na pasta do jogo. Ha tambem backups de a.cr antes das rodadas de menu e itens. Para reverter tudo, restaure os backups originais.
+
+A validacao estrutural confirmou que a.cr manteve o tamanho original e que os campos traduzidos continuam descompactando corretamente. Os blocos comprimidos foram mantidos nos mesmos offsets. Ainda falta validar visualmente esta rodada dentro do jogo. Restam 15 campos que nao foram alterados: 13 na rodada inicial e 2 na rodada complementar, listados nos mapeamentos. Descricoes longas, dialogos, itens e textos narrativos ainda podem conter japones. A rodada de lugares/mapas/baus foi validada estruturalmente, mas ainda falta conferir visualmente no jogo. Consulte PROGRESSO_E_CONTINUACAO.md para o estado detalhado e os proximos passos.

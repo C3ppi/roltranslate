@@ -1,0 +1,101 @@
+CD3D8::Initialize:220 {
+	Regist DeviceBuilder ... done.
+	Direct3DCreate8 ... done.
+	EnumMode ... done.
+	DeviceBuilder::CreateDevice {
+	}
+	ResetDevice {
+		Device is available.
+	}
+	FPUCW {
+		 0:1
+		 1:1
+		 2:1
+		 3:1
+		 4:1
+		 5:1
+		 6:1
+		 7:0
+		 8:0
+		 9:0
+		10:0
+		11:0
+		12:0
+		13:0
+		14:0
+		15:0
+	}
+	GetDeviceCaps ... done.
+	GetCreationParameters ... done.
+	DeviceBuilder::CheckDeviceCaps {
+	}
+	EnumTextureFormats {
+		Opaque {
+			D3DFMT_X8R8G8B8
+			D3DFMT_R5G6B5
+			D3DFMT_DXT1
+		}
+		Alpha {
+			D3DFMT_A8R8G8B8
+			D3DFMT_A4R4G4B4
+			D3DFMT_DXT5
+		}
+		ColorKey {
+			D3DFMT_A8R8G8B8
+			D3DFMT_A1R5G5B5
+			D3DFMT_DXT1
+		}
+		Text {
+			D3DFMT_A4R4G4B4
+		}
+	}
+	Regist StateBlocks {
+		0:ok
+		1:ok
+		2:ok
+		3:ok
+		4:ok
+		5:ok
+	}
+	Regist VertexShaders {
+		0:ok
+		1:ok
+		2:ok
+		3:ok
+		4:ok
+		5:ok
+		6:ok
+		7:ok
+		8:ok
+		9:ok
+		10:ok
+		11:ok
+		12:ok
+		13:ok
+		14:ok
+	}
+	Initialize:DynamicVB ... done.
+	Initialize:DynamicIB ... done.
+	DynamicBufferSize {
+		VB:20000
+		IB:60000
+	}
+	Initialize:RenderMgr ... done.
+	Initialize:TextureMgr ... done.
+	Initialize:SpriteMgr ... done.
+}
+CD3D8::Terminate {
+	Clear:StateBlock ... done.
+	Clear:DynamicVB ... done.
+	Clear:DynamicIB ... done.
+	Clear:Text ... done.
+	Clear:RenderToSurface ... done.
+	Clear:Sprite ... done.
+	Clear:Texture {
+	}
+	Clear:RenderMgr ... done.
+	Clear:ManagedObjects ... done.
+	Clear:ManagedResources ... done.
+	Clear:Interfaces ... done.
+	Clear:InnerState ... done.
+}

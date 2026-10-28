@@ -1,0 +1,16 @@
+RoL Setting PT-BR - Fase 17 (EXPERIMENTAL)
+
+Esta versao foi criada a partir do setting.exe original enviado pelo usuario.
+Foram reinseridos 8 recursos DIALOG/DIALOGEX com 72 campos traduzidos.
+Ainda NAO foi testada a execucao no Windows. Textos dinamicos podem continuar em japones ou ilegíveis.
+
+TESTE:
+1. Feche o jogo e o configurador.
+2. Mantenha o setting.exe original sem alteracoes.
+3. Extraia setting_PTBR_fase17.exe na mesma pasta do setting.exe original.
+4. Execute setting_PTBR_fase17.exe.
+5. Confira as abas. Antes de salvar configuracoes, faca backup de setting.ini.
+6. Se falhar, feche o programa e use o setting.exe original.
+
+Nao e necessario alterar o idioma do Windows.
+Nao distribua este executavel modificado publicamente sem verificar direitos de distribuicao.
