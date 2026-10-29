@@ -1,0 +1,1945 @@
+﻿Japones;Traducao aplicada (1a opcao);Bytes originais;Bytes traducao
+  未勝利;Sem vit.;8;8
+%-18s    [ プレイ時間：%s ];%-18s    [ Tempo: %s ];27;22
+%-18s  分解%6dABP;%-18s Desm.%6dABP;17;17
+%-18s  合成%6dABP;%-18s Fusao%6dABP;17;17
+%-18s がランク %2d にランクアップ！;%-18s subiu ao rank %2d!;35;24
+%-18s%10dベル;%-18s%10dBell;13;13
+%-18s%4d勝 %4d敗    Lv%3s%27s(v%s);%-18s%4dV %4dD    Lv%3s%27s(v%s);34;32
+%-24s リチャージ %4d秒\n\n;%-24s Recarga %4ds\n\n;24;20
+%2d位  %-18s%12d勝;%2d.  %-18s%12d;18;15
+%2d位  %-18s%12d連勝;%2d.  %-18s%12d;20;15
+%3d階から;De %3dF;9;7
+%8s日 %02s:%02s:%02s;%8sd %02s:%02s:%02s;20;19
+%d ダメージ;%d de dano;11;10
+%d ヒット;%d Hits;9;7
+%d 回戦;Rd %d;7;5
+%d位にランキングされました;Ficou em %d. no ranking;26;23
+%lu ベル手に入れた;Obteve %lu Bell;18;15
+%s からスティール成功！;Roubo de %s OK!;23;15
+%s が %s Lv%d になった;%s chegou a %s Lv%d;22;19
+%s が +%d になった！;%s agora e +%d!;20;15
+%s がアイテムを差し出した！;%s entregou um item!;27;20
+%s がクラススキル %s を習得した;%s aprendeu skill de classe %s;31;30
+%s がパッシブスキル %s を習得した;%s aprendeu a skill passiva %s;33;30
+%s が現れた;%s apareceu;11;11
+%s にクラスチェンジしました;Mudou para a classe %s;27;22
+%s の中断データ;Pausa de %s;15;11
+%s は粉々に砕け散ってしまった;%s se despedacou;29;16
+%s は鞄が一杯で拾えない;%s: bolsa cheia;23;15
+%s を使った;Usou %s;11;7
+%s を帰還ポイントに設定しました;%s e o ponto de retorno;31;23
+%s を帰還ポイントに設定しますか？;Definir %s como ponto de retorno?;33;33
+%s を手に入れた;Obteve %s;15;9
+%s を手に入れた(倉庫へ送られました);Obteve %s (enviado ao deposito);35;31
+%s を渡した;Deu %s;11;6
+%s 個人戦績;Perfil %s;11;9
+%s 新しいバージョンのセーブデータです;%s: save de versao mais nova;37;28
+%s 無効なバージョンのセーブデータです;%s: save de versao invalida;37;27
+%s 獲得！;Ganhou %s;9;9
+%s 用レジストコンボ;Combo reg. p/ %s;19;16
+%s 読み込みに失敗しました;%s: falha ao carregar;25;21
+%s(%s)\n\n\n短 %s  細 %s  剣 %s\n曲 %s  刀 %s  斧 %s\n鎚 %s  杖 %s  棍 %s\n魔 %s;%s(%s)\n\n\nDg %s  Rp %s  Sw %s\nSb %s  Kt %s  Ax %s\nHm %s  St %s  Cl %s\nMg %s;74;74
+%sさんが%sに倒されました;%s foi derrotado por %s;24;23
+%sさんが%sを手に入れました;%s obteve %s;26;12
+%sさんが%s編%s章をクリアしました;%s concluiu P%s Cap.%s;32;22
+%sさんがキャロドの迷宮%s階から生還しました;%s voltou vivo do Labirinto Carod %sF;42;37
+%sさんがミッション%sをクリアしました;%s concluiu a missao %s;36;23
+%sさんがログアウトしました;%s saiu do jogo;26;15
+%sさんがログインしました;%s entrou no jogo;24;17
+%sのシリアルキーを入力してください;Digite a chave serial de %s;34;27
+%sを置きますか？;Colocar %s?;16;11
+%s討伐あと %d 体;%s: faltam %d;16;13
+%s討伐が完了しました ロドへ報告へ行きましょう;Caca de %s concluida. Fale com Rodo;45;35
+(コメント無し);(Sem coment.);14;13
+(不明なユーザー);(Usuario desc.);16;15
+(古い中断データは上書きされます);(Pausa antiga sera\nsobrescrita);32;31
+(名称なし);(Sem nome);10;10
+(現在、無効化されています);(Desativado no momento);26;23
+(現在地);(Aqui);8;6
+(習得済み);(Ja tem);10;8
+(装備品無し);(Sem equip.);12;12
+(該当する行動が見つかりません);(Nenhuma acao encontrada);30;25
+ABPが足りません;Falta ABP;15;9
+AIには「IP」というポイントが設定されており「セット」を\n組んだり、「条件」を増やしたりする事でこのポイントを\n消耗していきます。\n\n「IP」が0になるとAIに「セット」「条件」「行動」を\n追加出来なくなります。;"A IA tem pontos ""IP"", gastos ao montar Conjuntos ou\nadicionar condicoes.\n\nCom ""IP"" em 0, nao e possivel adicionar ""Conjuntos"",\n""Condicoes"" ou ""Acoes"".";200;150
+AIの「セット」には複数の条件や行動を設定する事が\n出来ます。\nここでは「複数の条件」を設定する方法とその説明をします。\n\n複数の条件が指定された場合については「4 - AIの流れ」で\n説明した「セット」のチェックの流れ同様に\n「上から順番」に「絞り込み」を行います。\n\n例えば・・・\n\n--------------------\n条件１：３メートル以上離れた\n条件２：最も近い\n対象　：敵\n行動１：武器通常攻撃\n--------------------\n\nという「セット」を組むと\nまず\n　「条件１：３メートル以上離れた」\nに従って対象を絞り込みます。\n次に\n　「条件２：最も近い」\nに従って更に絞り込みを行います。\n\n「３メートル以上離れている 中で 最も近い敵」\nと読んで貰えると判りやすいでしょうか。\nただし、複数の「条件」を設定する場合は順序に\n注意する必要があります。;"Um ""Conjunto"" pode ter varias condicoes e acoes.\nAqui, como usar ""varias condicoes"".\n\nCom varias condicoes, o filtro e feito ""de cima para\nbaixo"", como na verificacao de Conjuntos em ""4 - Fluxo\nda IA"".\n\nExemplo:\n\n--------------------\nCondicao 1: a 3m ou mais\nCondicao 2: mais proximo\nAlvo      : inimigo\nAcao 1    : ataque normal\n--------------------\n\nPrimeiro filtra por ""Condicao 1: a 3m ou mais"".\nDepois filtra por ""Condicao 2: mais proximo"".\n\nLeia como ""o inimigo mais proximo entre os a 3m ou\nmais"".\nAo usar varias condicoes, cuide da ordem.";700;546
+AIの「セット」には複数の条件や行動を設定する事が\n出来ます。\nここでは「複数の行動」を設定する方法とその説明をします。\n\n複数の行動が指定された場合については「4 - AIの流れ」で\n説明した「セット」のチェックの流れと同様に\n「上から順番」に行動を行います。\n\n例えば・・・\n\n--------------------\n条件１：最も近い\n対象　：敵\n行動１：アッパーブロウ\n行動２：武器通常攻撃\n--------------------\n\nという「セット」を組むと\n\n「最も近い 敵に アッパーブロウ をした後に 武器通常攻撃」\n\nという行動を取る事になります。\nこれを利用する事でAIにコンボをさせるなどといった事も\n出来るようになります。;"Um ""Conjunto"" pode ter varias condicoes e acoes.\nAqui, como usar ""varias acoes"".\n\nCom varias acoes, elas sao executadas ""de cima para\nbaixo"", como na verificacao de Conjuntos em ""4 - Fluxo\nda IA"".\n\nExemplo:\n\n--------------------\nCondicao 1: mais proximo\nAlvo      : inimigo\nAcao 1    : Upper Blow\nAcao 2    : ataque normal\n--------------------\n\nEsse Conjunto faz: ""no inimigo mais proximo, Upper\nBlow e depois ataque normal"".\nAssim voce pode fazer a IA usar combos.";569;465
+AIの基本;IA Base;8;7
+AIの流れ;Fluxo IA;8;8
+AIは設定されているセットを「上から順番」に\nチェックしていき最初に「条件」を満たした「セット」の\n「行動」を実行します。\n\nここでセットを選択する基準となる「条件」が\nとても重要になります。\n「条件」次第では他のセットが実行されないような\n状態になってしまう場合もあります。\n(必ず成立するような「条件」を上の方へ配置すると、\nそこから下の「セット」が事実上無視されてしまう、等)\n\n上手くAIが動作しない場合は「条件」が適切に\n設定されていない場合が殆どなので\nそういった場合には「条件」に目を通してみる事を\nおすすめします。;"A IA verifica os Conjuntos ""de cima para baixo"" e\nexecuta a ""Acao"" do primeiro Conjunto cuja\n""Condicao"" for satisfeita.\n\nPor isso a ""Condicao"" e muito importante.\nDependendo dela, outros Conjuntos podem nunca\nrodar. (Ex.: uma condicao sempre verdadeira no\ntopo faz os Conjuntos abaixo serem ignorados)\n\nSe a IA nao funcionar bem, quase sempre as\n""Condicoes"" estao erradas, entao revise-as.";510;389
+AI編集とは？;O que e IA?;12;11
+AI編集に関する説明を閲覧できます [↑↓] 説明項目の切り替え  [B] 戻る;Ve explicacoes sobre edicao de IA [↑↓] Trocar item\n[B] Voltar;68;63
+Aボタンでミッション開始;Botao A inicia a missao;23;23
+BGM音量;BGM Vol;7;7
+Exエリクサー;Ex Elixir;12;9
+Exエーテル;Ex Ether;10;8
+Exシャープナー;Ex Sharpener;14;12
+Exポーション;Ex Potion;12;9
+ExポーションII;Ex Potion II;14;12
+ExポーションIII;Ex Potion III;15;13
+ExポーションIV;Ex Potion IV;14;12
+ExポーションV;Ex Potion V;13;11
+ExポーションVI;Ex Potion VI;14;12
+ExポーションVII;Ex Potion VII;15;13
+ExポーションVIII;Ex Potion VIII;16;14
+HP残量：%8s％;HP %8s%%;13;8
+HTTPエラーが発生しました;Ocorreu um erro HTTP;24;20
+HiScore %10s\n\n制限時間     %2d:%02d  装備品持込    %4s  \n開始レベル      %2s  仲間          %4s  \nアイテム持込  %4s\n\n;HiScore %10s\n\nTempo     %2d:%02d  Equip.    %4s  \nNivel Ini.  %2s  Aliados  %4s  \nItens      %4s\n\n;117;98
+IPについて;Sobre IP;10;8
+Lv%d\n%s属性スキル\n切れ味消費 %2d\nABP     %5d\n耐久度  %2d/%2d;Lv%d\nSkill de %s\nFio       %2d\nABP     %5d\nDurab.  %2d/%2d;60;58
+Lv%d\n%s属性魔法\n魔力消費   %2d\nABP     %5d\n耐久度  %2d/%2d;Lv%d\nMagia de %s\nMana    %2d\nABP     %5d\nDurab.  %2d/%2d;58;56
+Lv%d\n切れ味消費 %2d\nABP     %5d\n耐久度  %2d/%2d;Lv%d\nFio       %2d\nABP     %5d\nDurab.  %2d/%2d;47;46
+Lv%d\n切れ味消費 %2d\n魔力消費   %2d\nリチャージ %4d秒;Lv%d\nFio       %2d\nMagia     %2d\nRecarga %4ds;51;45
+Lv%d\n対%s種族スキル\n切れ味消費 %2d\nABP     %5d\n耐久度  %2d/%2d;Lv%d\nSkill vs %s\nFio       %2d\nABP     %5d\nDurab.  %2d/%2d;62;58
+Ruinasから引き継いだアイテムを取り出す事が出来ます 取り出し可能なアイテムはレベルで制限されます [A] 選択/倉庫へ移動 [B] キャンセル [C] 装備品詳細表示/非表示 [↑↓] カーソル移動  [←→] 種類変更 [PageUp/Down] ページ戻し/送り;Retira itens herdados de Ruins. Os retiraveis dependem\ndo nivel [A] Escolher/Mover ao deposito [B] Cancelar\n[C] Mostrar/ocultar detalhes [↑↓] Mover cursor  [←→]\nMudar tipo [PageUp/Down] Pagina ant./prox.;223;207
+[A] ミッション選択へ;[A] Escolher missao;20;19
+[A] 次へ;[A]Prox;8;7
+[A] 総合スコアへ;[A] Pont.Total;16;14
+[←→] 地域の切り替え  [↑↓] 階層の切り替え  [A+方向キー] スクロール  [青色表示] 通った個所  [灰色表示] マップで見れる個所;[←→] Trocar regiao  [↑↓] Trocar andar  [A+direcao]\nRolar  [Azul] Ja passou  [Cinza] Visivel no mapa;123;103
+[↑↓] ユーザー切り替え  [A] ユーザー選択  [B] タイトルへ戻る  新たにユーザーを作成する場合は一番下の「新規ユーザーの作成」を選択してください;"[↑↓] Trocar usuario  [A] Escolher usuario  [B] Voltar\nao titulo  Para criar um novo usuario, escolha ""Criar\nnovo usuario"" no fim";141;130
+「はい」を選択するとモード選択へ戻ります;"Com ""Sim"", volta a selecao de modo";40;34
+「ユーザー名入力欄」でエンターを押すと入力を開始します ユーザー名を半角4～18(全角2～8)文字で入力してください ひらがな/漢字などの入力は「半角/全角」キーを入力して入力モードを変更してください;"Aperte Enter no campo de usuario para digitar. Use\n4-18 caracteres (full-width 2-8). Para hiragana/kanji,\nalterne o modo de entrada com a tecla ""Half/Full-\nwidth"".";189;163
+「一閃」の;One Flash;10;9
+「不敗」の;Unbeaten;10;8
+「亡失」の;Lost One's;10;10
+「修理」の必要はありません;"Nao precisa de ""Reparo""";26;23
+「光冠」の;Halo's;10;6
+「冥府の梟雄」;Hades Tyrant;14;12
+「凶剣」の;Evil Blade;10;10
+「分解」でアイテムを取り外してください;"Remova o item com ""Desm.""";38;25
+「剛斧」の;Mighty Axe;10;10
+「剣聖」;SwdSaint;8;8
+「千剣」の;1000Swords;10;10
+「夢幻」の;Dream's;10;7
+「天啓」の;Revelation;10;10
+「天稟」の;Gifted;10;6
+「天陽」の;Heaven Sun;10;10
+「幻妖」の;Phantom's;10;9
+「幻竜団」;Wyrm Band;10;9
+「幽界の囁き」;Spirit Whisper;14;14
+「懐刃」の;Hid. Blade;10;10
+「旋斧」の;Whirl Axe;10;9
+「星芒」の;Starburst;10;9
+「武器」と「指輪」を装備しないと入れません;"Equipe ""Arma"" e ""Anel"" para entrar";42;34
+「武器」と「指輪」を装備しないと攻撃できません;"Precisa equipar ""Arma"" e ""Anel"" para atacar";46;43
+「死神」;Reaper;8;6
+「毒牙」の;Venomfang;10;9
+「氷葬」の;Ice Burial;10;10
+「漆黒の隻影」;Black Shadow;14;12
+「漠砂の豹」;Sand Panther;12;12
+「無双」の;Peerless;10;8
+「爆塵」の;Blast Dust;10;10
+「狼皇」;Wolf Emp;8;8
+「疾風」の;Gale's;10;6
+「白面」の;White Face;10;10
+「百術」の;100 Spells;10;10
+「百里眼」の;Farseer's;12;9
+「碧天の鷹」;Azure Hawk;12;10
+「竜心王」;DragonKing;10;10
+「精霊」;Spirit;8;6
+「精霊憑き」の;Spirit-Bound;14;12
+「紅焔の翼」;Crimson Wing;12;12
+「紅蓮」の;Crimson's;10;9
+「聖愛」の;Holy Love;10;9
+「舞刃」の;BladeDance;10;10
+「蒼銀の牙」;Blue Fang;12;9
+「覇王の剣」に秘められた、魔王の結界を斬り裂く力;"Poder da ""Espada do Rei"" que rompe a barreira.";48;46
+「赤鬼」;Red Oni;8;7
+「鉄槌」の;Iron Maul;10;9
+「鎌鼬」の;Kamaitachi;10;10
+「闘鬼」;FightOni;8;8
+「雑識者」;Trivia Man;10;10
+「雪原の獅子」;Snow Lion;14;9
+「雷鳴」の;Thunder's;10;9
+「霞」の;Haze's;8;6
+「青鬼」;BlueOni;8;7
+「魔眼」の;Evil Eye;10;8
+あと;Mais;4;4
+いいえ;Nao;6;3
+いびつな角;Odd Horn;10;8
+いらない;Dispensa;8;8
+う～ん・・・これでもなんとかなるかな。\nありがとな。;Hmm... isso da pra aproveitar.\nObrigado.;51;40
+おてんば;Tomboy;8;6
+お喋りな;Chatty;8;6
+お金;Cash;4;4
+から;de;4;2
+が; ;2;1
+がパーティーを離れました;saiu do grupo;24;13
+がヒットした;acertou;12;7
+が仲間になった;virou aliado;14;12
+が傷つき倒れた;foi abatido;14;11
+こちら側からは開きそうにない;Nao abre deste lado;28;19
+このアイテムは「売却」できません;Este item nao pode ser vendido;32;30
+このアイテムを修理しますか？;Reparar este item?;28;18
+このアイテムを分解すると砕け散ってしまいます よろしいですか？;Desmontar este item o destroi. Confirma?;61;40
+このアイテムを売却しますか？;Vender este item?;28;17
+このアイテムを購入しますか？;Comprar este item?;28;18
+このミッションはポーション類/エリクサー/トランスポーターを持ち込む事は出来ません;Esta missao nao permite levar\nPocoes/Elixires/Transporter;80;57
+このミッションをプレイする;Jogar esta missao;26;17
+このユーザーでゲームを開始する場合は「決定」を選択してください ユーザーを削除する場合は「削除」を選択してください;"Para jogar com este usuario, escolha ""OK"". Para\nexcluir, escolha ""Del""";113;70
+この依頼を受ける;Aceitar o pedido;16;16
+この先へはまだ進めない;Ainda nao pode avancar;22;22
+この分解を行いますか？;Desmontar isto?;22;15
+この合成を行いますか？;Fazer esta fusao?;22;17
+この精錬を行いますか？;Fazer este refino?;22;18
+この装備品を強化しますか？;Upgrade deste equip.?;26;21
+この装備品を強化すると装備レベルをオーバーし装備できなくなります よろしいですか？;Com este upgrade o nivel passa do limite e nao da para\nequipar. Confirma?;81;73
+この鍵を持っているとミッションで開かない扉を開けれる;Com esta chave, abre portas fechadas em missoes.;52;48
+これは・・・すごい・・・。\nこれで研究が大幅に進むよ。;Isso e... incrivel...\nIsso acelera muito a pesquisa.;53;52
+これは今特に必要ないなぁ。\nでもまぁ貰っとくよ。;Nao preciso disso agora.\nMas vou aceitar.;47;41
+これ以上ログは取得出来ません;Nao ha mais logs disponiveis;28;28
+そのスロットは「合成」「分解」できません;"Slot nao permite ""Fusao""/""Desm.""";40;32
+その場から斬り下がりながら敵を攻撃する。;Recua cortando e ataca o inimigo.;40;33
+その太刀筋を見た者に死を招くと云われる抜刀術。\n高い確率で敵を即死させる。;Iaijutsu que traz morte a quem o ve.\n\nAlta chance de matar de vez.;73;66
+ではない;Nao e;8;5
+とある人物を捜し求め遺跡を訪れた剣士。\n若く端整な風貌だが、口数は少ない。\n\n過去を語ろうとはせず、その面持ちには\n暗い影を感じる。;"Espadachim que busca alguem nas\nruinas. Jovem e bonito, mas calado.\n\nEvita falar do passado; ha sombras\nem seu olhar.";128;117
+とは？;?;6;1
+どのキャラクターのAIを編集しますか？;Editar IA de qual personagem?;36;29
+どのキャラクターの倉庫から購入しますか？;Comprar do deposito de qual\npersonagem?;40;39
+どの階層から開始しますか？;Comecar de qual andar?;26;22
+どれを持っていく？;Qual levar?;18;11
+なし;Nao;4;3
+に;a;2;1
+ねじれた角;Twist Horn;10;10
+の;de;2;2
+の確率で;Chance;8;6
+はい;Sim;4;3
+は既に仲間になっています 仲間から外しますか？;ja e aliado. Remover do grupo?;45;30
+ひび割れた壁を破壊することが出来る。;Quebra paredes rachadas.;36;24
+へぇ・・・これはいい。\nこれが有れば新しい物が作れそうだよ。\nこれからもよろしく頼むよ。;Nossa, que bom.\nCom isto posso fazer algo novo.\nContinue assim.;86;63
+まで接近;Chegar a;8;8
+やっぱり断る;Recusar;12;7
+ゆっくりと敵に這いより、辺り一帯を切り刻む連続抜刀術を放\nつ。;Aproxima-se devagar e retalha tudo com iaijutsu em\nserie.;61;57
+を; ;2;1
+をガードした;Defendeu;12;8
+を仲間から外しました;removido do grupo;20;17
+を仲間にするのを諦めました;Desistiu de recrutar;26;20
+を仲間に加えますか？;Recrutar aliado?;20;16
+を持っていない;Nao possui;14;10
+を持っていません;nao possui;16;10
+アイアン;Iron;8;4
+アイアンガントレ;Iron Gauntlet;16;13
+アイアングリーヴ;Iron Greaves;16;12
+アイアンメイデン;Iron Maiden;16;11
+アイアン硬貨;Iron Coin;12;9
+アイテムが填っていません;Nao ha item encaixado;24;21
+アイテムのドロップ率が20%上昇する。\n効果は止めをさした場合のみ適応される。\n同種スキルは効果が加算される。;Taxa de drop +20%.\n\nVale so para o golpe final.\n\nEfeitos de skills iguais se somam.;105;83
+アイテムのドロップ率が30%上昇する。\n効果は止めをさした場合のみ適応される。\n同種スキルは効果が加算される。;Taxa de drop +30%.\n\nVale so para o golpe final.\n\nEfeitos de skills iguais se somam.;105;83
+アイテムを修理する事が出来ます [A] 決定 [B] キャンセル [C] 装備品詳細へフォーカスを移動 [↑↓] カーソル移動 [←→] 種類変更 [PageUp/Down] ページ戻し/送り;Repara itens [A] OK [B] Cancelar [C] Foco nos detalhes\n[↑↓] Mover cursor [←→] Mudar tipo [PageUp/Down] Pagina\nant./prox.;153;124
+アイテムを入れる事は出来ません;Nao pode colocar itens;30;22
+アイテムを取り出す事は出来ません;Nao pode retirar itens;32;22
+アイテムを売却する事が出来ます [A] 決定 [B] キャンセル [C] 装備品詳細へフォーカスを移動 [↑↓] カーソル移動 [←→] 種類変更 [PageUp/Down] ページ戻し/送り;Vende itens [A] OK [B] Cancelar [C] Foco nos detalhes\n[↑↓] Mover cursor [←→] Mudar tipo [PageUp/Down] Pagina\nant./prox.;153;123
+アイテムを購入する事が出来ます [A] 決定 [B] キャンセル [C] 装備品詳細へフォーカスを移動 [↑↓] カーソル移動 [←→] 種類変更 [PageUp/Down] ページ戻し/送り;Compra itens [A] OK [B] Cancelar [C] Foco nos detalhes\n[↑↓] Mover cursor [←→] Mudar tipo [PageUp/Down] Pagina\nant./prox.;153;124
+アイテムを２つ多く所持できるようになる。\n同種スキルは効果が加算される。;Carrega 2 itens a mais.\n\nEfeitos de skills iguais se somam.;71;59
+アエグリン;Aegrin;10;6
+アクアマリン;Aqua Marine;12;11
+アクションボタンでのジャンプの有効/無効を切り替えます;Ativa/desativa o pulo pelo botao de acao;53;40
+アクションボタンジャンプ;Action Button Jump;24;18
+アサシネイションⅠ;Assassinato I;18;13
+アシュル;Ashuru;8;6
+アジト;Lair;6;4
+アタックシフト;Attack Shift;14;12
+アダマンタイト;Adamantite;14;10
+アップロード;Upload;12;6
+アデプトグローブ;Adept Gloves;16;12
+アデプトブーツ;Adept Boots;14;11
+アデロ;Adero;6;5
+アネラス;Anelace;8;7
+アビスターナ;Abistana;12;8
+アビスターナ街路;Abistana Street;16;15
+アビスターナ街路 マナン情報屋前;Abistana St Manan Info Front;31;28
+アビスターナ街路 城門前;Abistana St Castle Gate;23;23
+アビスターナ街路 宿屋前;Abistana St Inn Front;23;21
+アベルダ;Aberuda;8;7
+アポリオン ;Apollyon;11;8
+アルケミスト;Alchemst;12;8
+アルケミストがその称号を得る証であると共に\n失われた古代の業を実現する為の媒介。;Prova do titulo de Alquimista e meio\npara recriar artes antigas perdidas.;79;73
+アルケミー;Alchemy;10;7
+アルレナの民の魔人化兆候を一時的に抑える事が出来る。\nニスティが暴走した際に、デルファから譲り受けた物。;Suprime a transformacao em demonio do povo\nArurena.\n\nDado por Derufa quando Nisti perdeu o controle.;103;100
+アルロ;Aruro;6;5
+アンジェ;Anje;8;4
+アンジーニ;Anjini;10;6
+アンドゥリル;Anduriru;12;8
+アンフィード監獄;Unfeed Prison;16;13
+アンフィード監獄 地下１階;Unfeed Prison B1;25;16
+アンフィード監獄 地下２階;Unfeed Prison B2;25;16
+アンフィード監獄の鍵の掛かっている扉を開ける事が出来る。;Abre as portas trancadas da Prisao Unfeed.;56;42
+アンフィード監獄地下１階に魔法を操る獣人\nがうろついている。\nレオナルドを数体引き連れており調査の邪魔\nになっているので退治してほしい。;"Um monstro que usa magia vaga no B1 da\nPrisao Unfeed com varios Leonards.\nAtrapalha a pesquisa; derrotem-nos.";133;109
+アンフィード監獄地下２階に鎌を持つ死霊が\n徘徊している。\n調査の妨げになるので討伐を頼みたい。;"Um espectro com foice vaga no B2 da\nPrisao Unfeed. Atrapalha a pesquisa;\npeco eliminacao.";92;89
+アンフィード監獄地下２階に骸骨の一団が現\nれた。\n被害者も多数出ている。\n討伐出来る者を募る。;Esqueletos surgiram no B2 da Prisao\nUnfeed, com muitas vitimas. Procuro\nquem os elimine.;91;88
+アヴァランチ;Avalanche;12;9
+アヴェンジャー;Avenger;14;7
+アヴェンス;Avensu;10;6
+アースシェイカー;Earthshaker;16;11
+アーロンズロッド;Aaron's Rod;16;11
+イクスプロージョン;Explosion;18;9
+イチェレス;Icheresu;10;8
+イレーマ;Irema;8;5
+インペリアルガード;Imperial Guard;18;14
+インペリアルブーツ;Imperial Boots;18;14
+イヴァリーの塔;Ivarie Tower;14;12
+イヴァリーの塔 地下４階;Ivarie Tower B4;23;15
+イヴァリーの塔 ２階;Ivarie Tower 2F;19;15
+イヴァリーの塔 ３階;Ivarie Tower 3F;19;15
+イヴァリーの塔の２階の部屋で蛇が大量に湧\nいている。\n中には強い個体も紛れているようだ。\n駆除して欲しい。;Muitas cobras surgem numa sala do 2F\nda Torre Ivarie.\n\nAlgumas sao fortes. Exterminem-nas.;103;90
+イヴァリーの塔屋上;Ivarie Tower Roof;18;17
+イヴァリーの塔２階;Ivarie Tower 2F;18;15
+イヴァリーの塔２階に際立って強いスケルト\nンがいる。\n調査の邪魔なので誰か討伐して欲しい。;"Ha um esqueleto muito forte no 2F da\nTorre Ivarie. Atrapalha a pesquisa;\nelimine-o.";88;83
+イヴァリーの塔２階テラスに首のない魔物が\n現れた。\n相手は身に甲冑を纏い、剣を帯びている。\n討伐を依頼したい。;Um monstro sem cabeca surgiu no\nterraco do 2F da Torre Ivarie, de\narmadura e espada. Peco eliminacao.;107;101
+イヴァリーの塔２階テラス北;Ivarie Tower 2F Terrace N;26;25
+イヴァリーの塔２階テラス南;Ivarie Tower 2F Terrace S;26;25
+イヴァリーの塔２階テラス東;Ivarie Tower 2F Terrace E;26;25
+イヴァリーの塔２階テラス西;Ivarie Tower 2F Terrace W;26;25
+イヴァリーの塔４階;Ivarie Tower 4F;18;15
+イヴァリーの塔４階テラス南;Ivarie Tower 4F Terrace S;26;25
+イヴァリーの塔４階テラス東;Ivarie Tower 4F Terrace E;26;25
+イヴァリーの塔４階テラス西;Ivarie Tower 4F Terrace W;26;25
+イヴァリーの塔６階;Ivarie Tower 6F;18;15
+イヴァリーの塔６階にいるゴーレムが一箇所\nに集まっている。\nその中にはどうやらマッドゴーレムと呼ばれ\nる一際強いゴーレムも居る。\n塔６階にいるゴーレムを全て討伐できる者を\n募集する。;Os golems do 6F da Torre Ivarie se\nreuniram num local.\n\nEntre eles ha um golem muito forte, o\nMud Golem.\n\nProcuro quem elimine todos os golems\ndo 6F.;177;149
+イヴァリーの塔６階テラス南;Ivarie Tower 6F Terrace S;26;25
+イヴァリーの塔６階テラス東;Ivarie Tower 6F Terrace E;26;25
+イヴァリーの塔６階テラス西;Ivarie Tower 6F Terrace W;26;25
+イヴァリーの塔８階;Ivarie Tower 8F;18;15
+イヴァリーの塔８階に大蜘蛛の集団が現れた\n。\n駆除が難航しているので、支援を願いたい。;"Aranhas gigantes no 8F da Torre\nIvarie. Extermino dificil; peco apoio.";84;70
+イヴァリーの塔８階テラス南;Ivarie Tower 8F Terrace S;26;25
+イヴァリーの塔８階テラス東;Ivarie Tower 8F Terrace E;26;25
+イヴァリーの塔８階テラス西;Ivarie Tower 8F Terrace W;26;25
+ウィザード;Wizard;10;6
+ウィザードグローブ;Wizard Gloves;18;13
+ウィザードシューズ;Wizard Shoes;18;12
+ウイングシフト;Wing Shift;14;10
+ウェッジシフト;Wedge Shift;14;11
+ウォリアー;Warrior;10;7
+ウォーグローブ;War Gloves;14;10
+ウォータスフィア;Water Sphere;16;12
+ウォーブーツ;War Boots;12;9
+ウォーロック;Warlock;12;7
+ウールグローブ;Wool Gloves;14;11
+ウールシューズ;Wool Shoes;14;10
+エアロクロス;Aero Cloth;12;10
+エクスパンジャー;Expander;16;8
+エッテタンゲ;Ettetange;12;9
+エナジーグローブ;Energy Gloves;16;13
+エナジーブーツ;Energy Boots;14;12
+エペ;Epee;4;4
+エルオ;Eruo;6;4
+エルダークローク;Elder Cloak;16;11
+エルダーグローブ;Elder Gloves;16;12
+エルダーブーツ;Elder Boots;14;11
+エルムセプター;Elm Scepter;14;11
+エルムロッド;Elm Rod;12;7
+エルメル商店;Elmer Shop;12;10
+エルヴングローブ;Elven Gloves;16;12
+エルヴンシューズ;Elven Shoes;16;11
+エレクトロキュート;Electrocute;18;11
+エンジェルブーツ;Angel Boots;16;11
+エンジェルミッツ;Angel Mitts;16;11
+エンチャンター;Enchanter;14;9
+エントリされた魔物の核 %2d/%2d;Nucleos registrados %2d/%2d;30;27
+エントリする魔物の核を選択してください [A] 決定 [B] キャンセル [↑↓] カーソル移動 [←→] ページ戻し/送り;Escolha o nucleo de monstro a registrar [A] OK [B]\nCancelar [↑↓] Mover cursor [←→] Pagina ant./prox.;105;104
+エンロード大空洞;Enlord Cavern;16;13
+オブシダンロッド;Obsidian Rod;16;12
+オラクルグローブ;Oracle Gloves;16;13
+オラクルブーツ;Oracle Boots;14;12
+オラシオン;Orashion;10;8
+オリハルコン;Orichalcum;12;10
+オンラインランキングを閲覧中です [↑↓] スクロール  [A] スコア詳細の表示/非表示  [B] 戻る;Vendo o ranking online [↑↓] Rolar  [A] Mostrar/ocultar\ndetalhes  [B] Voltar;89;77
+オンライン登録;Reg. Online;14;11
+オンライン登録が可能な状態です;Pronto para registro online;30;27
+オンライン登録ユーザー名入力欄;Campo de usuario online;30;23
+オーガエリミネイト;Ogre Eliminate;18;14
+オーガデモリション;Ogre Demolition;18;15
+オーラガントレ;Aura Gauntlet;14;13
+オーラグリーヴ;Aura Greaves;14;12
+カウンター;Counter;10;7
+カジェロ;Kajero;8;6
+カスカラ;Kasukara;8;8
+カタストロフィ;Catastrophe;14;11
+カタラクト;Cataract;10;8
+カッパーリング;Copper Ring;14;11
+カトヤンガ;Katoyanga;10;9
+カノニカルグローブ;Canonical Gloves;18;16
+カノニカルブーツ;Canonical Boots;16;15
+カノニカルロッド;Canonical Rod;16;13
+カメラの回転方向を指定します;Sentido de giro da camera;28;25
+カメラ回転反転;Inverter Giro;14;13
+カメラ回転速度;Cam Vel.Giro;14;12
+カメラ距離;Cam Dist;10;8
+カメラ高さ;Cam Altura;10;10
+カリュブディス;Charybdis;14;9
+カーソルの位置に瞬間移動する;Teleporta ao cursor.;28;20
+カーソルスキルのレンジが40%上昇する。\n同種スキルは効果が加算される。;Alcance de skill de cursor +40%.\n\nEfeitos de skills iguais se somam.;68;68
+カーソルスキルのレンジが60%上昇する。\n同種スキルは効果が加算される。;Alcance de skill de cursor +60%.\n\nEfeitos de skills iguais se somam.;68;68
+カーソル地点から飛び上がりながら斬り上げる攻撃を放つ;Salta da posicao do cursor e corta para cima.;52;45
+カーソル地点の上空から落下攻撃を仕掛ける;Cai do alto sobre a posicao do cursor.;40;38
+カーディナルブーツ;Cardinal Boots;18;14
+カーディナルミッツ;Cardinal Mitts;18;14
+ガーネット;Garnet;10;6
+キャラクターを選択してください [←→] キャラクター切り替え  [A] キャラクター選択  [B] モード選択へ戻る  [FG] カメラ回転;Escolha o personagem [←→] Trocar personagem  [A]\nEscolher  [B] Voltar a selecao de modo  [FG] Girar\ncamera;119;108
+キャラクター毎のシナリオをプレイするモードです;Modo para jogar o cenario de cada personagem;46;44
+キャロドの迷宮;Carod Maze;14;10
+キャロドの迷宮 %d階;Carod Maze %dF;19;14
+キャロドの迷宮 ボスフロア;Carod Maze Boss Floor;25;21
+キャロドの迷宮 倉庫;Carod Maze Storage;19;18
+キャロドの迷宮で自然に濾過された神秘の液体。\n使用するとHPが一定量回復します。\n迷宮から出ると蒸発して無くなってしまいます。;Liquido misterioso filtrado no Labirinto\nCarod.\n\nRecupera uma quantidade de HP.\n\nEvapora ao sair do labirinto.;122;110
+キャロドの迷宮で自然に濾過された神秘の液体。\n使用するとHPが完全に回復します。\n迷宮から出ると蒸発して無くなってしまいます。;Liquido misterioso filtrado no Labirinto\nCarod.\n\nRecupera todo o HP.\n\nEvapora ao sair do labirinto.;122;99
+キャロドの迷宮倉庫;Carod Maze Storage;18;18
+キャロドの迷宮入り口;Carod Maze Entrance;20;19
+キャンセル;Cancel;10;6
+キラーグローブ;Killer Glove;14;12
+キラーブーツ;Killer Bt;12;9
+キルトグローブ;Quilt Gloves;14;12
+キルトシューズ;Quilt Shoes;14;11
+クエスト;Quest;8;5
+クラスとは？;Sobre Classe;12;12
+クラススキルとは？;Sobre Skill Classe;18;18
+クラススキルの装備変更を行えます [A] 選択/スキル一覧へ移動 [B] キャンセル [C] 装備中のスキルを解除 [↑↓] カーソル移動  [←→] クラス切り替え [PageUp/Down] ページ戻し/送り;Troca skills de classe equipadas [A] Escolher/Ir a\nlista [B] Cancelar [C] Remover skill equipada [↑↓]\nMover cursor  [←→] Trocar classe [PageUp/Down] Pagina\nant./prox.;171;170
+クラススキル設定;Config. Skill Cl;16;16
+クラスチェンジ;Class Change;14;12
+クラスチェンジを行えます クラスチェンジすると全ての装備/クラススキル/パッシブスキルが解除されます [A] 決定 [B] キャンセル  [↑↓] カーソル移動 [PageUp/Down] ページ戻し/送り;Mude de classe. Ao mudar, todos os equip./skills de\nclasse/passivas sao removidos [A] OK [B] Cancelar\n[↑↓] Mover cursor [PageUp/Down] Pagina ant./prox.;172;153
+クラニィ;Kurani;8;6
+クリア回数 %4d回;Concluido %4dx;16;14
+クリア！;Clear!;8;6
+クリスタル;Crystal;10;7
+クリスタルの欠片;Crystal Shard;16;13
+クルセイダー;Crusader;12;8
+クルセイドグローブ;Crusade Gloves;18;14
+クルセイドブーツ;Crusade Boots;16;13
+クルタナ;Curtana;8;7
+クレリック;Cleric;10;6
+グティス;Gutisu;8;6
+グディークの井戸;Gudeek Well;16;11
+グラディエーター;Gladiator;16;9
+グランドシールド;Grand Shield;16;12
+グラーシーザ;Gurashiza;12;9
+グレイトガントレ;Great Gauntlet;16;14
+グレイトグリーヴ;Great Greaves;16;13
+グレイトメイル;Great Mail;14;10
+グレイヴグラスプ;Grave Grasp;16;11
+グレイヴブーツ;Grave Boots;14;11
+グレートランス;Great Lance;14;11
+グロリアスグローブ;Glorious Gloves;18;15
+グロリアスシューズ;Glorious Shoes;18;14
+ゲームに戻る;Ao jogo;12;7
+ゲームを終了する;Encerrar o jogo;16;15
+コキュートスメイス;Cocytus Mace;18;12
+コチアテ;Kochiate;8;8
+コットングローブ;Cotton Gloves;16;13
+コットンシューズ;Cotton Shoes;16;12
+コメント(全角１２８文字 半角２５６文字);Comentario (256 caract. max);39;28
+コメント入力欄;Comentario;14;10
+コラ;Kora;4;4
+コロシアム;Coliseum;10;8
+コンボ;Combo;6;5
+コンボが入りやすくなる;Facilita combos.;22;16
+コンボプラクティスとは？;O que e Combo Practice?;24;23
+コンボプラクティスについて;Sobre Combo Practice;26;20
+コンボプラクティス状態の保存;Salvar estado Combo Practice;28;28
+コンボ名(全角９文字 半角１８文字);Nome do combo (18 caract. max);33;30
+コンボ課題 Lv%d クリア！;Combo Lv%d Concluido!;24;21
+ゴシックアクス;Gothic Axe;14;10
+ゴブラングローブ;Gobelin Gloves;16;14
+ゴブランブーツ;Gobelin Boots;14;13
+ゴーストフルーレ;Ghost Foil;16;10
+ゴーストメイス;Ghost Mace;14;10
+サイクロン;Cyclone;10;7
+サバイバルグローブ;Survival Gloves;18;15
+サバイバルブーツ;Survival Boots;16;14
+サパラ;Sapara;6;6
+サファイア;Sapphire;10;8
+サムライ;Samurai;8;7
+サモナー;Summoner;8;8
+サングローブ;Sun Gloves;12;10
+サンシューズ;Sun Shoes;12;9
+サンドガッシュ;Sand Gash;14;9
+サンベルナ一般兵;Sanberna Troop;16;14
+サンラーリ;Sanrari;10;7
+シェスティ;Shesuti;10;7
+シェラド;Sherado;8;7
+シナリオ;Scenario;8;8
+シナリオの中断データが存在します。\nシナリオモードでセーブを行うと古い中断データは\n失われてしまいますので注意してください。\n(レベルはシナリオに応じて制限されますが\nレベル、アイテム等が失われる事は有りません。);Existem dados de pausa do cenario.\nSalvar no modo cenario perde os dados de\npausa antigos.\n(O nivel e limitado pelo cenario, mas nivel\ne itens nao sao perdidos.);208;161
+シパルー;Shiparu;8;7
+シャイニングレイ;Shining Ray;16;11
+シャタグニー ;Shataguni;13;9
+シュム;Shumu;6;5
+ショートカットを %s に切り替えました;Atalho trocado para %s;36;22
+シリアルキー登録;Registrar Serial;16;16
+シリアルキー登録手続きを行う事が出来ます;Faz o registro da chave serial;40;30
+シルクグローブ;Silk Gloves;14;11
+シルクシューズ;Silk Shoes;14;10
+シルバー;Silver;8;6
+シルバーガントレ;Silver Gauntlet;16;15
+シルバーグリーヴ;Silver Greaves;16;14
+シルバーグローブ;Silver Gloves;16;13
+シルバーブーツ;Silver Boots;14;12
+シルバー硬貨;Silver Coin;12;11
+シージャ;Shija;8;5
+シーフ;Thief;6;5
+シールドブレイカー;Shield Breaker;18;14
+ジェトゥ;Jetu;8;4
+ジェネラル;General;10;7
+ジッダ;Jidda;6;5
+ジュオ;Juo;6;3
+ジルコン;Zircon;8;6
+スキル;Skill;6;5
+スキルのリチャージ時間を短縮する;Reduz o tempo de recarga.;32;25
+スクレープ;Scrape;10;6
+スケイルガントレ;Scale Gauntlet;16;14
+スケイルグリーヴ;Scale Greaves;16;13
+スコアはランキング外でした;Pontuacao fora do ranking;26;25
+スコアをアップロードしますか？;Enviar a pontuacao?;30;19
+スコア詳細;Detalhes;10;8
+スコーピオガントレ;Scorpio Gauntlet;18;16
+スコーピオグリーヴ;Scorpio Greaves;18;15
+スターディグローブ;Sturdy Gloves;18;13
+スターディブーツ;Sturdy Boots;16;12
+ストラタリア訓練所 ロビー;Stratalia Camp Lobby;25;20
+ストラタリア訓練所 内部;Stratalia Camp Inside;23;21
+スパークグローブ;Spark Gloves;16;12
+スパークブーツ;Spark Boots;14;11
+スピンファイア;Spin Fire;14;9
+スプリントガード;Splint Guard;16;12
+スプリントグリーヴ;Splint Greaves;18;14
+スペリオルグローブ;Superior Gloves;18;15
+スペリオルブーツ;Superior Boots;16;14
+スペルカウンター;Spell Cntr;16;10
+スペルガントレ;Spell Gauntlet;14;14
+スペルグリーヴ;Spell Greaves;14;13
+スペルグローブ;Spell Gloves;14;12
+スペルシューズ;Spell Shoes;14;11
+スロットLv%dには%s(Lv%d)を合成する事はできません;Slot Lv%d nao aceita fusao de %s(Lv%d);48;38
+セイレーンロッド;Siren Rod;16;9
+セイント;Saint;8;5
+セイントインペイル;Saint Impale;18;12
+セイントリーブーツ;Saintly Boots;18;13
+セイントリーミッツ;Saintly Mitts;18;13
+セイヴィア;Seivia;10;6
+セジェンム地下聖堂１階にオアンネスと呼ば\nれる水を操る獣人がいる。\n危険な存在なので討伐を依頼したい。;"Um monstro que controla a agua,\nOannes, esta no 1F do Templo Sejenm.\nPerigoso; peco eliminacao.";100;95
+セジェンム地下聖堂１階に一際強いサハギン\nが出没している。\n討伐に向かう際にはサハギンプリンスも従え\nているので注意するように。;"Um Sahagin muito forte aparece no 1F\ndo Templo Sejenm. Ele traz um Sahagin\nPrince; cuidado ao ir.";125;97
+セジェンム地下聖堂２階にインペイルメント\nと呼ばれる蠍がいる。\n危険な存在なので討伐を依頼したい。;"Um escorpiao chamado Impalement esta\nno 2F do Templo Sejenm. Perigoso; peco\neliminacao.";96;87
+セジェンム地下聖堂２階に双剣を操るトカゲ\nのような魔物が居る。\n集団でうろついており、調査の妨げになって\nいる。\n駆除出来る者が居たらお願いしたい。;Monstros lagarto com duas espadas\nandam em grupo no 2F do Templo Sejenm\ne atrapalham a pesquisa. Peco que os\nexterminem.;144;120
+セジェンム地下聖堂５階に見た事も無い物が\nうろついている。\n調査及び駆除を依頼したい。;Algo nunca visto vaga no 5F do Templo\nSejenm. Peco investigacao e extermino.;84;76
+セジェンム聖堂;Sejenm Temple;14;13
+セルストークの森に巨大な亀が出現した。\n往来の妨げになっているので討伐を願いたい\n。;"Tartaruga gigante na Floresta Selstok.\nAtrapalha o transito; peco eliminacao.";82;77
+セルストークの森に訪れた青年が持っていた指輪。\n台座に紋章が刻まれている。;Anel de um jovem da Floresta Selstok.\n\nTem um brasao gravado.;73;61
+セルストークの森の地下道に大きな毒蜘蛛が\n現れた。\n物資供給の妨げになるので討伐を依頼したい\n。;"Aranha gigante venenosa na passagem da\nFloresta Selstok. Bloqueia\nsuprimentos; eliminem-na.";93;91
+セルストークの森の地下道に巨大な蠍が目撃\nされた。\n調査の妨げになる可能性があるので駆除を依\n頼したい。;"Escorpiao gigante visto na passagem da\nFloresta Selstok. Pode atrapalhar;\nexterminem-no.";101;88
+セージ;Sage;6;4
+セーブしました;Salvo;14;5
+セーブしますか？;Salvar?;16;7
+セーブに失敗しました;Falha ao salvar;20;15
+ゼメア;Zemea;6;5
+ゼメア一般兵;Zemea Troop;12;11
+ゼメア兵;ZemeaMan;8;8
+ゼメア教国の宿舎;Zemea Quarters;16;14
+ゼメア教国の魔導師団の一員。\n\nゼメア教国の為にその身を捧げ献身的な勤めを果している術士。\n術士でありながらも体術も得意とし、その戦闘能力は師団長にも匹敵すると言われている。;Membro da ordem de magos de Zemea.\n\nServe Zemea com devocao. Mesmo sendo maga, luta bem\ncorpo a corpo, dizem que rivaliza com o comandante.;171;139
+ゼメア教国の魔導師団の一員。\n\n争い事は余り好まず、事無くゼメアへの帰還を望んでいる。\n同じ魔導師団のアレスタは同郷からの幼馴染。\nアレスタとの関係が噂されるも本人は幼馴染以上の感情を抱いていないようだ。;Membro da ordem de magos de Zemea.\n\nEvita brigas e quer voltar a Zemea em paz. Amiga de\ninfancia de Aresta, mas nao sente mais que amizade por\nele.;200;147
+ゼメア教国の魔導師団の一員。\n\n何事にも誠実に取り組む姿勢から、\n魔導師団での評価も高く、信頼も厚い。\n召喚師団長であるフィリンは実の姉。;Membro da ordem de magos de Zemea.\n\nLeva tudo a serio e e muito\nconfiavel na ordem. A comandante\ndos invocadores, Firin, e sua\nirma.;134;132
+ゼメア教国の魔導師団の一員。\n\n基本的に締りの無い態度を見せおり、仕事にも余り熱心ではないが\n時に強い正義感を見せ行動力を発揮する一面も。\nラッツィに好意を寄せていて、相思相愛だと思っているようだが・・・。;Membro da ordem de magos de Zemea.\n\nDescontraido e pouco aplicado, mas as vezes mostra\nforte senso de justica. Gosta de Ratsi e acha que e\ncorrespondido...;202;155
+ゼメア教国の魔導師団の一員。\n\n遺跡内でも指折りの容姿端麗な女術士。\n普段はラッツィとの噂話や、男の品定めに興じているが、その魔力は魔導師団の中でも群を抜いている。;Membro da ordem de magos de Zemea.\n\nA maga mais bela das ruinas. Gosta de fofocar com\nRatsi e avaliar homens, mas seu poder se destaca na\nordem.;161;144
+ソフトウェアバージョンが異なります;Versao do software diferente;34;28
+ソルジャー;Soldier;10;7
+ソードマスター;Swd Master;14;10
+ゾンビ;Zombie;6;6
+ゾンビ（女;Zombie F;10;8
+ゾンビ（男;Zombie M;10;8
+タイトルに戻る;Ao Titulo;14;9
+タイトルへ戻ります;Volta ao titulo;18;15
+タイトルへ戻りますか？;Voltar ao titulo?;22;17
+タイトルへ戻る;Ao Titulo;14;9
+タック;Tuck;6;4
+タフタグローブ;Taffeta Gloves;14;14
+タフタシューズ;Taffeta Shoes;14;13
+タンドリッジ地下墓地;Tandridge Crypt;20;15
+タンドリッジ地下墓地 地下２階;Tandridge Crypt B2;29;18
+タンドリッジ地下墓地 地下３階;Tandridge Crypt B3;29;18
+タンドリッジ地下墓地の２階にフィーンドが\nうろついている。\nその周囲にもスカルフェンサーが２体いる。\n調査の障害になるので討伐を依頼したい。;"Um Fiend vaga no 2F da Cripta\nTandridge, com 2 Skull Fencers por\nperto. Atrapalham a pesquisa;\neliminem-nos.";137;108
+タンドリッジ地下墓地１階にゴブリンのボス\nらしき一際強いゴブリンとその側近が数体い\nる。\n討伐を依頼をしたい。;Ha um goblin forte, talvez o chefe,\ncom varios guardas no 1F da Cripta\nTandridge. Pedimos sua eliminacao.;107;105
+タンドリッジ地下墓地１階に蛇が大量発生し\nている。\n調査の妨げになっているので駆除をお願いし\nたい。;"Cobras surgem em massa no 1F da Cripta\nTandridge. Atrapalham a pesquisa;\nexterminem-nas.";97;88
+タンドリッジ地下墓地３階にヴェルトロと呼\nばれる魔獣が出現した。\n被害者が多数出ているので討伐を依頼したい\n。;"Uma besta chamada Veltro surgiu no 3F\nda Cripta Tandridge. Ha muitas\nvitimas; peco eliminacao.";107;94
+タンドリッジ地下墓地３階に一際強いゴブリ\nンが現れた。\nゴブリンとは言えど調査の障害になりかねな\nいので討伐を依頼したい。;"Goblin muito forte no 3F da Cripta\nTandridge. Pode atrapalhar a pesquisa;\npeco eliminacao.";119;90
+タンドリッジ深部;Tandridge Depths;16;16
+タンドリッジ深部　地下１階;Tandridge Depths B1;26;19
+タンドリッジ深部１階に光り輝く物体が蠢い\nている。\n詳細については不明だが調査を依頼したい。;"Objeto brilhante no 1F de Tandridge\nDepths. Detalhes desconhecidos; peco\ninvestigacao.";90;86
+タンドリッジ深部２階に強力な魔法を操る書\n物が徘徊している。\n調査に弊害が出ているので、立ち入りが可能\nな者に討伐を願いたい。;"Um livro que usa magia forte vaga no\n2F de Tandridge Depths. Atrapalha a\npesquisa; peco que quem puder entrar o\nelimine.";123;120
+タンドリッジ王墓;Tandridge Crypt;16;15
+ターゲットロスト;Target Lost;16;11
+ダイアモンド;Diamond;12;7
+ダイダロスガントレ;Daedalus Gauntlet;18;17
+ダイダロスグリーヴ;Daedalus Greaves;18;16
+ダウンする攻撃を受けた時、ダウンするまでの間に\n「アクションボタン」を押すことで受身を取れるようになる。\n但し、気絶のリスクが大幅に上昇する。;"Ao ser derrubado, aperte o ""Botao de acao"" antes de\ncair para se recuperar.\n\nMas aumenta muito o risco de atordoamento.";140;119
+ダウンロード;Download;12;8
+ダマスカス;Damascus;10;8
+ダマスカスガントレ;Damascus Gauntlet;18;17
+ダマスカスグリーヴ;Damascus Greaves;18;16
+ダークインペイル;Dark Impale;16;11
+ダークネスライザー;Darkness Riser;18;14
+チェンジ可能なクラス;Classes disponiveis;20;19
+チェーングローブ;Chain Gloves;16;12
+チェーンブーツ;Chain Boots;14;11
+チャプターを選択してください [←→] チャプター切り替え  [A] チャプター選択  [B] キャラクター選択へ戻る;Escolha o capitulo [←→] Trocar capitulo  [A] Escolher\n[B] Voltar a escolha de personagem;102;90
+チャプターを開始;Iniciar Capitulo;16;16
+チリングウェイヴ;Chilling Wave;16;13
+チルパイク;Chill Pike;10;10
+チームレベル;Team Level;12;10
+ティップトゥ;Tiptoe;12;6
+ティノ;Tino;6;4
+ティフォーン;Typhoon;12;7
+ティンガ;Tinga;8;5
+テイア;Teia;6;4
+テオラーリ;Teorari;10;7
+テストマッチ;Test Match;12;10
+テラタンブラー;Tera Tumbler;14;12
+テンプルクロス;Temple Cloth;14;12
+テンプルグローブ;Temple Gloves;16;13
+テンプルシューズ;Temple Shoes;16;12
+ディオス;Dios;8;4
+ディーボ;Dibo;8;4
+デスベッドビフ;Deathbed Biff;14;13
+デトネイトスタバー;Detonate Stabber;18;16
+デビルデシメイト;Devil Decimate;16;14
+デモンズハンド;Demon's Hand;14;12
+デモンズレッグ;Demon's Leg;14;11
+デュエル;Duel;8;4
+デュエル開始！;Duel Start!;14;11
+デルファ;Derufa;8;6
+データが破損しているか不正です;Dados corrompidos ou invalidos;30;30
+データが見つかりません;Dados nao encontrados;22;21
+トゥアールアタック;Tuar Attack;18;11
+トゥームリーヴァー;Tomb Reaver;18;11
+トパーズ;Topaz;8;5
+トランスポーター;Transporter;16;11
+トレジャーグローブ;Treasure Gloves;18;15
+トレジャーブーツ;Treasure Boots;16;14
+トータルスコア;Total Score;14;11
+トータルスコア %10dpts;Pontos Totais %10dpts;22;21
+ドラゴンスレイヤー;Dragon Slayer;18;13
+ドルイド;Druid;8;5
+ドレアル;Dorearu;8;7
+ドレインガード;Drain Grd;14;9
+ドロップアイテム;Drop Item;16;9
+ナイト;Knight;6;6
+ナーゲルリング;Nagel Ring;14;10
+ニスティ;Nisuti;8;6
+ネクロマンサー;Necromancer;14;11
+ネットワーク;Network;12;7
+ネットワークを利用して掲示板の閲覧/発言を行います [↑↓] 切り替え [Enter] 決定/入力開始/送信 [掲示板選択でA] リストへ移る [ログリストでC] 閲覧中掲示板のユーザー一覧取得 [ログリスト上部で↑/F5] 新着取得 [ログリスト下部で↓] 過去ログ取得;Le e escreve no quadro pela rede [↑↓] Trocar [Enter]\nOK/Iniciar entrada/Enviar [A na selecao de quadro] Ir\na lista [C na lista] Lista de usuarios do quadro [↑/F5\nno topo da lista] Novidades [↓ no fim da lista] Logs\nantigos;235;226
+ネットワークを用いて、他のプレイヤーと一緒にプレイが出来るモードです(ネットワークを利用できる環境が必要です);Modo para jogar com outros jogadores pela rede (requer\nambiente com rede);108;73
+ノイヴィ;Noivi;8;5
+ノボニー;Noboni;8;6
+ノヴァクリスタル;Nova Crystal;16;12
+ノーブルグローブ;Noble Gloves;16;12
+ノーブルブレスト;Noble Breast;16;12
+ノーブルブーツ;Noble Boots;14;11
+ノーマル;Normal;8;6
+ハイスコアをアップロード;Enviar High Score;24;17
+ハイランダー;Highlander;12;10
+ハウルハンマー;Howl Hammer;14;11
+ハウルメイス;Howl Mace;12;9
+ハブーブ;Habubu;8;6
+ハンター;Hunter;8;6
+ハンターギルドから依頼を受けます [A] 決定 [B] キャンセル [↑↓] カーソル移動 [PageUp/Down] ページ戻し/送り;Aceite pedidos da Guilda [A] OK [B] Cancelar [↑↓]\nMover cursor [PageUp/Down] Pagina ant./prox.;106;96
+ハンターギルド所属のハンター。\n\nアビスターナではロアールの経営する酒場でアルバイトをしている。\n実際にはかなりの腕の持ち主で、破格の給料で雇われている。;Cacador da Guilda. Trabalha meio periodo na taverna de\nRoaru em Abistana.\n\nNa verdade e muito habil e recebe um salario\nexcelente.;151;130
+ハンターギルド所属のハンター。\n\nアビスターナでは主に遺跡の調査に参加している。\n敵を煙に巻くような戦闘スタイルを好み、\nその事から「夢幻」のディミートと呼称される事も。;"Cacador da Guilda. Participa das pesquisas das\nruinas em Abistana.\n\nGosta de confundir os inimigos em combate, por\nisso e chamado ""Sonho"" por Dimito.";166;149
+ハンターギルド所属のハンター。\n\nアビスターナへは研究の為に訪れている。\n魔法や薬物の分野での知識に長けており、他のハンターの探索の助けとなっている。;Cacador da Guilda. Veio a Abistana para pesquisar.\n\nEntende de magia e remedios, e ajuda a exploracao dos\noutros cacadores.;147;123
+ハンターギルド所属のハンター。\n\nアルレナの血を引く魔影衆の一人。\n普段遺跡ではハンターギルドの一員として活動している。\n同じ魔影衆のベルフとは腐れ縁。;Cacador da Guilda.\n\nMembro dos Sombras Magicas, de sangue Arurena. Nas\nruinas atua como cacador. Rival antigo de Beruf,\ntambem das Sombras.;148;139
+ハンターギルド所属のハンター。\n\nマナン情報屋の一員。\n情報収集が主な仕事だが魔物との戦闘もこなす。\nだが、失敗も多くエルオに怒られる事も。;Cacador da Guilda, da Casa de Informacoes\nManan.\n\nColeta informacoes e luta contra monstros,\nmas erra muito e leva bronca de Eruo.;136;130
+ハンターギルド所属のハンター。\n\n妹のエミンを捜して遺跡を訪れたハンター。\nハンターの中でも指折りの実力の持ち主で、その華麗な剣捌きから「舞刃」の異名を持つ。\nハンターのルナンとは旧知の仲。;"Cacador da Guilda. Veio as ruinas procurar a irma\nEmin.\n\nUm dos melhores cacadores, apelidado ""Lamina Dancante""\npelo manejo elegante da espada. Amigo antigo de Runan.";186;166
+ハンターギルド所属のハンター。\n\n新参者のハンターの世話をするのが好き。\n酒場に行って話を聞くとハンターの基本を教えてくれる。;Cacador da Guilda. Gosta de ajudar os novatos.\n\nNa taverna, ele ensina o basico sobre cacadas.;123;94
+ハンターギルド所属のハンター。\n\n燃える様な赤い髪をしたハンター。\nその容姿と熱い性情、激しい戦いぶりから「紅蓮」と称されるが、\nその素行から影では「愚連」のダレンと揶揄されている。;"Cacador da Guilda de cabelo vermelho flamejante.\n\nPor seu temperamento e luta intensa e chamado\n""Carmesim"", mas por sua conduta e zombado como\n""Arruaceiro"" Daren.";178;162
+ハンターギルド所属のハンター。\n\n理由は明かさないが、\n光を失ってから大分長い月日が経っている様子。\nただ、彼の動作からはそれを感じ取る事は出来ない。;Cacador da Guilda.\n\nNao diz o motivo, mas parece ter perdido a\nvisao ha muito tempo. Seus movimentos, porem,\nnao deixam transparecer isso.;146;138
+ハンターギルド所属のハンター。\n\n盗賊狩りを生業とする腕利きのハンター。\n普段はヴェーロ、ファロガを伴い狩りを行っている。\nアビスターナへはある盗賊の後を追って訪れた。;Cacador da Guilda, especialista em cacar\nbandidos.\n\nCostuma cacar com Vero e Faroga. Veio a\nAbistana seguindo um bandido.;164;121
+ハンターギルド所属のハンター。\n\n知識を得る事よりも調査過程そのものを好み、\nあらゆる遺跡や古墳へ出向き調査を行っている。\nアビスターナでは迷宮の魅力に魅入られ入り浸りに。;Cacador da Guilda.\n\nGosta mais da pesquisa em si do que do\nconhecimento, e visita todo tipo de ruina e\ntumulo. Encantado pelos labirintos de\nAbistana.;168;150
+ハンターギルド所属のハンター。\n\n言葉使いはたどたどしいが、その腕力は一級品。\n主にマナン情報屋で過ごしている。;Cacador da Guilda. Fala de forma\natrapalhada, mas tem forca de primeira.\n\nPassa o tempo na Casa Manan.;109;102
+ハンターギルド所属のハンター。\n\n調査では主に魔物討伐において\n手腕を発揮している。\n彼は斧を風のように操り、魔物を振り払う。;Cacador da Guilda. Brilha nas cacadas\na monstros nas pesquisas.\n\nManeja o machado como o vento e afasta\nos monstros.;122;116
+ハンターギルド管轄のイヴァリーの塔内部を探索できる。;Permite explorar a Torre Ivarie, sob a Guilda.;52;46
+ハードグローブ;Hard Gloves;14;11
+ハードブーツ;Hard Boots;12;10
+ハーミット;Hermit;10;6
+バイキングガントレ;Viking Gauntlet;18;15
+バイキンググリーヴ;Viking Greaves;18;14
+バスティン;Basutin;10;7
+バトルアリーナ;Battle Arena;14;12
+バトルアリーナロビー;Battle Arena Lobby;20;18
+バトルアリーナ受け付け;Battle Arena Reception;22;22
+バリアブルアサルトⅠ;Assalto Variavel I;20;18
+バルキーグローブ;Bulky Gloves;16;12
+バルキーシューズ;Bulky Shoes;16;11
+バレの岩窟を塞いでいる岩戸を開く鍵。;Chave da rocha da Caverna Vale.;36;31
+バロング;Barong;8;6
+バンコンバット;Bancombat;14;9
+バンデットグローブ;Bandit Gloves;18;13
+バンデットブーツ;Bandit Boots;16;12
+バンデットベスト;Bandit Vest;16;11
+バーサ地下道;Versa Tunnel;12;12
+バーサ地下道１階;Versa Tunnel 1F;16;15
+バージョンが異なるので結果が一致しない場合があります;Versoes diferentes podem dar resultados distintos;52;49
+パァプハンマー;Papu Hammer;14;11
+パイレーツセイバー;Pirate Saber;18;12
+パスワードが不正です;Senha invalida;20;14
+パスワードが違っています;Senha incorreta;24;15
+パスワード入力欄;Campo de senha;16;14
+パッシブスキル;Passive Skill;14;13
+パッシブスキルとは？;O que e Passiva?;20;16
+パッシブスキル設定;Config. Passivas;18;16
+パッシブポイント%14s;Pts Passivos%14s;20;16
+パラディン;Paladin;10;7
+パワーデルタ;Power Delta;12;11
+パーガトリーロッド;Purgatory Rod;18;13
+ヒットした時のコンボヒット数に比例したダメージを与える\nコンボヒット数が増す程威力が増加する;Dano proporcional ao combo atual.\n\nQuanto maior o combo, maior o poder.;91;71
+ヒットした時のコンボヒット数に比例したダメージを与える\nコンボヒット数が増す程威力が増加する\n与えたダメージの一部を自分のHPに還元する;Causa dano proporcional ao numero de acertos do\ncombo.\n\nQuanto maior o combo, maior o poder. Converte parte\ndo dano em seu HP.;132;126
+ヒットした時のコンボヒット数に比例したダメージを与える範\n囲攻撃\nコンボヒット数が増す程威力が増加する;Ataque em area com dano proporcional ao combo.\n\nQuanto maior o combo, maior o poder.;100;84
+ヒヒイロカネ;Hihiiro;12;7
+ヒュドラガントレ;Hydra Gauntlet;16;14
+ヒュドラグリーヴ;Hydra Greaves;16;13
+ヒュペリオン;Hyperion;12;8
+ヒールフィールドⅡ;Campo de Cura II;18;16
+ビクターグローブ;Victor Gloves;16;13
+ビクターブレスト;Victor Breast;16;13
+ビクターブーツ;Victor Boots;14;12
+ビショップグローブ;Bishop Gloves;18;13
+ビショップシューズ;Bishop Shoes;18;12
+ファイアウォール;Fire Wall;16;9
+ファインガントレ;Fine Gauntlet;16;13
+ファイングリーヴ;Fine Greaves;16;12
+ファストリチャージⅠ;Recarga Rapida I;20;16
+ファビロ;Fabiro;8;6
+ファルカタ;Falcata;10;7
+ファルサー;Farusa;10;6
+ファロガ;Faroga;8;6
+ファングドナイフ;Fanged Knife;16;12
+ファンネルシフト;Funnel Shift;16;12
+ファーグローブ;Fur Gloves;14;10
+ファーシューズ;Fur Shoes;14;9
+ファーチュニック;Fur Tunic;16;9
+フィリン;Firin;8;5
+フィールドに配置されているアイテムをポーションに換える事\nが出来る\n宝箱には作用しない;Transforma itens do campo em Pocoes.\n\nNao age em baus.;84;54
+フェアリーグローブ;Fairy Gloves;18;12
+フェアリーシューズ;Fairy Shoes;18;11
+フェイタルショックⅠ;Choque Fatal I;20;14
+フェザーグローブ;Feather Gloves;16;14
+フェザーブーツ;Feather Boots;14;13
+フェルテス がクラススキル ディスペル を習得した;Feltes aprendeu a skill de classe Dispel;47;40
+フェルテスが持っていたペンダント。\n宝石が填っていてアンティークな彫刻が施されている。\n大切な人から貰ったお守りらしいが・・・。;Pingente de Feltes.\n\nTem uma gema e entalhes antigos. Parece um\namuleto de alguem querido...;126;92
+フェンサー;Fencer;10;6
+フォースグローブ;Force Gloves;16;12
+フォースブーツ;Force Boots;14;11
+フューリーアクス;Fury Axe;16;8
+フラルド;Furarudo;8;8
+フランネルグローブ;Flannel Gloves;18;14
+フランネルシューズ;Flannel Shoes;18;13
+フリー;Free;6;4
+フリースグローブ;Fleece Gloves;16;13
+フリースタイル;Freestyle;14;9
+フリースブーツ;Fleece Boots;14;12
+フリーバトル;Free Battle;12;11
+フレア;Flare;6;5
+フレイムスパイラル;Flame Spiral;18;12
+ブラスガントレ;Brass Gauntlet;14;14
+ブラスグリーヴ;Brass Greaves;14;13
+ブラックバングル;Black Bangle;16;12
+ブラックブーツ;Black Boots;14;11
+ブルトガング;Brutgang;12;8
+ブルーバングル;Blue Bangle;14;11
+ブルーブーツ;Blue Boots;12;10
+ブレイズカイリー;Blaze Kairi;16;11
+ブレイブガントレ;Brave Gauntlet;16;14
+ブレイブグリーヴ;Brave Greaves;16;13
+ブレイブハート;Brave Heart;14;11
+ブレスドガントレ;Blessed Gauntlet;16;16
+ブレスドグリーヴ;Blessed Greaves;16;15
+ブレスドセプター;Blessed Scepter;16;15
+ブレスドプレート;Blessed Plate;16;13
+ブローヴァ;Brova;10;5
+プラクティス;Practice;12;8
+プラチナ;Platinum;8;8
+プラチナガントレ;Plat. Gauntlet;16;14
+プラチナグリーヴ;Platinum Greaves;16;16
+プラチナ硬貨;Plat. Coin;12;10
+プレイヤー;Player;10;6
+プレイヤー%2dのポーズを待機中;Aguardando pose do J%2d;29;23
+プレイ可能なミッションがありません;Nenhuma missao disponivel;34;25
+プレイ時間  %s;Jogado  %s;14;10
+ヘビィガントレ;Heavy Gauntlet;14;14
+ヘビィグリーヴ;Heavy Greaves;14;13
+ヘビィハンマー;Heavy Hammer;14;12
+ヘラクレスクラブ;Hercules Club;16;13
+ヘラルドグローブ;Herald Gloves;16;13
+ヘラルドブレスト;Herald Breast;16;13
+ヘラルドブーツ;Herald Boots;14;12
+ヘリシュナイトメア;Herishu Nightmare;18;17
+ベッチ;Becchi;6;6
+ベル;Bell;4;4
+ベルが足りません;Falta Bell;16;10
+ベルセルク;Beruseruku;10;10
+ベルフ;Berufu;6;6
+ベルロス;Berurosu;8;8
+ベル持っていません;Sem Bell;18;8
+ベース;Base;6;4
+ペンダント;Pendnt;10;6
+ホルス;Horus;6;5
+ホーリーアロー;HolyArrow;14;9
+ホーンズ雪原でゴーレムが目撃された。\n被害者が出る前に討伐を願いたい。;Um golem foi visto em Horns Snow.\nEliminem-no antes que haja\nvitimas.;69;69
+ホーンズ雪原に稀に現れるグリフォンから採集出来る涙。\n「転移石」の材料に用いられる。;Lagrima de grifos raros das Planicies Horns.\n\nMaterial da Pedra Teleporte.;83;74
+ホーンズ雪原に魔狼の群れが発見された。\n調査の妨げになっているので駆除を依頼した\nい。;"Matilha de lobos magicos vista em\nHorns Snow. Atrapalha a pesquisa;\nexterminem-na.";84;82
+ホーンズ雪原の地下道に多数の腐乱死体が蠢\nいているという情報が寄せられた。\n調査を行い問題があるようあれば対応をお願\nいしたい。;Relatam muitos cadaveres apodrecidos\nna passagem de Horns Snow. Investiguem\ne ajam se houver problema.;125;102
+ボイスの音量を設定します;Volume das vozes;24;16
+ボイス音量;Vol. Vozes;10;10
+ボムクリエイト;Bomb Create;14;11
+ボーンハンマー;Bone Hammer;14;11
+ポーション;Potion;10;6
+ポーションII;Potion II;12;9
+ポーションIII;Potion III;13;10
+ポーションIV;Potion IV;12;9
+ポーションIX;Potion IX;12;9
+ポーションV;Potion V;11;8
+ポーションVI;Potion VI;12;9
+ポーションVII;Potion VII;13;10
+ポーションVIII;Potion VIII;14;11
+マイトハンマー;Might Hammer;14;12
+マジックシフト;Magic Shift;14;11
+マッドハンマー;Mud Hammer;14;10
+マティア;Matia;8;5
+マナン情報屋 ルシーノの部屋;Manan Info Rushino Rm;27;21
+マナン情報屋 倉庫;Manan Info Depot;17;16
+マナン情報屋 部屋１;Manan Info Room 1;19;17
+マナン情報屋 部屋２;Manan Info Room 2;19;17
+マルチプレイ;Multi Play;12;10
+マルチプレイに参加するキャラクターを選択してください [↑↓] カーソル切り替え  [A] エントリー/決定  [B] キャンセル  [FG] カメラ回転;Escolha o personagem para o multiplayer [↑↓] Mover\ncursor  [A] Entrar/OK  [B] Cancelar  [FG] Girar camera;130;107
+ミストガントレ;Mist Gauntlet;14;13
+ミストグリーヴ;Mist Greaves;14;12
+ミスリル;Mithril;8;7
+ミスリルガントレ;Mithril Gauntlet;16;16
+ミスリルグリーヴ;Mithril Greaves;16;15
+ミスリルグローブ;Mithril Gloves;16;14
+ミスリルブーツ;Mithril Boots;14;13
+ミスリル硬貨;Mithril Coin;12;12
+ミッション;Mission;10;7
+ミッションを選択してください [↑↓] ミッション選択  [A] 決定  [B] キャンセル;Escolha a missao [↑↓] Escolher  [A] OK  [B] Cancelar;76;54
+ミッションを開始します 準備はよろしいですか？;Iniciar a missao. Pronto?;45;25
+ミッションクリアランク;Mission Clear Rank;22;18
+ミッションクリア結果;Resultado da Missao;20;19
+ミッション報酬;Recompensa;14;10
+ミッション開始を待機中;Aguardando inicio...;22;20
+ミヒャル;Mihyaru;8;7
+ミミングスソード;Miming's Sword;16;14
+ミラージュナイフ;Mirage Knife;16;12
+ミローゼ;Miroze;8;6
+ムーンガード;Moon Guard;12;10
+ムーングローブ;Moon Gloves;14;11
+ムーンシューズ;Moon Shoes;14;10
+メイジ;Mage;6;4
+メイダ;Meida;6;5
+メテオライト;Meteorite;12;9
+メルトダウン;Meltdown;12;8
+メンテナンス中です;Em manutencao;18;13
+モード選択に戻る;Voltar a Modos;16;14
+モード選択へ戻ります;Volta aos modos;20;15
+モード選択へ戻りますか？;Voltar aos modos?;24;17
+モール;Maul;6;4
+ユーザーが見つかりません;Usuario nao encontrado;24;22
+ユーザーを削除すると二度と復元する事が出来ません よくご確認の上で操作を行ってください;Excluir um usuario e irreversivel. Confira bem antes\nde agir.;85;61
+ユーザー名;Usuario;10;7
+ユーザー名が不正です;Usuario invalido;20;16
+ユーザー名入力欄;Campo de usuario;16;16
+ユーザー戦績閲覧;Ver Perfil;16;10
+ライトクローク;Light Cloak;14;11
+ライトニングクロス;Lightning Cloth;18;15
+ライトプレート;Light Plate;14;11
+ライフガードⅠ;Vital Guard I;14;13
+ラウレス;Rauresu;8;7
+ラッシャーブロウ;Rusher Blow;16;11
+ラットン幻宮;Ratton Pal.;12;11
+ラットン幻宮 剣の間;Ratton Sword Room;19;17
+ラットン幻宮 試練の間;Ratton Trial Room;21;17
+ラットン幻宮 ３階;Ratton Pal. 3F;17;14
+ラットン幻宮の鍵の掛かっている扉を開ける事が出来る。;Abre as portas trancadas do Palacio Ratton.;52;43
+ラットン幻宮５階;Ratton Pal. 5F;16;14
+ラバシュ;Rabashu;8;7
+ラバシュのアジト;Rabashu's Lair;16;14
+ラバシュ部下;Rabashu Man;12;11
+ラメラーガントレ;Lamel. Gauntlet;16;15
+ラメラーグリーヴ;Lamellar Greaves;16;16
+ラメロ;Ramero;6;6
+ラルボ;Rarubo;6;6
+ランキング;Ranking;10;7
+ランキング閲覧(オンライン);Ranking (Online);26;16
+ランク;Rank;6;4
+ランクを選択してください;Escolha o rank;24;14
+ランクマッチ;Rank Match;12;10
+ランペイジャー;Rampager;14;8
+ラーショ;Rasho;8;5
+ラーショ部下;Rasho Man;12;9
+ラーム;Ramu;6;4
+リアンツ;Riantz;8;6
+リアンツ一般兵;Riantz Troop;14;12
+リアンツ兵;Riantz Man;10;10
+リアンツ帝国の宿舎;Riantz Quarters;18;15
+リアンツ帝国の騎士団の一員。\n\nいつも豪快な態度で高笑いしている。\n彼の左眼の光はミローゼ将軍によって奪われたが、\n逆にその強さに惚れこみリアンツ帝国に従軍する事となった。;Membro da ordem de cavaleiros de Riantz.\n\nSempre ri alto e com ousadia. Perdeu a luz do olho\nesquerdo para o General Miroze, mas se rendeu a sua\nforca e serve a Riantz.;168;168
+リアンツ帝国の騎士団の一員。\n\nラーム将軍の部下として遺跡を訪れる。\n異民族であり、また女性でありながらもリアンツ帝国の騎士として重用される裏には、その卓越した剣の腕と、ラーム将軍の寄せる確かな信頼がある。;Membro da ordem de cavaleiros de Riantz.\n\nVeio as ruinas como subordinada do General Ramu. Mesmo\nsendo mulher e de outro povo, e valorizada por sua\nespada e pela confianca do general.;203;183
+リアンツ帝国の騎士団の一員。\n\n厳格かつ、忠誠心に溢れる騎士団の実力者の一人。\nその実力は将軍に次いで、騎士団の中でも1,2を争うほど。\n早くからシュナインの実力を見出し、見守ってきた良き上官。;Membro da ordem de cavaleiros de Riantz.\n\nCavaleiro rigoroso e leal, um dos melhores da ordem,\nabaixo apenas do general. Viu cedo o talento de\nShunain e o acompanha.;187;165
+リアンツ帝国の騎士団の一員。\n\n極度に臆病な性格の為、その剣の腕前は未知数。\n封印の破壊時には本国との伝令役として重責を果した。;Membro da ordem de Riantz.\n\nMuito covarde, sua habilidade e desconhecida.\nFoi mensageiro na quebra do selo.;125;107
+リアンツ帝国の騎士団の見習い。\n\n弱きを守り、正義を為す騎士に憧れ\nアビスターナへと訪れ騎士となる事を目指し\nリアンツに従事している騎士見習い。\n見習いではあるものの、同騎士団の一部には\n彼の秘めた力を見出している者が居る程。;Aprendiz da ordem de cavaleiros de\nRiantz.\n\nAdmira cavaleiros que protegem os\nfracos e veio a Abistana para se\ntornar um. Alguns da ordem ja veem seu\npoder oculto.;220;163
+リアンツ帝国管轄のワイトハーレン城を探索できる。;Permite explorar o Castelo Harlene.;48;35
+リオバ;Rioba;6;5
+リジッドブレスト;Rigid Breast;16;12
+リジッドブーツ;Rigid Boots;14;11
+リジッドミッツ;Rigid Mitts;14;11
+リセット;Reset;8;5
+リデュースINTⅡ;Reduzir INT II;15;14
+リデュースSTRⅡ;Reduzir STR II;15;14
+リネンシューズ;Linen Shoes;14;11
+リネンミッツ;Linen Mitts;12;11
+リュベリ;Ryuberi;8;7
+リュベリ部下;Ryuberi Man;12;11
+リンス;Rinsu;6;5
+リーダー;Leader;8;6
+リーダーが後方から強力な援護をする布陣。\n後衛１のINT、CONが大幅に上昇し、前衛２のVIT、MENが上昇する。;"O lider apoia de tras.\n\nINT/CON do fundo 1 sobem muito; VIT/MEN da frente 2\nsobem.";101;82
+リーダー自ら先陣を切って戦う布陣。\n前衛１のSTR、VITが大幅に上昇し、中央２のSTR\n後衛３のINTが上昇する。;"O lider avanca na frente.\n\nSTR/VIT da frente 1 sobem muito; STR do\nmeio 2 e INT do fundo 3 sobem.";102;97
+リーボ地下宮殿 地下１階;Reebo Palace B1;23;15
+リーボ地下宮殿 地下３階;Reebo Palace B3;23;15
+ルオ;Ruo;4;3
+ルオにアイテム研究の為のアイテムを渡せます [A] 決定 [B] キャンセル [↑↓] カーソル移動 [←→] 鞄/倉庫の切り替え [PageUp/Down] ページ戻し/送り;Entregue itens a Ruo para pesquisa [A] OK [B] Cancelar\n[↑↓] Mover cursor [←→] Bolsa/Deposito [PageUp/Down]\nPagina ant./prox.;141;128
+ルカロッタ;Rukarotta;10;9
+ルガド;Rugado;6;6
+ルシーノ;Rushino;8;7
+ルセントソード;Lucent Sword;14;12
+ルナティックソード;Lunatic Sword;18;13
+ルナルディ;Runarudi;10;8
+ルナン;Runan;6;5
+ルナンを追って旅をしていた娘。\n\nハンターとしての腕は高くは無いが、\n他に類を見ない高い治癒魔法を用いる事が出来る。\n「舞刃」と名高いハンターのリセルは彼女の姉。;"Jovem que viaja atras de Runan.\n\nNao e forte como cacadora, mas usa uma magia\nde cura incomparavel. Riseru, a famosa\n""Lamina Dancante"", e sua irma.";158;147
+ルビがニスティへのお礼として渡した物。\n袋に何かが入っているようだが・・・。;Dado por Rubi a Nisti em\nagradecimento.\n\nParece haver algo dentro...;75;68
+ルビー;Ruby;6;4
+ルヴォン;Ruvon;8;5
+レイシェ;Reishe;8;6
+レイブングローブ;Raven Gloves;16;12
+レイブンブーツ;Raven Boots;14;11
+レインテージ回廊;Raintage Hall;16;13
+レインテージ回廊 地下２階;Raintage Hall B2;25;16
+レインテージ回廊 地下３階;Raintage Hall B3;25;16
+レインテージ回廊の入り口の鉄格子を開ける事が出来る。;Abre a grade da entrada do Salao Raintage.;52;42
+レインテージ回廊の深部で湧き出ている水が結晶化したもの。\n遺跡だけに見られる特別な鉱石が含まれているらしい。\n大切な人に渡すとその身を護ってくれるという逸話がある。;Agua das profundezas do Salao Raintage, cristalizada.\n\nContem minerais raros das ruinas. Diz a lenda que\nprotege quem a recebe de alguem querido.;162;145
+レインテージ回廊の鍵の掛かっている扉を開ける事が出来る。;Abre as portas trancadas do Salao Raintage.;56;43
+レインテージ回廊１階;Raintage Hall 1F;20;16
+レザーガントレ;Lthr Gauntlet;14;13
+レザーグリーヴ;Lthr Greaves;14;12
+レザーグローブ;Lthr Gloves;14;11
+レザーブーツ;Lthr Boots;12;10
+レジストコンボ %s は既にネットワークに登録済みです;Combo %s ja esta registrado na rede;50;35
+レジストコンボ %s は既に所持しています;Voce ja tem o Combo %s;38;22
+レジストコンボ %s を%sしますか？;Combo %s: %s?;32;13
+レジストコンボ %s を保存しました;Combo %s salvo;32;14
+レジストコンボ %s を保存しました(空きが無かった為、倉庫に保存);Combo %s salvo (deposito, sem espaco livre);62;43
+レジストコンボとは？;O que e Combo Reg.?;20;19
+レジストコンボの記録;Gravar Combo Reg.;20;17
+レジストコンボを他のプレイヤーが閲覧出来るネットワークにアップロード出来ます [↑↓] 切り替え [A] 決定/アップロード [B] キャンセル;Envie Combos Reg. a rede para outros jogadores verem\n[↑↓] Trocar [A] OK/Enviar [B] Cancelar;129;93
+レック;Rekku;6;5
+レッドバングル;Red Bangle;14;10
+レッドブーツ;Red Boots;12;9
+レナ;Rena;4;4
+レバレンドグローブ;Reverend Gloves;18;15
+レバレンドブーツ;Reverend Boots;16;14
+レベル/クラススキル/パッシブスキル/装備品等がリセットされました;Nivel/skills de classe/passivas/equip. foram resetados;63;54
+レベルが不足している為、このアイテムは取り出せません;Nivel insuficiente: nao da para retirar o item;52;46
+レベル制限でパッシブスキルが解除されました;Passivas removidas por limite de nivel;42;38
+ロアール;Roaru;8;5
+ログイン;Login;8;5
+ログイン処理が正常に完了しました;Login concluido com sucesso;32;27
+ロジーニ;Rojini;8;6
+ロド;Rodo;4;4
+ロハー;Roha;6;4
+ロバストガントレ;Robust Gauntlet;16;15
+ロバストグリーヴ;Robust Greaves;16;14
+ロビーに戻る;Voltar Lobby;12;12
+ロンデルダガー;Rondel Dagger;14;13
+ロークラス/ハイクラス/マスタークラス/その他;Low Class/High Class/Master Class/Outros;43;40
+ローズグローブ;Rose Glove;14;10
+ローズブーツ;Rose Boots;12;10
+ワイトハーレン城;Harlene Castle;16;14
+ワイトハーレン城 １階 封印の間;Harlene Castle 1F Seal Rm;30;25
+ワイトハーレン城 ２階 フロア角;Harlene Castle 2F Corner;30;24
+ワイトハーレン城 ２階 通路;Harlene Castle 2F Hall;26;22
+ワイトハーレン城１階にレオナルドと呼ばれ\nる魔物が現れた。\nゴートも従え被害者も多数出ている。\n討伐を依頼したい。;"Um monstro chamado Leonard surgiu no\n1F do Castelo Harlene com Goats; ha\nmuitas vitimas. Peco eliminacao.";111;105
+ワイトハーレン城１階に魔人の一団が現れた\n。\n調査の妨げになるので討伐を依頼したい。;"Bando de Majin no 1F do Castelo\nHarlene. Atrapalha a pesquisa;\neliminem-nos.";82;76
+ワイトハーレン城２階に強力なゴブリンが現\nれた。\n討伐を依頼したい。;Goblin poderoso surgiu no 2F do\nCastelo Harlene. Peco eliminacao.;66;65
+ワイトハーレン城２階に竜の一団が現れた。\n討伐が可能な者が居るようであれば依頼をし\nたい。;Grupo de dragoes no 2F do Castelo\nHarlene. Quem puder, elimine-os.;88;66
+ワイトハーレン城３階で巨大な竜が目撃され\nた。\nこの区域への立ち入りを許可されている者で\n討伐が可能な者を探している。;Um dragao gigante foi visto no 3F do\nCastelo Harlene. Procuro quem tenha\nacesso a area e possa elimina-lo.;115;106
+ワイトハーレン城３階に死者の集団が現れた\n。\n討伐を依頼する。;Mortos surgiram no 3F do Castelo\nHarlene. Eliminem-nos.;60;55
+ワイトハーレン城３階に火竜が現れ、その周\n囲にアナコンダが大量に発生した。\n火竜の討伐を依頼する。;Dragao de fogo no 3F do Castelo\nHarlene, com muitas anacondas.\nEliminem o dragao.;96;81
+ワイトハーレン城３階に炎を纏ったスライム\nが大量に発生した。\n危険なので討伐を依頼したい。;"Slimes em chamas surgiram em massa no\n3F do Castelo Harlene. Perigoso; peco\neliminacao.";88;87
+ワルーンソード;Walloon Sword;14;13
+ワンダーグローブ;Wonder Gloves;16;13
+ワンダーブーツ;Wonder Boots;14;12
+ワンマッチ;One Match;10;9
+ヴァラーガントレ;Valor Gauntlet;16;14
+ヴァラーグリーヴ;Valor Greaves;16;13
+ヴェベド;Vebedo;8;6
+ヴェベドのアジト;Vebedo's Lair;16;13
+ヴェベドのアジト奥;Vebedo's Lair Back;18;18
+ヴェベド部下;Vebedo Man;12;10
+ヴェーロ;Vero;8;4
+一つ;Um;4;2
+一人の若い娘と共に遺跡を訪れた魔道士。\n魔術の扱いにかなり長けているようで\nその立ち振る舞いからは、練達された\n術士の雰囲気が感じ取れる。\n\n一緒に遺跡を訪れた娘の事をことさら\n気にかけているが、理由は明らかにしない。;Mago que visita as ruinas com uma\njovem. Domina muito bem a magia e tem\nar de veterano.\n\nCuida muito da jovem, mas nao diz o\nmotivo.;212;132
+一定回数、敵から攻撃を受けた時に自動的に反撃を行う状態に\nなる;Contra-ataca auto ao ser atingido (vezes limitadas).;61;52
+一定時間、HPの最大値が少し上昇する;HP max sobe um pouco por um\ntempo.;34;34
+一定時間、INTが大幅に上昇する;INT sobe muito por um tempo.;29;28
+一定時間、MENが大幅に上昇する;MEN sobe muito por um tempo.;29;28
+一定時間、STRが大幅に上昇する;STR sobe muito por um tempo.;29;28
+一定時間、VITが大幅に上昇する;VIT sobe muito por um tempo.;29;28
+一定時間、一定量のダメージを無効化する状態になる;Por um tempo, anula uma quantidade de dano.;48;43
+一定時間、仲間の受けたダメージを肩代わりする状態になる;Por um tempo, voce recebe o dano dos aliados.;54;45
+一定時間、体力が尽きても倒れない領域を発生させる;Cria area onde nao cai mesmo sem HP.;48;36
+一定時間、体力を徐々に回復する領域を発生させる;Cria area que recupera HP aos poucos.;46;37
+一定時間、攻撃をガードするとそのダメージの一部を体力に還\n元できる\n状態になる\n一定回数ガードを行うと解除される;Por um tempo, parte do dano defendido vira HP.\n\nAcaba apos defender certas vezes.;109;81
+一定時間、攻撃を受けた時に敵を吹き飛ばす魔法をカウンター\nで\n放つ事が出来る状態になる;Por um tempo, contra-ataca com magia que arremessa o\ninimigo ao ser atingido.;84;77
+一定時間、攻撃を受けても怯まない状態になる;Por um tempo, nao recua ao ser atingido.;42;40
+一定時間、敵に見つからない状態になる\n敵に攻撃を当てると解除される\n一部無効な敵も存在する;Por um tempo, fica invisivel aos\ninimigos.\n\nAcabar ao atacar. Alguns inimigos\nignoram.;88;86
+一定時間、自分の状態に関係無く攻撃を防御する状態になる\nただし、空中に居る場合は防御不可能;Por um tempo, defende ataques seja qual for seu\nestado.\n\nNao defende se estiver no ar.;89;86
+一定時間、走る速度が向上する状態になる;Aumenta a velocidade de corrida.;38;32
+一定範囲内の敵を任意の確率で敵を追い払う;Afasta inimigos da area, com chance.;40;36
+一定範囲内の自分よりレベルが低い敵を消滅させる。;Elimina inimigos da area de nivel menor.;48;40
+一定範囲内の自分よりレベルが３以上低い敵を消滅させる。;Elimina inimigos na area 3+ niveis abaixo de voce.;54;50
+一点に魔力を集中し柱状に放出する。\n対象を気絶させる効果を持つ。;Concentra magia e libera um\npilar.\n\nAtordoa o alvo.;63;51
+一瞬で相手に詰め寄り強力な斬り払いを放つ。;Avanca num instante e corta forte.;42;34
+一瞬にして敵を切り刻む抜刀術。;Iaijutsu relampago.;30;19
+一瞬にして敵を払い抜ける。\n稀に敵を即死させる。;Passa pelo inimigo.\n\nRaramente mata de vez.;47;43
+一瞬にして間合いを詰め斬り払う。\nDEXに依存して威力が変化する。;Avanca e corta num instante.\n\nPoder varia com DEX.;62;50
+一部の環境向け/通常;Alguns PCs/Normal;19;17
+七支刀;Shichi;6;6
+七星宝剣;7 Star;8;6
+上へ;Up;4;2
+上空から降り注ぐ一筋の聖なる光が対象を射抜く。\n高確率で対象を消滅させる。;Um raio de luz sagrada atravessa o alvo.\n\nAlta chance de elimina-lo.;73;68
+上質な牙;Fine Fng;8;8
+下へ;Down;4;4
+不可;Nao;4;3
+不明;???;4;3
+不明なエラーが発生しました;Erro desconhecido;26;17
+不明なユーザー名;Usuario incog.;16;14
+不気味な体液;Eerie Fluid;12;11
+世渡り上手な;Streetwise;12;10
+世話好きな;Caregiver;10;9
+中から禍々しい気配が溢れ出ている・・・入りますか？;Uma presenca sinistra emana de dentro... Entrar?;50;48
+中に入りますか？;Entrar?;16;7
+中央に敵を誘い込む布陣。\n中央１のVIT、MENが大幅に上昇し、両脇２，３のSTRが上昇する。;"Atrai inimigos ao centro.\n\nVIT/MEN do centro 1 sobem muito; STR dos lados sobem.";84;80
+中距離;Medio;6;5
+乱獲の;Hunt;6;4
+亜空間;Limbo;6;5
+亡霊;Wisp;4;4
+亡霊（女;Ghost F;8;7
+亡霊（男;Ghost M;8;7
+今は使えない;Nao agora;12;9
+今丁度これが欲しかった所だよ。\nいつも悪いな。;Era justo o que eu queria.\nSempre me ajuda.;45;43
+今開いているトランスポーターはきえてしまいますがよろしいですか？;O Transporter aberto agora vai desaparecer. Confirma?;64;53
+他のキャラクターの倉庫から購入;Comprar do dep. de outro;30;24
+他のプレイヤーが使用中です;Em uso por outro jogador;26;24
+他のプレイヤーが登録したレジストコンボを閲覧/ダウンロード出来ます [↑↓] 切り替え [A] 決定/ダウンロード [B] キャンセル;Veja/baixe Combos Reg. de outros jogadores [↑↓] Trocar\n[A] OK/Baixar [B] Cancelar;118;83
+他のプレイヤーを待機中;Aguardando jogadores;22;20
+他の中継ポイントへ移動する事が出来ます [A] 決定 [B] キャンセル [↑↓] カーソル移動 [←→ or PageUp/Down] ページ戻し/送り;Mova-se a outros pontos de relay [A] OK [B] Cancelar\n[↑↓] Mover cursor [←→ or PageUp/Down] Pagina\nant./prox.;120;112
+以上の;ou +;6;4
+以上離れた;ou +longe;10;9
+以下の;ou -;6;4
+以内にいる;dentro de;10;9
+仲間;Ally;4;4
+仲間との距離が離れすぎていて移動出来ない;Longe demais dos aliados para mover;40;35
+仲間に誘う;Convidar;10;8
+仲間のAIを編集します;Edita a IA aliada;20;17
+仲間の数が上限を超えています 誰かを仲間から外してください;Limite de aliados excedido. Remova alguem do grupo;57;50
+仲間は初期状態ではとても単純なAI(思考)しか\n持ちません。\nこの状態でも一人で探索するよりも遥かに楽になりますが、\nAIを編集する事で更に戦闘を有利に進める事が\n出来るようになります。\n\n例えば・・・\n\n・近くに居る敵を優先的に攻撃させたり\n・HPが減ってる敵を優先的に攻撃させたり\n・死にそうな仲間のHPを回復したり\n\nというような事が出来るようになります。;Os aliados comecam com uma IA (pensamento) muito\nsimples.\nMesmo assim, e bem mais facil que explorar sozinho,\nmas editar a IA torna as lutas ainda mais\nvantajosas.\n\nPor exemplo...\n\n- Atacar primeiro o inimigo mais proximo\n- Atacar primeiro inimigos com pouco HP\n- Curar aliados quase caidos\n\nVoce pode fazer coisas assim.;340;321
+休みますか？;Descansar?;12;10
+会議場;Forum;6;5
+低い;Low;4;3
+体内の聖なる気を圧縮し光り輝く気の塊を生成した後、上空か\nら落とす。;Comprime ki sagrado em uma esfera brilhante e a solta\ndo alto.;67;62
+体内の聖なる気を大量に放出する事で、周囲の邪悪な敵にダメ\nージを与える。\n一定確率で消滅させる。;Libera muito ki sagrado e fere os inimigos malignos ao\nredor.\n\nPode elimina-los.;94;80
+体内の聖なる気を放出する事で、邪悪な敵にダメージを与える\n。;Libera o ki sagrado do corpo para ferir inimigos\nmalignos.;59;58
+体力を1000回復する;Recupera 1000 HP.;18;17
+体力を100回復する;Recupera 100 HP.;17;16
+体力を1800回復する;Recupera 1800 HP.;18;17
+体力を400回復する;Recupera 400 HP.;17;16
+何かの気配を感じる・・・入りますか？;Sente uma presenca... Entrar?;36;29
+何かの気配を感じる・・・進みますか？;Sente uma presenca... Avancar?;36;30
+何か音が聞こえた;Ouviu um som;16;12
+何も起こらなかった;Nada aconteceu;18;14
+使う;Usar;4;4
+使用可能な名前です;Nome disponivel;18;15
+依頼 %s が完了しました 酒場へ報告に行って下さい;Pedido %s concluido. Reporte na taverna;47;39
+依頼 %s をキャンセルしました;Pedido %s cancelado;28;19
+依頼 %s を受けました;Aceitou o pedido %s;20;19
+依頼の魔物を討伐しました;Monstro do pedido morto;24;23
+依頼を受けていません;Sem pedidos aceitos;20;19
+保存;Save;4;4
+修理;Rep.;4;4
+修理とは？;O Reparo?;10;9
+修練の;Drill;6;5
+修練場へ行きますか？;Ir ao Dojo?;20;11
+修錬場;Dojo;6;4
+倉庫;Dep.;4;4
+倉庫について;Sobre Dep.;12;10
+倉庫へアイテムを入れたり、取り出したりする事が出来ます [A] 選択/倉庫へ移動 [B] キャンセル [C] 装備品詳細表示/非表示 [↑↓] カーソル移動  [←→] 種類変更 [PageUp/Down] ページ戻し/送り;Guarda e retira itens do deposito [A] Escolher/Mover\nao deposito [B] Cancelar [C] Mostrar/ocultar detalhes\n[↑↓] Mover cursor  [←→] Mudar tipo [PageUp/Down]\nPagina ant./prox.;182;177
+倒した;Matou;6;5
+倚天;YiTn;4;4
+停止;Halt;4;4
+傷つき倒れた者の体力を25%回復する;Cura 25% do HP de um caido.;33;27
+傷つき倒れた者の体力を50%回復する;Cura 50% do HP de um caido.;33;27
+働き者の;Worker's;8;8
+先の「複数の条件-1」で「セット」の「条件」の順序を\n逆にしてみましょう。\n\n---------------------\n条件１：最も近い\n条件２：３メートル以上離れた\n対象　：敵\n行動１：武器通常攻撃\n--------------------\n\nこうした場合\nまず、「条件１：最も近い」に従って対象を絞り込み\n次に、「条件２：３メートル以上離れた」に従って\n更に絞り込みを行います。\n\nこの場合は「最も近い敵が、３メートル以上離れていたら」と\n読み替えると判りやすいでしょうか。\n\nこのようにすると、例え敵が居たとしてもその敵が\n２メートルに居たら「条件」は満たされず「行動」は\n実行されません。\n\n複数の「条件」を設定する場合はその順序によって\n動作が大きく異なるので注意してください。;"Inverta a ordem das condicoes do exemplo anterior.\n\n--------------------\nCondicao 1: mais proximo\nCondicao 2: a 3m ou mais\nAlvo      : inimigo\nAcao 1    : ataque normal\n--------------------\n\nPrimeiro filtra por ""Condicao 1: mais proximo"" e\ndepois por ""Condicao 2: a 3m ou mais"".\n\nLeia como ""se o inimigo mais proximo estiver a 3m ou\nmais"".\n\nAssim, mesmo com um inimigo a 2m, a condicao nao e\nsatisfeita e a acao nao roda.\n\nCom varias condicoes, a ordem muda muito o\ncomportamento.";624;480
+光;Lt;2;2
+光の塊;Light;6;5
+光の結晶;LghtCrys;8;8
+光の雫;LghtDp;6;6
+光を纏った斬り上げで空中に飛び上がる。;"Corte ascendente de luz; salta ao\nar.";38;37
+光属性の耐性が5%上昇する。\n同種スキルは効果が加算される。;Resist. a luz +5%.\n\nEfeitos de skills iguais se somam.;57;54
+光属性を帯びた突き攻撃を放つ。;Estocada com atributo luz.;30;26
+光輝の;Shine;6;5
+入室したままゲームに戻る;Voltar ao jogo;24;14
+入室する;Entrar;8;6
+全ての%sを倒した;Matou todos %s;16;14
+全ての攻撃が必ずクリティカルヒットになる連続攻撃を放つ;Combo em que todo ataque e um golpe critico.;54;44
+全ての装備/クラススキル/パッシブスキルが解除されました;Equip., skills de classe e passivas removidos;54;45
+全修理;RepAll;6;6
+全員後衛の魔法重視布陣。\n全員のINT、CONが上昇する。;Foco em magia, todos atras.\n\nINT/CON sobem.;51;43
+冥府の剣士;Hades Swd;10;9
+冥王竜の翼;DrkKngWing;10;10
+冷淡な;Cold;6;4
+凄まじい連続攻撃で敵に致命傷を与える。;Combo feroz que causa dano fatal.;38;33
+凍てつく氷の柱を敵めがけて大量に突き刺す。;Crava muitos pilares de gelo no inimigo.;42;40
+凍結;Frzn;4;4
+凍結の;Frost;6;5
+刀の極意Ⅲ;Katana III;10;10
+刀装備時に攻撃力が10%上昇する。\n同種スキルは効果が加算される。;Ataque +10% com katana.\n\nEfeitos de skills iguais se somam.;62;59
+刀装備時に攻撃力が15%上昇する。\n同種スキルは効果が加算される。;Ataque +15% com katana.\n\nEfeitos de skills iguais se somam.;62;59
+刀装備時に攻撃力が5%上昇する。\n同種スキルは効果が加算される。;Ataque +5% com katana.\n\nEfeitos de skills iguais se somam.;61;58
+分解;Desm;4;4
+分解とは？;O Desm.?;10;8
+切れ味;Fio;6;3
+切れ味の消費が20%減少する。\n同種スキルは効果が加算される。;Desgaste do fio -20%.\n\nEfeitos de skills iguais se somam.;58;57
+切れ味の消費が30%減少する。\n同種スキルは効果が加算される。;Desgaste do fio -30%.\n\nEfeitos de skills iguais se somam.;58;57
+制限時間 %2d:%02d;Tempo %2d:%02d;17;14
+削除;Del;4;3
+前方に居る;A frente;10;8
+剣に風を伴いながら激しく斬り上げながら空中へ舞い上がる。;"Corte ascendente com vento; salta ao ar.";56;40
+剣の道を極めし剣士のクラス。\n魔法は扱えないが、刀剣の扱いに長ける。\n初期クラススキルの「オートカウンターⅠ」は\n攻撃を受けた時に自動的に反撃する攻防一体のスキル。;"Classe de espadachim mestre da esgrima.\n\nSem magia, mas domina laminas. Habilidade\ninicial ""Contra-ataque Auto I"": contra-ataca ao\nser atingido.";161;144
+剣を地面に突き刺し広範囲に衝撃波を発生させる。\n竜系の敵に特に効果的。;Crava a espada: onda de choque ampla.\n\nEficaz contra Dragons.;69;61
+剣を地面に突き刺し衝撃波を放つ。\n竜系の敵に特に効果的。;Crava a espada: onda de\nchoque.\n\nEficaz contra Dragons.;55;55
+剣を地面に突き刺し闘気を送り込み衝撃波を発生させる。\n敵を浮かす事が出来る。;Crava a espada no chao e libera uma onda de\nchoque.\n\nLanca inimigos ao ar.;75;74
+創造と変化を司る錬金術士のクラス。\n操るスキルはアイテムに働きかける特殊な物が多い。\n初期クラススキルの「アルケミー」は\n落ちているアイテムを金に変えることのできるスキル。;"Classe de alquimista da criacao e mudanca.\n\nMuitas habilidades agem sobre itens. A\nhabilidade inicial ""Alquimia"" transforma itens\nno chao em ouro.";169;146
+創造の源、破滅の鍵;Origem e Ruina;18;14
+力の限り武器を振り下ろし敵に叩き付ける。\n物質系の敵に特に効果を発揮する。;Golpe com toda a forca contra o\ninimigo.\n\nMuito eficaz contra Matter.;73;69
+効果音音量;SFX Volume;10;10
+勇壮な角;Bold Hrn;8;8
+勇敢なる意志を持つ勇者のクラス。\n剣術を得意とし、魔法もこなす。\n初期クラススキルの「デマイズⅠ」は\n自分よりも弱い敵を消滅させる特殊な技。;"Classe do heroi de vontade corajosa.\n\nDomina esgrima e usa magia. A\nhabilidade inicial ""Demise I""\nelimina inimigos mais fracos que\nvoce.";137;136
+勇者の心;Brave Ht;8;8
+勝利数　　%22s勝;Vitorias%22s;16;12
+勝利数ランキング;Rank de Vitorias;16;16
+勢い良く空中に飛び上がり、鎚の重量を生かし叩きつけを放つ\n。\n発生した衝撃波で敵を浮かす事が出来る。;Salta alto e bate com o peso do martelo.\n\nA onda lanca inimigos ao ar.;98;70
+匠の金床;MstAnvil;8;8
+博学の;Erudit;6;6
+原因不明のエラーが発生した為読み込みに失敗しました;Falha ao carregar: erro desconhecido;50;36
+厳格な;Strict;6;6
+受身;Roll;4;4
+古の呪術を操る魔術士のクラス。\n弱体魔法を得意とし、杖の扱いにも長けている。\n初期クラススキルの「リデュース」は\n敵の特定の能力を低下させるスキル。;"Classe de mago de antigas maldicoes.\n\nMestre em enfraquecer e usa cajados.\nHabilidade inicial ""Reduzir"": diminui um\natributo do inimigo.";145;136
+古びた布;OldCloth;8;8
+古代獣の皮;AncntHide;10;9
+只ならぬ威風を備えた金床。;Bigorna imponente.;26;18
+可;Ok;2;2
+台座に灯りを燈した;Acendeu o pedestal;18;18
+右旋回;Gira D;6;6
+各地で集めた電気を一箇所めがけて落下させる。\n対象を絞ることで強力なダメージを与える。;Concentra a eletricidade coletada em um\nponto.\n\nFocar o alvo causa dano forte.;85;78
+各種 刻印;Selos;9;5
+各種 宝珠;Orbes;9;5
+各種 結晶;Cristais;9;8
+各種 雫;Gotas;7;5
+合成;Fuse;4;4
+合成とは？;Sobre Fuse;10;10
+名前:%s;Nome:%s;7;7
+名前を入力してください;Digite um nome;22;14
+名工;Ace;4;3
+向こう側から鍵が掛かっているようで開きそうにない;"Trancada pelo outro lado; parece nao abrir";48;42
+呪われた布;CursedClth;10;10
+回廊の鍵;HallKey;8;7
+回廊入り口の鍵;HallGateKey;14;11
+回転しながら敵に突っ込み辺り一帯をなぎ払う。;Investe girando e varre tudo ao redor.;44;38
+回転しながら斬り込み、更に返す武器で斬り払う。\n魔獣系の敵に特に効果を発揮する。;Gira cortando e corta no retorno.\n\nMuito eficaz contra Monsters.;79;64
+回転しながら突進し、空間を斬り裂く衝撃波を発生させる。\n敵を吹き飛ばす事が出来る。;Avanca girando, gerando onda que corta o espaco.\n\nArremessa inimigos.;81;69
+回転しながら飛び上がり空中の敵へ向けての攻撃を放つ。\n敵を地面に叩きつける事ができる。;Salta girando e ataca inimigos no ar.\n\nDerruba o inimigo ao chao.;85;65
+回転する武器を投げつけ敵を切り刻む。;Arremessa a arma girando e\nretalha.;36;35
+回転攻撃で斬り込み止めに衝撃波を放ち敵を浮かせる事が出来\nる。\n物質系の敵に特に効果を発揮する。;Corte giratorio com onda final que lanca inimigos.\n\nMuito eficaz contra Matter.;94;79
+土;Ea;2;2
+土の巨人;EarthGnt;8;8
+土の結晶;EarthCry;8;8
+土の雫;EarthD;6;6
+土を纏った武器を突き出し敵に突っ込む。;Arma de terra avanca e estoca.;38;30
+土塊の;Rock;6;4
+土属性の強力な叩き付けを放つ。;Forte pancada de terra.;30;23
+土属性の耐性が5%上昇する。\n同種スキルは効果が加算される。;Resist. a terra +5%.\n\nEfeitos de skills iguais se somam.;57;56
+土砂;Sand;4;4
+土砂の;Soil;6;4
+地下塔;UG Twr;6;6
+地中から３本の火柱を同時に立ち上らせ周囲を焼き尽くす。;Ergue 3 pilares de fogo e queima tudo ao redor.;54;47
+地中に多量の魔力を注入する事で一度に3本の岩の柱を創り出\nし、それを敵に向けて突き上げる。;Injeta muita magia no solo e ergue 3 pilares de rocha\nde uma vez contra o inimigo.;88;82
+地中に溜め込んだ水分を一気に放出してダメージを与える。;Libera de uma vez a agua do solo para causar dano.;54;50
+地中の水分を凍らせて、柱状の塊にして敵めがけて突き刺す。;Congela a umidade do solo e crava pilares no inimigo.;56;53
+地中の砂や塵を魔力で制御し、強力な衝撃と共に噴射させる。;Controla areia do solo e a dispara com impacto.;56;47
+地学士;Geolog;6;6
+地形から受けるダメージが20%減少する。\n同種スキルは効果が加算される。;Dano de terreno -20%.\n\nEfeitos de skills iguais se somam.;68;57
+地形から受けるダメージが30%減少する。\n同種スキルは効果が加算される。;Dano de terreno -30%.\n\nEfeitos de skills iguais se somam.;68;57
+地獄の書物;HellBook;10;8
+垂直に空高くめがけて回転斬り上げを放つ。\n敵を浮かす事が出来る。;Corte giratorio para cima.\n\nLanca o inimigo ao ar.;63;50
+城の地図;CstMap;8;6
+城の通行証;CastlePass;10;10
+城の鍵;CstKey;6;6
+基本的な「セット」の組み方を説明します。\n\n１．AI編集の画面で[A]ボタンを押すとメニューが\n　　表示されるのでそこから「新規作成」を選んでください。\n\n２．「条件」が表示されているリストが表示されるので\n　　適当な条件を選び[A]ボタンを押します。\n\n３．「対象」が表示されているリストが表示されるので\n　　適当な対象を選び[A]ボタンを押します。\n\n４．「行動」が表示されているリストが表示されるので\n　　適当な行動を選び[A]ボタンを押します。\n\nこれで一つの「セット」が組みあがります。\nあとは必要は分だけ「セット」を組み、適切な順序で\n「セット」を並べればAIの出来上がりです。\n\n「セット」は作成した後でも自由に削除、\n順序の入れ替え等の色々な編集を行う事が可能です。;"Como montar um ""Conjunto"" basico.\n\n1. Na tela de edicao da IA, aperte [A] e escolha\n""Novo"" no menu.\n\n2. Escolha uma condicao na lista de ""Condicao"" e\naperte [A].\n\n3. Escolha um alvo na lista de ""Alvo"" e aperte [A].\n\n4. Escolha uma acao na lista de ""Acao"" e aperte [A].\n\nPronto, um ""Conjunto"" esta montado. Monte quantos\nprecisar e ordene-os para completar a IA.\n\nDepois de criado, voce pode apagar ou reordenar os\n""Conjuntos"" livremente.";647;437
+基本的なメッセージのみ表示/全システムメッセージを表示;So msgs basicas/Todas as msgs do sistema;53;40
+基本的な布陣。\n全員のDEX、CONが上昇する。;Formacao basica.\n\nDEX/CON de todos sobem.;41;41
+堅固の;Sturdy;6;6
+堅牢な甲羅;Hard Shell;10;10
+塔の地図;TwrMap;8;6
+塔の鍵;TwrKey;6;6
+墓地の獣人;GraveBeast;10;10
+壊れていて開かない;Quebrada, nao abre;18;18
+売りに来た;Vendedor;10;8
+売却;Vend;4;4
+変則的な動きで相手を翻弄し、死角から強力な土属性の打撃を\n叩き込む。;Confunde o alvo e golpeia forte de terra pelo ponto\ncego.;67;57
+変則的な動きで相手を翻弄し、死角から強力な斬りを叩き込む\n。;Confunde o alvo e corta forte pelo ponto cego.;59;46
+変則的な動きで相手を翻弄し、死角から強力な斬りを叩き込む\n。\n竜系の敵に特に効果的。;Confunde o alvo e corta forte pelo ponto cego.\n\nMuito eficaz contra Dragons.;82;76
+変則的な動きで相手を翻弄し、死角から強力な斬りを叩き込む\n。\n魔獣系の敵に特に効果を発揮する。;Confunde o alvo e corta forte pelo ponto cego.\n\nEspecialmente eficaz contra Monsters.;92;85
+変則的な動きで相手を翻弄し、死角から風属性の強力な斬りを\n叩き込む。;Confunde o alvo e corta forte de vento pelo ponto\ncego.;67;55
+多量の魔力により地中から巨大な火柱を具現化する。;Ergue um enorme pilar de fogo do chao.;48;38
+多量の魔力を込める事で、風を制御し長時間竜巻を出現させる\n。;Com muita magia, mantem um tornado por muito tempo.;59;51
+大事な物 %s を手に入れた;Obteve item-chave %s;24;20
+大事な物を表示します;Mostra itens-chave;20;18
+大型;Big;4;3
+大気中、地中の水分を魔力により大量に集め、巨大な渦を出現\nさせ飲み込む。\n巻き込んだ者にダメージを与えると共に渦の中心へ引き寄せる\n効果がある。;Reune muita agua do ar e do solo e cria um enorme\nredemoinho que engole tudo.\n\nCausa dano e puxa quem for pego ao centro.;141;121
+大気中から炎の要素を抽出し魔力と合成して地面に設置する。;Extrai fogo do ar, funde-o a magia e o fixa no chao.;56;52
+大気中にある静電気を一点に集め、強力な稲妻を造り出して落\n下させる。\n直撃した者はダメージを受け気絶する。;Reune eletricidade estatica do ar num ponto e faz cair\num raio.\n\nQuem for atingido fica atordoado.;104;98
+大気中にある静電気を超規模で集め、一箇所に集中して超強力\nな雷を落とす。;Reune muita eletricidade estatica e faz cair um raio\nenorme.;71;60
+大気中の水分を凝縮し、高圧の水を一気に放出する。\n地面に叩きつけ、浮かす事ができる。;Condensa agua do ar e a libera sob pressao.\n\nAtinge o chao e pode lancar inimigos.;83;82
+大気中の窒素を制御し多量の魔力と融合させ制御し、地中で爆\n発させる。\n広範囲にダメージを与える。;Controla o nitrogenio do ar, funde-o a muita magia e o\nexplode no solo.\n\nFere uma ampla area.;94;93
+大気中の窒素を制御し魔力と融合させ制御し、地中で爆発させ\nる。;Controla o nitrogenio, funde a magia e explode no\nsolo.;61;55
+大気中や地表の砂や塵を魔力でコントロールし、砂嵐を巻き起\nこす。;Controla areia e po com magia: causa tempestade de\nareia.;63;57
+大気圧を操り高速に回転する風を生み出す事で空間ごと捻じ曲\nげ巻き上げた敵に強力なダメージを与える。;Gira o vento em alta velocidade e distorce o espaco,\nferindo muito os inimigos erguidos.;97;88
+大気圧を操作して巨大な螺旋状の風を創り出し、周囲の敵を巻\nき上げる。;Cria enorme espiral de vento que ergue os inimigos.;67;51
+大蛇の毒牙;Snake Fang;10;10
+大蜘蛛の群れ;Spider Pack;12;11
+大蠍の堅甲;ScorpShell;10;10
+大量の水を地表に向かって滝のように叩きつける。\n広範囲の対象を地面に叩きつける。;Despeja muita agua ao chao como uma\ncachoeira.\n\nAtinge uma ampla area.;79;70
+天国;Amak;4;4
+天運Ⅱ;LuckII;6;6
+太古の聖骸布;AncntShroud;12;11
+太古の骨;AncntBn;8;7
+奈落の;Abyss;6;5
+奪いし者、奪われし者;Tomar e ser Tomado;20;18
+女専用;Mulher;6;6
+妖霧の果て、宵闇の畔り;Bruma e Crepusculo;22;18
+姫鶴一文字;HimeTsuru;10;9
+宇宙を彷徨う巨大な星の欠片の軌道を制御し、対象めがけて落\n下させる。;Controla a orbita de um grande fragmento de estrela e\no faz cair.;67;65
+宇宙を彷徨う星の欠片の軌道を制御し、対象めがけて落下させ\nる。;Controla a orbita de um fragmento de estrela e o faz\ncair.;61;58
+守護の水;WardWatr;8;8
+安全の為ユーザーはロックされています(A);Usuario bloqueado por seguranca (A);39;35
+安全の為ユーザーはロックされています(B);Usuario bloqueado por seguranca (B);39;35
+完了;Done;4;4
+完了済;Feito;6;5
+完全に削除(注意);Excluir total(!);16;16
+完全に透明化/距離に応じた透明度;Transparente/Por distancia;31;26
+実行時エラーが発生しました(H);Erro de execucao (H);29;20
+実行時エラーが発生しました(L);Erro de execucao (L);29;20
+実際にAIを組む時に役立つ基本的な考え方があります。\nそれは・・・\n\n「○○ な ×× に △△ しろ」\n\nという考え方です。\nAIは基本的にこのルールにしたがって構成されます。\nこのルールを覚えるだけでもある程度自由にAIが\n組めるようになるかと思います。\n\nこの時の\n「○○ な」　の部分を「条件」\n「×× に」　の部分を「対象」\n「△△ しろ」の部分を「行動」\nと呼びます。\n\nこの「条件」「対象」「行動」を一纏まりとし、\nこれを「セット」と呼びます。\nAIは複数個の「セット」で構成されます。\n\n「セット」は基本的には次の用に表記されます。\n\n--------------------\n条件１：\n対象　：\n行動１：\n--------------------;"Ha uma ideia basica util para montar a IA:\n\n""Faca [Acao] em [Alvo] que esteja [Condicao]""\n\nA IA e montada seguindo essa regra. So de\naprender isso ja da para montar a IA com certa\nliberdade.\n\nAqui:\n""[Condicao]"" = parte ""que esteja ...""\n""[Alvo]"" = parte ""em ...""\n""[Acao]"" = parte ""Faca ...""\n\nCondicao, Alvo e Acao juntos formam um\n""Conjunto"". A IA e feita de varios ""Conjuntos"".\n\nUm ""Conjunto"" aparece assim:\n\n--------------------\nCondicao 1:\nAlvo     :\nAcao 1   :\n--------------------";582;484
+実際の組み方;Como montar;12;11
+容量  %4d/%4d;Cap.  %4d/%4d;13;13
+宿屋 地下;Inn B1;9;6
+宿屋 部屋１;Inn Room 1;11;10
+宿屋 部屋２;Inn Room 2;11;10
+宿屋 １階;Inn 1F;9;6
+寡黙な;Quiet;6;5
+対戦相手を選択してください [↑↓] 選択  [リストの一番下で↓] 次のデータをダウンロード  [B] キャンセル;Escolha o oponente [↑↓] Escolher  [↓ no fim da lista]\nBaixar proximos dados  [B] Cancelar;101;92
+対象;Alvo;4;4
+対象が見つかりません;Alvo nao encontrado;20;19
+対象に当ると強烈な衝撃波を発生させる突きを放つ。;Estocada que gera forte onda de choque.;48;39
+封印の深淵へと一人向かう若者。\nその目からは躊躇を感じ取る事は出来ない。\n\n若者は手に帯びた剣を振るい、\n闇へと吸い込まれていく。\n\n何が彼を突き動かし、\nその手は何を求めるのか。;Jovem que segue sozinho ao abismo\nselado, sem hesitar.\n\nEmpunhando a espada, ele se lanca a\nescuridao.\n\nO que o move? O que sua mao procura?;173;140
+封印の間;Sealed;8;6
+封竜の;Wyrm;6;4
+封竜の刻印;Wyrm Seal;10;9
+封竜の宝珠;Wyrm Orb;10;8
+小さい袋;Saquinho;8;8
+小型;Sml;4;3
+尖った骨;Sharp Bn;8;8
+屍の剣士;Dead Swd;8;8
+属性;Elem;4;4
+岩戸の鍵;RockKey;8;7
+左旋回;Gira E;6;6
+巨大な水の竜巻を出現させ周囲の敵を巻き上げてダメージを与\nえる。;Cria um tornado de agua que ergue e fere inimigos.;63;50
+巨大な爪;BigClaw;8;7
+巨獣の魔甲;GiantShell;10;10
+巨竜;Drag;4;4
+帰還ポイントへ戻りますか？;Ir ao ponto de retorno?;26;23
+幻宮の鍵;PalcKey;8;7
+幻獣王の角;MythKngHn;10;9
+幾つかのアイテムが倉庫の容量をオーバーしています。\n容量をオーバーしている状態では\nセーブを行えませんのでご注意ください。;Alguns itens excedem a capacidade do deposito.\nNesse estado nao e possivel salvar, atencao.;120;91
+幾つかのアイテムが倉庫の容量をオーバーしています。\n容量をオーバーしている状態ではセーブを行えません。\n倉庫を整理して再度お試しください。;Alguns itens excedem a capacidade do deposito.\nNesse estado nao e possivel salvar.\nOrganize o deposito e tente de novo.;136;119
+広範囲に及ぶ電撃フィールドを生成し、\n範囲内の敵にダメージを与える。;Cria um campo eletrico de ampla\narea que fere os inimigos dentro.;67;65
+序章;Prol;4;4
+店を出る;Sair;8;4
+弁明の;Excuse;6;6
+引継ぎ;Import;6;6
+弱い;Weak;4;4
+強い;Strg;4;4
+強力な振り下ろし攻撃を放つ。\n敵を叩きつける事が出来る。;Golpe forte para baixo.\n\nDerruba o inimigo.;55;43
+強力な斬り下ろしを地面に叩きつける事により周囲に衝撃波を\n発生させ一掃する。\n敵を浮かす事が出来る。;Golpe forte no chao gera onda de choque que varre\ntudo.\n\nLanca inimigos ao ar.;98;78
+強化した装備品が装備レベルをオーバーしたため解除されました;Equip. reforcado passou do nivel e foi desequipado;58;50
+強化とは？;O Upgrade?;10;10
+強化素材研究 Lv%2d;Pesq.Refino Lv%2d;18;17
+強化素材研究レベルが Lv%2d になった。;Pesq. de refino subiu a Lv%2d.;37;30
+強靭な骨;Tough Bn;8;8
+彷徨う死者;Wanderers;10;9
+待機;Wait;4;4
+後方に居る;Esta atras;10;10
+後方へと飛退きながら敵を切り刻む大技。;Salta para tras retalhando o\ninimigo.;38;37
+後退;Back;4;4
+心奥の;Inner;6;5
+心意の;Will;6;4
+忍びよる終焉、結ばれる盟約;"O Fim se Aproxima; Pacto";26;24
+思い切り武器を地面に突き刺すと同時に気の波を放出する。\n敵を気絶させる事が出来る。;Crava a arma no chao e libera onda de ki.\n\nAtordoa o inimigo.;81;61
+思い切り武器を振り下ろし巨大な衝撃波を発生させる。\n魔人系の時に特に効果的。;Golpe enorme gera onda de choque gigante.\n\nMuito eficaz contra Demons.;75;70
+思い切り武器を振り下ろす事で高威力の攻撃を放つ\n一定の確率で外れてしまい、大幅に威力が損なわれる;Golpe com todas as forcas, de alto poder.\n\nPode errar e perder muito poder.;95;75
+思考のカスタマイズを行います [↑↓] 思考セットの切り替え [A] メニュー表示  [B] キャンセル [C+↑↓] 思考セットの移動 [FG] キャラクター情報の切り替え;Personaliza a IA [↑↓] Trocar Conjunto [A] Menu  [B]\nCancelar [C+↑↓] Mover Conjunto [FG] Trocar info do\npersonagem;147;117
+怪力の;Might;6;5
+悪魔の僕;Servant;8;7
+悪魔の術;DevilArt;8;8
+情報屋マナン;Manan Info;12;10
+感覚;Sent;4;4
+感電;Shok;4;4
+戒律の;Law;6;3
+戦場に生きる戦士のクラス。\n剣系の武器を得意とし、魔法もそつなく使いこなす。\n初期クラススキルの「フェイタルショック」は\nコンボ数に応じて与えるダメージが増加する。;"Classe de guerreiro do campo de batalha.\n\nDomina espadas e usa magia sem problemas. A\nhabilidade inicial ""Choque Fatal"" causa mais\ndano conforme o combo.";161;153
+戦士の骨;Warr. Bn;8;8
+戦闘不能;Caido;8;5
+戻りますか？;Voltar?;12;7
+戻る;Back;4;4
+所持品;Itens;6;5
+所持品の全修理には %d ベルかかりますがよろしいですか？(所持金 %d ベル);Reparar tudo custa %d Bell. Confirma? (Dinheiro %d Bell);70;56
+所持金;Cash;6;4
+扉が独りでに閉じた;A porta se fechou;18;17
+扉の向こうから何か気配がする・・・入りますか？;Algo se sente alem da porta... Entrar?;46;38
+扉の向こうから話し声が聞こえる・・・様子をみますか？;Vozes alem da porta... Espiar?;52;30
+扉は堅く閉ざされている;Porta bem fechada;22;17
+手;Mo;2;2
+手に入れた;Obteve;10;6
+才知の;Wit;6;3
+技巧の;Skill;6;5
+投稿内容;Mensagem;8;8
+折れた翼;BrkWing;8;7
+折れた角;Brk Horn;8;8
+持っていると遺跡の魔方陣間を瞬時に移動する事が出来る。\n一見するとただの石ころ。;Leva voce entre os circulos magicos das ruinas.\n\nParece uma pedra comum.;79;72
+持っている武器を力の限り振り回し、敵を地面に叩き付ける連\n続攻撃。;Gira a arma com toda a forca e derruba inimigos.;65;48
+指輪;Anel;4;4
+指輪に込められた魔力を回復させます。\n迷宮から出ると蒸発して無くなってしまいます。;Restaura a magia dos aneis.\n\nEvapora ao sair do labirinto.;81;58
+指輪装備時に攻撃力が10%上昇する。\n同種スキルは効果が加算される。;Ataque +10% com anel.\n\nEfeitos de skills iguais se somam.;64;57
+指輪装備時に攻撃力が5%上昇する。\n同種スキルは効果が加算される。;Ataque +5% com anel.\n\nEfeitos de skills iguais se somam.;63;56
+指輪通常攻撃;Atq. Anel;12;9
+挑戦;Try;4;3
+挑戦パスワード;Senha Desafio;14;13
+振り下ろした斧から衝撃波を放ち敵を浮かせる。\n魔獣系の敵に特に効果を発揮する。;Onda de choque do machado lanca o inimigo.\n\nMuito eficaz contra Monsters.;77;73
+振り下ろし攻撃を放つ。\n最大で３回まで連続で振り下ろし攻撃を放つ事が出来る。;Golpe para baixo.\n\nAte 3 golpes seguidos.;75;41
+捨てる;Drop;6;4
+掌から地中に魔力を注入し、激しく振動させ、地表を破壊し敵\nを巻き込む。;Injeta magia no solo e o faz vibrar, destruindo a\nsuperficie.;69;61
+掌から地中に魔力を注入する事で岩石を創り出し、爆発を起こ\nして地上にいる敵に直撃させる。;Injeta magia no solo, cria rochas e as explode contra\ninimigos no chao.;87;71
+掌に真空状態を創り、更にその周りを風の刃で覆う。\n凝縮された真空の塊を敵に叩き込む。;Cria vacuo na palma, cobre com laminas de\nvento e o lanca no inimigo.;83;69
+探求者;Seeker;6;6
+探訪の戦士;Explorer;10;8
+控え室;Lounge;6;6
+掲示板のシステムメッセージの表示に関する設定を変更します 掲示板にログインしている際に他のプレイヤー情報等の表示に関する設定です;Muda a exibicao de mensagens do sistema do quadro.\nAfeta a exibicao de informacoes de outros jogadores ao\nentrar no quadro.;127;123
+掲示板のシステムメッセージ表示;Msgs do sistema do quadro;30;25
+掲示板の自動新着表示;Novidades do quadro;20;19
+掲示板の自動更新と新着表示に関する設定を変更します 設定を有効にすると自動的に新着書き込みを取得し画面前面に表示するようになります;Muda a atualizacao automatica do quadro e a exibicao\nde novidades. Se ativada, obtem novas mensagens e as\nmostra na tela.;129;121
+掲示板は多くの方が利用する公共の場です。\n他の方が不快になるような発言や、私的な用途でのご利用は\n他の皆様の迷惑となりますのでご遠慮ください。;O quadro e um espaco publico usado por muitos.\nEvite mensagens que incomodem outros ou uso pessoal,\npois atrapalha os demais.;140;125
+掲示板を閲覧する事が出来ます(オンライン登録とログインが必要);Ve o quadro (requer registro online e login);60;44
+掲示板を閲覧する為にはユーザー登録が必要です。\nこのユーザーはオンラインに未登録です。\nオンライン登録はタイトルへ戻り\nユーザー選択画面から行う事が出来ます。;Registro de usuario e necessario para ver o\nquadro.\nEste usuario nao esta registrado online.\nO registro e feito na selecao de usuario, no\ntitulo.;155;145
+掲示板選択;Quadros;10;7
+操作練習や今まで倒した事のある敵を相手にしてコンボの練習を行う事が出来るモードです;Modo para treinar controles e combos contra inimigos\nja derrotados;82;66
+改行等の使用不可能な制御文字が含まれています;Contem caractere de controle (quebra etc.);44;42
+攻撃やガード、ダウン、着地等、特定のモーション中に、\nタイミング良くアクションボタンを押すことで、\n行動の隙をキャンセルして回避行動を行う事が出来るようになる。\n方向キーと組み合わせると任意の方向へ移動行動を取る。;Durante ataque, defesa, queda, pouso etc., aperte o\nbotao de acao na hora certa para cancelar a abertura e\nesquivar.\n\nCom a direcao, move para ela.;211;147
+攻撃力;ATK;6;3
+攻撃向き直り;Reorientar;12;10
+攻撃時の敵への向き直り角度を調節します 数値を大きく設定するとより広い範囲を向き直るようになります;Ajusta o angulo de reorientacao ao inimigo ao atacar.\nValores maiores cobrem uma area mais ampla.;97;97
+放水;Spry;4;4
+敗北数　　%22s敗;Derrotas%22s;16;12
+敵;En;2;2
+敵が現れた;Inimigo!;10;8
+敵が目標を見失う攻撃を放つ;Inimigo perde o alvo.;26;21
+敵に対して爆発を伴う突きを放つ。;Estocada explosiva no inimigo.;32;30
+敵に武器を投げつけて突き刺し、手元に引寄せる。;Arremessa a arma, cravando e puxando de\nvolta.;46;46
+敵の命を奪う為に編み出された抜刀術。\n稀に敵を即死させる。;Iaijutsu criado para matar.\n\nRaramente mata de vez.;57;51
+敵の弱点に作用する特殊な魔法攻撃を放つ;Magia que atinge o ponto fraco.;38;31
+敵の持っているアイテムを一定確率でドロップさせる事が出来\nる;Pode fazer o inimigo largar itens, com certa chance.;59;52
+敵を惑わせる幻術を操る幻術士のクラス。\n短剣と魔法を得意とし、杖も扱う事が出来る。\n初期クラススキルの「メズマライズⅠ」は\n敵を幻惑し同士討ちを誘う魔法。;"Classe de ilusionista que engana os\ninimigos.\n\nUsa adagas, magia e cajados. A\nhabilidade inicial ""Hipnose I"" confunde\ninimigos e os faz lutar entre si.";151;151
+敵を払い抜けると同時に、斬り刻む。;Passa pelo inimigo e o retalha.;34;31
+斧装備時に攻撃力が10%上昇する。\n同種スキルは効果が加算される。;Ataque +10% com machado.\n\nEfeitos de skills iguais se somam.;62;60
+斧装備時に攻撃力が5%上昇する。\n同種スキルは効果が加算される。;Ataque +5% com machado.\n\nEfeitos de skills iguais se somam.;61;59
+斬りと突きを絡めた高速な連続攻撃を放つ。;Combo veloz de cortes e estocadas.;40;34
+斬り払いによる連続攻撃を放つ。\n止めの一撃を追加で放つ事が出来る。\nDEXに依存して威力が変化する。;Combo de cortes com golpe final\nextra.\n\nPoder varia com DEX.;95;60
+斬鉄剣;Zantet;6;6
+新たなクラス %s(%s) を習得した;Nova classe %s(%s) obtida;30;25
+新着の自動取得/新着の自動取得とゲーム画面に表示;Obter auto/Obter auto e mostrar no jogo;47;39
+新規ユーザーの作成;Criar novo usuario;18;18
+新規作成;Novo;8;4
+旋風;Gale;4;4
+既に同じスキルが填っています;Ja tem a mesma skill;28;20
+既に存在するユーザー名です;Nome de usuario ja existe;26;25
+既に存在する情報です;Informacao ja existe;20;20
+早い攻撃;FastAtk;8;7
+明かされる想い、交わされる約束;Sentimentos e Promessas;30;23
+明達な;Astute;6;6
+普通の連続斬りから敵を切り刻む凄まじい連続攻撃へと派生す\nる強力な技。;Combo comum que vira um combo feroz de cortes.;69;46
+暗黒;Dark;4;4
+暗黒の;Dark;6;4
+暴風の;Storm;6;5
+曲刀装備時に攻撃力が10%上昇する。\n同種スキルは効果が加算される。;Ataque +10% com sabre.\n\nEfeitos de skills iguais se somam.;64;58
+曲刀装備時に攻撃力が5%上昇する。\n同種スキルは効果が加算される。;Ataque +5% com sabre.\n\nEfeitos de skills iguais se somam.;63;57
+最も;Mais;4;4
+最大HPが10%上昇する。\n同種スキルは効果が加算される。;HP maximo +10%.\n\nEfeitos de skills iguais se somam.;52;51
+最大連勝数%22s連勝;Max Seq.%22s;18;12
+望むもの、望まざるもの;Desejado e Indesejado;22;21
+木のレンダリングの設定を変更します 木の描画が正しく行われない場合に「一部の環境向け」を指定してください;"Muda o renderizado das arvores. Se elas nao aparecerem\ndireito, escolha ""Alguns PCs"".";103;85
+木のレンダリング設定;Render de arvores;20;17
+未登録　：;Nao reg.:;10;9
+材質;Mat.;4;4
+杖の先端から強力な魔力を放出する。\n攻撃の威力は攻撃者のINTに依存する。;Libera magia forte da ponta do\ncajado.\n\nPoder depende da INT.;70;61
+杖の先端から敵に向けて衝撃波を放つ。;Onda de choque da ponta do cajado.;36;34
+杖の先端から魔力を放出する。\n攻撃の威力は攻撃者のINTに依存する。;Libera magia da ponta do cajado.\n\nPoder depende da INT.;64;55
+杖装備時に攻撃力が10%上昇する。\n同種スキルは効果が加算される。;Ataque +10% com cajado.\n\nEfeitos de skills iguais se somam.;62;59
+杖装備時に攻撃力が5%上昇する。\n同種スキルは効果が加算される。;Ataque +5% com cajado.\n\nEfeitos de skills iguais se somam.;61;58
+条件;Cond;4;4
+条件カテゴリ;Cat Condicao;12;12
+棍装備時に攻撃力が10%上昇する。\n同種スキルは効果が加算される。;Ataque +10% com maca.\n\nEfeitos de skills iguais se somam.;62;57
+棍装備時に攻撃力が5%上昇する。\n同種スキルは効果が加算される。;Ataque +5% com maca.\n\nEfeitos de skills iguais se somam.;61;56
+森の毒蜘蛛;VenomSpdr;10;9
+業火の;Blaze;6;5
+極上の牙;Top Fang;8;8
+構えの最中に敵から攻撃を受けると、辺り一帯を切り刻む抜刀\n術で反撃を行う。;Se atacado na postura, contra-ataca com iaijutsu ao\nredor.;73;58
+構えの最中に敵から攻撃を受けると強力な当身反撃を行う。;Se atacado na postura, contra-ataca com forca.;54;46
+構え中に攻撃を受けると回転斬りで反撃をするカウンター技。;Postura de contra-ataque com corte giratorio.;56;45
+横1回転しながら周囲の敵を一気に斬り払う。;Gira e corta todos os inimigos ao\nredor.;41;40
+横薙ぎに敵を斬り、時間を置いた後に剣戟が敵を襲う時間差攻\n撃を放つ;"Corta de lado; depois a lamina golpeia de novo.";65;47
+次へ;Prox;4;4
+正面のみ/1/2/3/4/5/6/7/8/9/全方位;Frente/1/2/3/4/5/6/7/8/9/Todas;33;30
+武器に冷気を纏わせ４連続攻撃を放つ。;4 golpes com arma gelada.;36;25
+武器に水を纏わせ周囲一体を斬り払う。;Arma com agua corta ao redor.;36;29
+武器の切れ味を回復させます。\n迷宮から出ると蒸発して無くなってしまいます。;Restaura o fio da arma.\n\nEvapora ao sair do labirinto.;73;54
+武器を勢い良く振り下ろし衝撃波を放つ。;Golpe para baixo gera onda de\nchoque.;38;37
+武器を勢い良く振り下ろし衝撃波を放つ。\n物質系の敵に特に効果を発揮する。;Golpe para baixo gera onda de\nchoque.\n\nMuito eficaz contra Matter.;71;66
+武器を勢い良く振り下ろし衝撃波を発生させる。\n敵を浮かす事が出来る。;Golpe para baixo gera onda de choque.\n\nLanca o inimigo ao ar.;67;61
+武器を勢い良く振り下ろし衝撃波を発生させ敵に叩き付ける。;Golpe para baixo gera onda de choque que derruba.;56;49
+武器を回転させながら投げて敵に突進させる。\nその周囲にいる敵を切り刻む。;Arremessa a arma girando e a faz\ninvestir.\n\nRetalha inimigos ao redor.;71;70
+武器を地面に叩きつけて衝撃波を起こす。\n敵を浮かす事が出来る。;Bate no chao e gera onda de choque.\n\nLanca inimigos ao ar.;61;58
+武器を振り上げ、斬り上げると同時に自分も高く跳ぶ。\n敵を浮かす事が出来る。;Ergue a arma cortando e salta alto.\n\nLanca o inimigo ao ar.;73;59
+武器を振り下ろし、周囲一帯に対して浄化の衝撃波を放つ。\n死霊系の敵に特に効果を発揮する。;Golpe para baixo gera onda de purificacao ao redor.\n\nMuito eficaz contra Undead.;87;80
+武器を振り下ろした個所に敵に被害を与える紋章を設置する。;Marca no chao um selo que fere inimigos.;56;40
+武器を振り下ろし物質系に有効な衝撃波を放つ。;Onda de choque eficaz contra Matter.;44;36
+武器を振り下ろし魔人系に有効な衝撃波を放つ。;Onda de choque eficaz contra Demons.;44;36
+武器を振り回し回転上昇しながら連続斬りを放つ。\n敵を浮かす事が出来る。;Gira a arma subindo, com combo de cortes.\n\nLanca o inimigo ao ar.;69;65
+武器を斬り下した瞬間に地面に気を送り込み、\n次の瞬間地面から敵めがけて衝撃波を発生させ攻撃する。;Golpeia para baixo, envia ki ao chao e gera onda\nde choque contra o inimigo.;95;76
+武器を素早く振り回し３連続攻撃を放つ。\n死霊系の敵に特に効果を発揮する。;3 golpes rapidos.\n\nMuito eficaz contra Undead.;71;46
+武器スキルを溜める速度が20%上昇する。\n同種スキルは効果が加算される。;Carga de arma +20% veloz.\n\nEfeitos de skills iguais se somam.;68;61
+武器通常攻撃;Atq. Arma;12;9
+武者篭手;BushiGlv;8;8
+武者脛当;BushiGrv;8;8
+死を招く鎌;DeathScyth;10;10
+死霊;Undd;4;4
+毒;Vn;2;2
+気を武器の先端一点に凝縮させ、\nそれを敵に突き刺した瞬間に解放する事でガードの内側から衝\n撃を与える。\n敵を吹き飛ばす事が出来る。;Concentra ki na ponta da arma e o libera ao cravar,\nferindo por dentro da guarda.\n\nArremessa o inimigo.;127;103
+気付かれていない敵に対して威力を発揮する攻撃を放つ;Ataque forte contra inimigos que nao te notaram.;50;48
+気絶;Stun;4;4
+水;Wa;2;2
+水の結晶;WatrCrys;8;8
+水の雫;WatrDp;6;6
+水を纏った渾身の斬り上げを放つ。\n敵を浮かす事が出来る。;Golpe ascendente com agua.\n\nLanca o inimigo ao ar.;55;50
+水を纏った３連続攻撃を放つ。\n最後の一撃で敵を叩き付けることが出来る。;3 golpes com agua.\n\nO ultimo derruba o inimigo.;69;47
+水妖;Nixy;4;4
+水属性の耐性が5%上昇する。\n同種スキルは効果が加算される。;Resist. a agua +5%.\n\nEfeitos de skills iguais se somam.;57;55
+水柱;Aqua;4;4
+水魔;Aqua;4;4
+氷;Ic;2;2
+氷柱;Ice;4;3
+決定;OK;4;2
+決定キーを押してください;Aperte a tecla OK;24;17
+治療Ⅰ;Cura I;6;6
+治療Ⅱ;CuraII;6;6
+波動;Wave;4;4
+流転の魔道士;Wandr. Mage;12;11
+浄化の;Pure;6;4
+浄化の刻印;Pure Seal;10;9
+浄化の宝珠;Pure Orb;10;8
+混沌の牙;Chaos Fg;8;8
+清廉なる騎士;Pure Knight;12;11
+清流の;Clear;6;5
+渦を発生させ巻き込んだ者にダメージを与えると共に渦の中心\nへ引き寄せる効果がある。;Cria um redemoinho que causa dano e puxa quem for pego\nao centro.;81;65
+温和な;Gentle;6;6
+渾身の力で脳天直撃の超強力な振り下ろしを3発放つ。\n3発目で敵を気絶させる事が出来る。;3 golpes de cima com toda a forca.\n\nO 3o golpe atordoa o inimigo.;83;65
+渾身の力で脳天直撃の超強力な振り下ろしを放つ。\n敵を気絶させる事が出来る。;Golpe de cima com toda a forca.\n\nAtordoa o inimigo.;73;51
+渾身の力を込めた激しい5連攻撃を繰り出す。;5 golpes ferozes com toda a forca.;41;34
+渾身の力を込めて斬り上げる。\n敵を浮かす事が出来る。;Corte ascendente com forca.\n\nLanca o inimigo.;51;45
+準備中なので入れません;Em preparo, nao entre;22;21
+溜めた時間に応じて技が変化する攻撃を放つ;Ataque varia com o tempo de carga.;40;34
+溜め時間に比例した威力を発揮する攻撃を放つ;Poder proporcional ao tempo de carga.;42;37
+滅魔の;Bane;6;4
+激しい咆哮で、広範囲の敵を気絶させる事が出来る;Rugido que atordoa inimigos em ampla area.;46;42
+濁った体液;Foul Fluid;10;10
+濁流の;Flood;6;5
+火;Fi;2;2
+火と風の属性を伴った３連続攻撃で敵を叩き付ける。;3 golpes de fogo e vento derrubam o inimigo.;48;44
+火の結晶;FireCrys;8;8
+火の雫;FireDp;6;6
+火を纏った武器を振り回し辺り一帯をなぎ払う。;Gira a arma em chamas varrendo ao redor.;44;40
+火属性の耐性が5%上昇する。\n同種スキルは効果が加算される。;Resist. a fogo +5%.\n\nEfeitos de skills iguais se somam.;57;55
+火柱;Fire;4;4
+火柱を壁のように並べて呼び出す。;Invoca pilares de fogo em\nlinha.;32;32
+火炎;Blaz;4;4
+火竜;Wyrm;4;4
+炎を纏った回転する武器を敵に投げつける。;Arremessa arma girando em chamas.;40;33
+炎を纏った連続突きを放つ。;Estocadas em chamas.;26;20
+炎塊;Fire;4;4
+炎魔法の根幹を担う術の一つ。\n大気中の炎要素を具現化し設置する。\n一定時間燃え続ける。;Base da magia de fogo.\n\nMaterializa fogo do ar no chao,\nqueima por tempo.;84;73
+烈火の;Flame;6;5
+無;No;2;2
+無効/有効;Off/On;9;6
+無心の;Calm;6;4
+無我の;Zen;6;3
+無敵になる;Invencivel;10;10
+無敵状態;Invenc.;8;7
+無謀な;Rash;6;4
+燃焼;Burn;4;4
+爆;Ex;2;2
+爆弾をばら撒きながら後転する攻撃を放つ;Salta para tras espalhando bombas.;38;34
+爆炎の;Blast;6;5
+爆発;Boom;4;4
+物理攻撃によるクリティカル率が20%上昇する。\n同種スキルは効果が加算される。;Critico fisico +20%.\n\nEfeitos de skills iguais se somam.;74;56
+物理攻撃によるクリティカル率が30%上昇する。\n同種スキルは効果が加算される。;Critico fisico +30%.\n\nEfeitos de skills iguais se somam.;74;56
+物理攻撃に対する防御力が10%上昇する。\n同種スキルは効果が加算される。;Defesa fisica +10%.\n\nEfeitos de skills iguais se somam.;68;55
+物理攻撃に対する防御力が5%上昇する。\n同種スキルは効果が加算される。;Defesa fisica +5%.\n\nEfeitos de skills iguais se somam.;67;54
+物理攻撃力;ATK Fisico;10;10
+物理攻撃力が10%上昇する。\n同種スキルは効果が加算される。;Ataque fisico +10%.\n\nEfeitos de skills iguais se somam.;56;55
+物理攻撃力が5%上昇する。\n同種スキルは効果が加算される。;Ataque fisico +5%.\n\nEfeitos de skills iguais se somam.;55;54
+物理攻撃力に依存する魔法攻撃を放つ;Magia baseada no ataque fisico.;34;31
+物理防御に長けた布陣。\n全員のVITが大幅に上昇する。;Boa defesa fisica.\n\nVIT de todos sobe muito.;50;44
+物理防御力;DEF Fisica;10;10
+物理防御力を無視した溜め攻撃を放つ\n溜め時間に応じて威力が向上する;Carga que ignora defesa fisica.\n\nMais carga, mais poder.;65;56
+物質;Matr;4;4
+状態;Stat;4;4
+状態異常;Ailment;8;7
+狂牙;Fang;4;4
+狂獣の大爪;MadBstClaw;10;10
+狩猟の;Hunter;6;6
+狩猟の刻印;HunterSeal;10;10
+狩猟の宝珠;Hunter Orb;10;10
+猛る獣人;Enraged;8;7
+猛獣の牙;Beast Fg;8;8
+獣人;Bstm;4;4
+獣人の長;Chief;8;5
+獣人系の敵に効果を発揮する強力な突き攻撃を繰り出す。;Estocada forte eficaz contra Beastmen.;52;38
+獣人系の敵に効果を発揮する突き攻撃を繰り出す。;Estocada eficaz contra Beastmen.;46;32
+獣人系の敵に効果を発揮する１０連続突きを放つ。;Dez estocadas eficazes contra Beastmen.;46;39
+獣人系の敵に効果を発揮する１６連続突きを放つ。;16 estocadas eficazes contra Beastmen.;46;38
+獣人系の敵に効果を発揮する７連続突きを放つ。;Sete estocadas eficazes contra Beastmen.;44;40
+獣王の皮;KingHide;8;8
+獣王の角;KingHorn;8;8
+王の間;Throne;6;6
+王の間への通路;To King's Room;14;14
+現在のクラスです;E a classe atual;16;16
+現在のユーザーでネットワークにログインします [A] 決定 [B] キャンセル [↑↓] カーソル移動;Entra na rede com o usuario atual [A] OK [B] Cancelar\n[↑↓] Mover cursor;88;73
+現在の主人公のステータスの確認が出来ます [FG] 表示切替  ステータス表記の補足：「合計(純粋な値 ± 装備品等による追加分)」;"Veja o status do heroi [FG] Alternar exibicao  Nota:\n""Total (valor puro ± bonus de equip. etc.)""";120;97
+現在受けている依頼を表示しています;Mostra os pedidos em andamento;34;30
+現在所有している大事な物を表示しています [B] 戻る [↑↓] 切り替え;Mostra seus itens-chave [B] Voltar [↑↓] Trocar;65;48
+現在時刻    %s;Hora atual %s;14;13
+男;M;2;1
+男専用;Homem;6;5
+町の牢屋;Jail;8;4
+番目の;o;6;1
+異形のモノ;Odd Thing;10;9
+疾風の;Gale;6;4
+癒えぬ過去、錯綜する想い;Passado aberto, Duvidas;24;23
+癒しの魔力を大気に発散させる事で徐々に体力を回復する。;Espalha magia de cura, recupera HP aos poucos.;54;46
+登録;Reg.;4;4
+登録ユーザー名変更;Mudar nome usuario;18;18
+登録中;Regist;6;6
+登録処理が正常に完了しました;Registro concluido;28;18
+登録可能な数を超えている為、登録に失敗しました;Falha: limite de registros excedido;46;35
+登録情報処理に失敗しました;Falha no registro;26;17
+登録済み：;Registr.:;10;9
+登録確認;Registro;8;8
+百錬の技を繰り出す剣士のクラス。\n短剣、細身剣といった軽い武器を得意とする。\n初期クラススキルの「イフィシェントブレイク」は\n全段クリティカルの高速連続攻撃を放つ事が出来る。;"Classe de espadachim de tecnica refinada.\n\nPrefere armas leves como adagas e floretes. A\nhabilidade inicial ""Ruptura Eficiente"" e uma\nrajada de golpes criticos.";171;160
+的確に敵をしとめる布陣。\n中央１のINT、CONが上昇し、両脇２，３のDEXが大幅に上昇する。;"Formacao de precisao.\n\nINT/CON do centro 1 sobem; DEX dos lados 2 e 3 sobe\nmuito.";84;81
+監獄の鍵;JailKey;8;7
+監獄深部への鍵;DeepJailKey;14;11
+真紅の爪;RedClaw;8;7
+瞬時に放たれる抜刀による攻撃。\n稀に敵を即死させる。;Iaijutsu instantaneo.\n\nRaramente mata de vez.;51;45
+短剣装備時に攻撃力が10%上昇する。\n同種スキルは効果が加算される。;Ataque +10% com adaga.\n\nEfeitos de skills iguais se somam.;64;58
+短剣装備時に攻撃力が5%上昇する。\n同種スキルは効果が加算される。;Ataque +5% com adaga.\n\nEfeitos de skills iguais se somam.;63;57
+石化;Ston;4;4
+石柱;Rock;4;4
+砂;Sd;2;2
+砂や塵を魔力で包み込み、針状に形成し敵を突き刺す。;Forma agulhas de areia e po magicos e fere.;50;43
+砂や塵を魔力と融合させ敵の身体に浸透させてダメージを与え\nる。\nまれに石化する。;Funde areia e po a magia e penetra o corpo do inimigo.\n\nPode petrificar.;78;72
+砂噴;Dust;4;4
+砂塵の;Dust;6;4
+破壊の;Ruin;6;4
+破壊の刻印;Ruin Seal;10;9
+破壊の宝珠;Ruin Orb;10;8
+破棄;Desc;4;4
+礼節を重んじる誉れ高き騎士のクラス。\n刃を有する武器を多数扱えるが、魔法の扱いは苦手。\n初期クラススキルの「ソリッドボディⅠ」は\n攻撃を受けても怯む事が無くなる接近戦に向いたスキル。;"Classe de nobre cavaleiro que preza a etiqueta.\n\nUsa varias armas de lamina, mas e ruim com magia.\nA habilidade inicial ""Corpo Solido I"" impede de\nrecuar ao ser atingido.";179;170
+神々しい角;Holy Horn;10;9
+神に祝福されし聖人のクラス。\n細身剣と指輪の取り扱いに卓越している。\n初期クラススキルの「リザレクション」は、\n傷つき倒れたものを蘇らせるスキル。;"Classe de santo abencoado pelos\ndeuses.\n\nExcelente com floretes e aneis. A\nhabilidade inicial ""Ressurreicao""\nrevive os caidos.";143;126
+神に身を捧げる聖職者のクラス。\n魔法だけでなく、杖や棍といった打撃系の武器も扱える。\n初期クラススキルの「ヒール」は\n自分や仲間の体力を回復させることのできる魔法。;"Classe de clerigo devoto aos deuses.\n\nAlem de magia, usa cajados e macas. A habilidade\ninicial ""Cura"" restaura a vida sua e dos aliados.";161;136
+神の加護を得し聖騎士のクラス。\n長剣と棍を得意とし結界を作り出す特殊な技を用い戦いを\n支援する。\n初期クラススキルの「ヒールフィールドⅠ」は\n結界内の仲間の体力が徐々に回復する支援スキル。;"Classe de paladino sob a protecao divina.\n\nDomina espada longa e maca, e apoia com barreiras.\nA habilidade inicial ""Campo de Cura I"" cura os\naliados dentro da barreira.";184;168
+神の御心;God Will;8;8
+神代の布;GodCloth;8;8
+神獣の大牙;God Fang;10;8
+神秘の液体;MystFluid;10;9
+禁止単語が含まれています;Contem palavra proibida;24;23
+禍々しい液体;Vile Fluid;12;10
+秒;s;2;1
+秩序の;Order;6;5
+秩序の刻印;Order Seal;10;10
+秩序の宝珠;Order Orb;10;9
+種別;Tipo;4;4
+種族;Raca;4;4
+種目を選択してください;Escolha a categoria;22;19
+空中で「アクションボタン」を押すと、\n瞬時に地面に着地する事が出来るようになる。;"Aperte o ""Botao de acao"" no ar para\npousar na hora.";79;51
+空中に飛び上がり、落下と同時に地面に武器を叩きつけ衝撃波\nを発生させる。\n敵を浮かす事が出来る。;Salta e, ao cair, bate no chao gerando onda de choque.\n\nLanca inimigos ao ar.;94;77
+空気中に体内の魔力を大量に放出して周囲の空気構造を破壊し\n汚染された状態を創り出す。\nそこに踏み込んだ者はダメージ受け、まれに毒状態になる。;Libera muita magia no ar, destruindo sua estrutura e o\npoluindo.\n\nQuem entrar sofre dano e, raramente, veneno.;138;110
+空気中に舞う塵や埃を魔力により凝縮し、生成した塊を敵に投\nげつける。;Condensa poeira do ar com magia e arremessa o bloco no\ninimigo.;67;63
+空気中に魔力を練り込んだ息を吹きかけ、空気構造を破壊し汚\n染された状態を創り出す。\nその空気に触れた者はダメージ受け、まれに毒状態になる。;Sopra magia no ar, destruindo sua estrutura e o\npoluindo.\n\nQuem o tocar sofre dano e, raramente, envenenamento.;136;111
+空白のみで構成される名前は禁止されています;Nomes so com espacos sao proibidos;42;34
+空間に魔力を放出し炎の渦を発生させる。;Cria um turbilhao de chamas no ar.;38;34
+突きを放ちながら縦横無尽に高速移動する。;Estocadas enquanto se move rapido.;40;34
+竜;Dr;2;2
+竜の猛り;Dr Fury;8;7
+竜の群れ;Drakes;8;6
+竜人の血;DrBlood;8;7
+竜巻;Twst;4;4
+竜殺の;Slayer;6;6
+竜王の大鱗;DrgKngScal;10;10
+竜神の逆鱗;RevrsScale;10;10
+竜系の敵に効果を発揮する突き攻撃を繰り出す。;Estocada eficaz contra Dragons.;44;31
+竜鱗;DScl;4;4
+第一章;Cap.1;6;5
+第七章;Cap.7;6;5
+第三章;Cap.3;6;5
+第二章;Cap.2;6;5
+第五章;Cap.5;6;5
+第六章;Cap.6;6;5
+第四章;Cap.4;6;5
+範囲対象内の敵のINTを低下させる;Reduz INT dos inimigos na\narea.;31;31
+範囲対象内の敵のINTを大幅に低下させる;Reduz muito INT dos inimigos na\narea.;37;37
+範囲対象内の敵のMENを低下させる;Reduz MEN dos inimigos na\narea.;31;31
+範囲対象内の敵のSTRを低下させる;Reduz STR dos inimigos na\narea.;31;31
+範囲対象内の敵のSTRを大幅に低下させる;Reduz muito STR dos inimigos na\narea.;37;37
+範囲対象内の敵のVITを低下させる;Reduz VIT dos inimigos na\narea.;31;31
+範囲対象内の敵の攻撃命中率を一定時間低下させる;Reduz a precisao dos inimigos da area.;46;38
+範囲対象内の敵の物理攻撃を一定時間封じる事が出来る;Bloqueia ataques fisicos dos inimigos da area.;50;46
+範囲対象内の敵の魔法攻撃を一定時間封じる事が出来る;Bloqueia ataques magicos dos inimigos da area.;50;46
+範囲対象内の敵を一定時間操る;Controla inimigos da area.;28;26
+範囲対象内の敵を一定時間混乱させ同士討ちを誘う;"Confunde inimigos da area; lutam entre si.";46;42
+粉砕の;Crush;6;5
+精巧の;Fine;6;4
+精錬とは？;O Refino?;10;9
+精錬可能な装備品;Equip. refinavel;16;16
+精錬情報;InfoRef.;8;8
+素早い動きを特徴とする盗賊のクラス。\n短剣、曲刀の扱いに長けるが魔法は低レベルのものしか扱\nえない。\n初期クラススキルの「盗む」は\n魔物からアイテムを盗むことができる。;"Classe ladra de movimentos rapidos.\n\nDomina adagas e sabres, mas so usa magia basica. A\nhabilidade inicial ""Roubar"" rouba itens de\nmonstros.";164;140
+細剣装備時に攻撃力が10%上昇する。\n同種スキルは効果が加算される。;Ataque +10% com florete.\n\nEfeitos de skills iguais se somam.;64;60
+細剣装備時に攻撃力が5%上昇する。\n同種スキルは効果が加算される。;Ataque +5% com florete.\n\nEfeitos de skills iguais se somam.;63;59
+編集;Edit;4;4
+編集する魔物の核を選択してください [A] 決定 [C] 名前編集 [B] キャンセル [↑↓] カーソル移動 [←→] ページ戻し/送り;Escolha o nucleo a editar [A] OK [C] Editar nome [B]\nCancelar [↑↓] Mover cursor [←→] Pagina ant./prox.;114;106
+練習相手を選んでください;Escolha um parceiro;24;19
+縦回転しながら斬り上がる攻撃。\n敵を地面に叩きつける事ができる。;Corte ascendente giratorio.\n\nDerruba o inimigo ao chao.;63;55
+繊細な;Dainty;6;6
+羅刹篭手;DemonGlv;8;8
+羅刹胴丸;DemonArm;8;8
+羅刹脛当;DemonGrv;8;8
+習得しているパッシブスキルがありません;Nenhuma passiva aprendida;38;25
+習得済みのパッシブ一覧とパッシブの着脱が行えます [A] 選択中パッシブの着脱 [↑↓] リストカーソルの移動  [←→ or PageUp/Down] ページ戻し/送り;Lista passivas aprendidas e as equipa/remove [A]\nEquipar/remover [↑↓] Mover cursor  [←→ or PageUp/Down]\nPagina ant./prox.;140;125
+耐久度     %2d/%2d;Durab.    %2d/%2d;18;17
+耐光;ResL;4;4
+耐土;ResE;4;4
+耐水;ResW;4;4
+耐火;ResF;4;4
+耐闇;ResD;4;4
+耐風;ResA;4;4
+聖なる布;HolyClth;8;8
+聖なる気を敵頭上から多量に降らせる。;Chove ki sagrado sobre o inimigo.;36;33
+聖なる気を練り込み、光の剣を生成して敵に突き刺す。\n一定確率で消滅させる。;Forja uma espada de luz sagrada e a crava no\ninimigo.\n\nPode elimina-lo.;73;71
+聖なる領域を創り出し、この領域に侵入した邪悪なる者を攻撃\nする。\n一定量の生命力を削る。;Cria uma area sagrada que ataca os malignos que\nentram.\n\nDrena uma quantidade de vida.;86;86
+聡明な;Bright;6;6
+聴覚;Aud;4;3
+能天気な;Carefree;8;8
+腐敗する四肢;Rotting Limb;12;12
+臆病な;Timid;6;5
+自分;Voce;4;4
+自分の体力の一部を仲間に分け与える;Doa parte do seu HP a um aliado.;34;32
+自分の体力を一定量回復する;Recupera seu HP em parte.;26;25
+自分の周囲に敵から発見されない煙を発生させる;Cria fumaca que esconde voce dos inimigos.;44;42
+自分の幻影を作り出し囮にする;Cria uma isca ilusoria sua.;28;27
+自分の得た経験値の20%を仲間も得る事が出来る。\nただし、その効果は自分よりもレベルの低い者に限られる。\n同種スキルは効果が加算される。;Aliados de nivel menor ganham 20% da sua EXP.\n\nEfeitos de skills iguais se somam.;131;81
+自分を攻撃した;Atacou voce;14;11
+自分を狙っている;Mirando voce;16;12
+自由;Free;4;4
+至智の ;Wisest;7;6
+至高の頂に立つ戦士のクラス。\n長剣を巧みに操り、魔法もこなす。\n初期クラススキルの「マジックインパクトⅠ」は\n物理攻撃力を魔法攻撃力に転換する特殊攻撃。;"Classe de guerreiro do pico supremo.\n\nManeja espadas longas e usa magia. A\nhabilidade inicial ""Impacto Magico I""\nconverte ataque fisico em magico.";149;146
+苦労人の;Toiler's;8;8
+英知の;Sage;6;4
+英雄の心;Hero Ht;8;7
+英雄の聖骨;Hero Relic;10;10
+菊一文字則宗;Kikuichi;12;8
+落雷;Bolt;4;4
+蘇える過去、滅びゆく未来;Passado Vivo, Ruina;24;19
+蛇の群れ;Snakes;8;6
+蛇皮;Skin;4;4
+蜥蜴丸;Lizard;6;6
+蠍の甲殻;ScorShel;8;8
+蠢く土塊;MudClod;8;7
+血の末裔;Heir;8;4
+血を継ぐ者、心を継ぐ者;Sangue e Coracao;22;16
+血染めの布;BloodCloth;10;10
+行動;Acao;4;4
+行動を行っていない状態で前方の敵から物理攻撃を受けると、\n防御が発動するようになり、ダメージが50%軽減されるようになる。\n同種スキルで最も効果が高い物が適応される。;Se atacado fisicamente pela frente sem agir, a defesa ativa e reduz o dano em 50%.\n\nVale o skill igual de maior efeito.;161;119
+行動を行っていない状態で前方の敵から物理攻撃を受けると、\n防御が発動するようになり、ダメージが70%軽減されるようになる。\n同種スキルで最も効果が高い物が適応される。;Se atacado fisicamente pela frente sem agir, a defesa ativa e reduz o dano em 70%.\n\nVale o skill igual de maior efeito.;161;119
+行動を行っていない状態で前方の敵から物理攻撃を受けると、\n防御が発動するようになり、ダメージが90%軽減されるようになる。\n同種スキルで最も効果が高い物が適応される。;Se atacado fisicamente pela frente sem agir, a defesa ativa e reduz o dano em 90%.\n\nVale o skill igual de maior efeito.;161;119
+行動を行っていない状態で敵から魔法攻撃を受けると、\n防御が発動するようになり、ダメージが50%軽減されるようになる。\n同種スキルで最も効果が高い物が適応される。;Se atacado por magia sem agir, a defesa ativa e reduz o dano em 50%.\n\nVale o skill igual de maior efeito.;155;105
+行動を行っていない状態で敵から魔法攻撃を受けると、\n防御が発動するようになり、ダメージが70%軽減されるようになる。\n同種スキルで最も効果が高い物が適応される。;Se atacado por magia sem agir, a defesa ativa e reduz o dano em 70%.\n\nVale o skill igual de maior efeito.;155;105
+行動を行っていない状態で敵から魔法攻撃を受けると、\n防御が発動するようになり、ダメージが90%軽減されるようになる。\n同種スキルで最も効果が高い物が適応される。;Se atacado por magia sem agir, a defesa ativa e reduz o dano em 90%.\n\nVale o skill igual de maior efeito.;155;105
+術士の;Mage;6;4
+街へ戻りますか？(帰還専用);Voltar a cidade?(retorno);26;25
+衝撃;Hit;4;3
+衝撃波を伴う強烈な突きを放つ。;Estocada com onda de choque.;30;28
+表示されているユーザーをオンライン登録します ネットワークを利用する場合オンライン登録が必要です 既に使用されてる名前だった場合は変更が必要です;Registra o usuario exibido online. O registro online e\nnecessario para usar a rede. Se o nome ja estiver em\nuso, mude-o.;142;120
+表示しない/固定/回転;Ocultar/Fixo/Girar;20;18
+装備;Eqp;4;3
+装備Lv;Eqp Lv;6;6
+装備中のクラススキル;Skills de classe eq.;20;20
+装備中のクラススキルの確認が出来ます クラススキルの着脱は特定の場所でのみ可能です [FG] 表示切替  [↑↓] リストカーソルの移動  [←→ or PageUp/Down] ページ戻し/送り;Veja as skills de classe equipadas. Trocar so em\ncertos locais [FG] Alternar exibicao  [↑↓] Mover\ncursor  [←→ or PageUp/Down] Pagina ant./prox.;163;147
+装備中のパッシブの確認が出来ます パッシブの着脱は特定の場所でのみ可能です [FG] 表示切替  [↑↓] リストカーソルの移動  [←→ or PageUp/Down] ページ戻し/送り;Veja as passivas equipadas. Trocar so em certos locais\n[FG] Alternar exibicao  [↑↓] Mover cursor  [←→ or\nPageUp/Down] Pagina ant./prox.;155;139
+装備可能なクラス;Classes aptas;16;13
+装備品との比較;vs Equipado;14;11
+装備品のスロットに埋まっているアイテムを取り出す事が出来ます [A] 決定 [B] キャンセル [C] 装備品詳細へフォーカスを移動 [↑↓] カーソル移動 [←→] 種類変更 [PageUp/Down] ページ戻し/送り;Retira itens encaixados nos slots do equipamento [A]\nOK [B] Cancelar [C] Foco nos detalhes [↑↓] Mover\ncursor [←→] Mudar tipo [PageUp/Down] Pagina ant./prox.;183;160
+装備品の空きスロットにスキル/アイテムを合成する事が出来ます [A] 決定 [B] キャンセル [C] 装備品詳細へフォーカスを移動 [↑↓] カーソル移動 [←→] 種類変更 [PageUp/Down] ページ戻し/送り;Funde skills/itens nos slots vagos do equipamento [A]\nOK [B] Cancelar [C] Foco nos detalhes [↑↓] Mover\ncursor [←→] Mudar tipo [PageUp/Down] Pagina ant./prox.;182;161
+装備品を「精錬」した為装備品が解除されました;"Equip. ""Refinado"" foi desequipado";44;33
+装備品をより強い物に作り変える事が出来ます [A] 決定 [B] キャンセル [C] 装備品詳細へフォーカスを移動 [↑↓] カーソル移動 [←→] 種類変更 [PageUp/Down] ページ戻し/送り;Refaz equipamentos em versoes mais fortes [A] OK [B]\nCancelar [C] Foco nos detalhes [↑↓] Mover cursor [←→]\nMudar tipo [PageUp/Down] Pagina ant./prox.;165;153
+装備品を強化する事が出来ます [A] 決定 [B] キャンセル [C] 装備品詳細へフォーカスを移動 [↑↓] カーソル移動 [←→] 種類変更 [PageUp/Down] ページ戻し/送り;Refina equipamentos [A] OK [B] Cancelar [C] Foco nos\ndetalhes [↑↓] Mover cursor [←→] Mudar tipo\n[PageUp/Down] Pagina ant./prox.;151;131
+製作者名 %s\n制作日時 %s\nコメント;Autor %s\nCriado em %s\nComentario;32;32
+複数の条件-1;Multi cond 1;12;12
+複数の条件-2;Multi cond 2;12;12
+複数の行動;Multi acao;10;10
+要らない;Nao quer;8;8
+覇者の;Victor;6;6
+視覚;Vis;4;3
+視覚+聴覚;Vis+Aud;9;7
+親切な;Kind;6;4
+観戦;Obs;4;3
+観戦したい試合を選択してください [↑↓] 選択  [リストの一番下で↓] 次のデータをダウンロード  [B] キャンセル;Escolha a partida a assistir [↑↓] Escolher  [↓ no fim\nda lista] Baixar proximos dados  [B] Cancelar;107;102
+討伐した魔物の情報を閲覧する事が出来ます [A] 決定 [B] キャンセル [←→] 魔物種族切り替え  [↑↓] リスト移動 [PageUp/Down] ページ戻し/送り  [FG] カメラ回転;Veja os monstros derrotados [A] OK [B] Cancelar [←→]\nTrocar especie  [↑↓] Mover na lista [PageUp/Down]\nPagina ant./prox.  [FG] Girar camera;154;143
+討伐数;Kills;6;5
+記号等の禁止文字(%s)が含まれています;Contem caractere proibido (%s);36;30
+記録;Log;4;3
+試練の鍵;TrialKey;8;8
+詰め所の鍵;PostKey;10;7
+詰所;Post;4;4
+詰所前通路;Post Hall;10;9
+話す;Fala;4;4
+詳細;Info;4;4
+誠実な;Honest;6;6
+読み込みに失敗しました;Falha ao carregar;22;17
+読心の;Mind;6;4
+調合士;Mixer;6;5
+調子者の;Joker's;8;7
+謎の液体;OddFluid;8;8
+謎の頭骨;Odd Skul;8;8
+豪胆な;Bold;6;4
+豪腕の;Brawn;6;5
+買いに来た;Comprador;10;9
+賢人の;Sage;6;4
+賢者の;Wise;6;4
+賢者の石;PhilStn;8;7
+購入;Comp;4;4
+赤色の鋏;Red Claw;8;8
+超攻撃的布陣。\n全員のSTR、DEXが上昇する。;Ultra ofensiva.\n\nSTR/DEX de todos sobem.;41;40
+超高速の3連続攻撃を繰り出す。;Ataque rapido em 3 golpes.;29;26
+超高速の斬り下ろしで敵が怯んだ瞬間にすかさず追撃していく\n。\n3段目の攻撃で敵を叩きつける事が出来る。;Cortes velozes seguidos de ataques em sequencia.\n\nO 3o golpe derruba o inimigo.;99;79
+超高速の突進で一気に間合いを縮めて斬り付ける。;Investida veloz que fecha a distancia e\ncorta.;46;46
+超高速の連続突きで敵を串刺しにする。;Estocadas ultra rapidas empalam.;36;32
+足;Pe;2;2
+足元から空中へ向かって魔力を放出する。\n敵を浮かす事が出来る。;Libera magia dos pes para o alto.\n\nPode lancar inimigos.;61;56
+身体の源泉から魔力を呼び起こし、大気中から生成した炎と融\n合させて吐き出す。;Desperta a magia da fonte do corpo e a cospe fundida\nao fogo do ar.;75;67
+軟派な;Flirty;6;6
+転移ゲートを発生させる魔力の込められたアイテム。\n使用すると一瞬にして街に転送されます。;Item com magia que cria um portal de\nteleporte.\n\nLeva voce a cidade num instante.;87;81
+転移石;Warp;6;4
+辺り一帯の敵を吹き飛ばす回転斬りを放つ。\n稀に敵を即死させる。;Corte giratorio que lanca inimigos.\n\nRaramente mata de vez.;61;59
+辺り一帯の物体を収束させ、最後にそのエネルギーを爆発させ\n敵を吹き飛ばす。;Reune objetos ao redor e explode a energia, lancando\ninimigos.;73;62
+辺境の村;Outpost;8;7
+近い;Near;4;4
+近距離;Curto;6;5
+迷宮から脱出しますか？;Sair do labirinto?;22;18
+迷宮にはポーション類/エリクサー/トランスポーターを持ち込む事は出来ません;Nao pode levar Pocoes/Elixires/Transporter ao\nlabirinto;72;55
+追加;Add;4;3
+追加効果の効果時間を20%延長する。\n同種スキルは効果が加算される。;Tempo do efeito extra +20%.\n\nEfeitos de skills iguais se somam.;64;63
+追加効果の発動する確率が20%上昇する。\n同種スキルは効果が加算される。;Chance de efeito extra +20%.\n\nEfeitos de skills iguais se somam.;68;64
+追撃の;Chase;6;5
+退室する;Sair;8;4
+退魔の;Exorc;6;5
+退魔の刻印;Exorc Seal;10;10
+退魔の宝珠;Exorc Orb;10;9
+通信エラーが発生しました;Erro de comunicacao;24;19
+通信中;Comm;6;4
+通信処理が正常に完了しました;Comunicacao concluida;28;21
+通常/反転;Norm/Inv;9;8
+連勝ランキング;Rank Sequencia;14;14
+連勝中;Streak;6;6
+週間勝利数%22s勝;Vit.Sem%22s;16;11
+週間勝利数ランキング;Rank Vit. Semanal;20;17
+週間敗北数%22s敗;Derr.Sem%22s;16;12
+進行中;Ativo;6;5
+進行中の依頼 %s をキャンセルしますか？;Cancelar o pedido %s em andamento?;38;34
+達人の;Master;6;6
+遠い;Far;4;3
+遮蔽モデル表示方式;Exib. Obstaculos;18;16
+選択可能なデータがありません;Nenhum dado selecionavel;28;24
+邪神の翼;EvilWing;8;8
+醜悪な大蛇;Foul Snake;10;10
+醜悪な爪;UglyClaw;8;8
+重量武器を得意とした重戦士のクラス。\n高い攻撃力を持つ反面、魔法の取り扱いは極端に苦手。\n初期クラススキルの「ハウリング」は\n周囲の敵を気絶させる効果をもつ。;"Classe de guerreiro pesado com armas pesadas.\n\nAlto ataque, mas muito ruim com magia. A\nhabilidade inicial ""Uivo"" atordoa os inimigos ao\nredor.";155;143
+針の穴を通すかのような正確な突きで相手の急所をめがけて突\n進する。;Estocada precisa como uma agulha, mirando o ponto\nvital.;65;56
+鉄壁の;Solid;6;5
+鉄壁を誇る将軍のクラス。\n幅広い武器を扱えるが魔法は苦手。\n初期クラススキルの「パーフェクトガード」は\nいかなる状況下でも攻撃を防御する鉄壁のスキル。;"Classe de general de defesa de ferro.\n\nVarias armas, ruim em magia. Habilidade\ninicial ""Guarda Perfeita"": defende ataques\nem qualquer situacao.";147;143
+鋭い牙;Fang;6;4
+鋭利な一刺し;Sharp Sting;12;11
+錬成士;Forger;6;6
+錬金術によって生み出された秘薬。\n使用するとHPが完全に回復します。;Elixir da alquimia.\n\nRecupera todo o HP.;65;40
+鍛冶屋;Smith;6;5
+鍛冶屋について;Sobre Smith;14;11
+鍛冶屋ヴィルミーロ;Virmiro's Forge;18;15
+鍵が掛かっていて開かない;Trancada, nao abre;24;18
+鍵を開けた;Destrancou;10;10
+鎚の重さを利用した連続回転攻撃。\n敵を吹き飛ばす。;Giros com o peso do martelo.\n\nLanca o inimigo.;49;46
+鎚装備時に攻撃力が10%上昇する。\n同種スキルは効果が加算される。;Ataque +10% com martelo.\n\nEfeitos de skills iguais se somam.;62;60
+鎚装備時に攻撃力が5%上昇する。\n同種スキルは効果が加算される。;Ataque +5% com martelo.\n\nEfeitos de skills iguais se somam.;61;59
+長い間合いを一瞬にして詰め敵を斬り上げ浮かす事が出来る。;Avanca longe e corta, lancando o inimigo ao ar.;56;47
+長剣装備時に攻撃力が10%上昇する。\n同種スキルは効果が加算される。;Ataque +10% c/ espada longa.\n\nEfeitos de skills iguais se somam.;64;64
+長剣装備時に攻撃力が5%上昇する。\n同種スキルは効果が加算される。;Ataque +5% c/ espada longa.\n\nEfeitos de skills iguais se somam.;63;63
+長距離を回転斬りで払い抜ける。\n自分のDEXに依存して威力が変化する。;Corte giratorio de longa\ndistancia.\n\nPoder varia com sua DEX.;66;61
+閃光;Flsh;4;4
+閃光の;Flash;6;5
+閉ざされた詰め所に入る為の鉄格子を開ける事が出来る。;Abre a grade do posto fechado.;52;30
+閉じ込められた;Trancado;14;8
+開始;Ini.;4;4
+間;-;2;1
+閲覧中のユーザー;Usuario vendo;16;13
+闇;Dk;2;2
+闇に潜み敵を討つ忍者のクラス。\n刀を自在に操り、中級の魔法も扱える。\n初期クラススキルの「フォールエアレイド」は\n上空から敵に襲い掛かるトリッキーな技。;"Classe de ninja que ataca das sombras.\n\nUsa katanas e magia intermediaria.\nHabilidade inicial ""Ataque Aereo\nDescendente"": ataca o inimigo do alto.";149;146
+闇の呪印により、敵に瞬間的に呪いをかけ生命力を奪い取る。;Selo sombrio amaldicoa e rouba a vida.;56;38
+闇の呪印により広範囲の敵に瞬間的に呪いをかけ、生命力を奪\nい取る。;Com um selo sombrio, amaldicoa muitos inimigos e rouba\nsua vida.;65;64
+闇の結晶;DarkCrys;8;8
+闇の雫;DarkDp;6;6
+闇の領域を創り出し、この領域に踏み込んだ者を地獄へ葬り去\nる。\n一定確率で消滅させる。;Cria uma area sombria que envia ao inferno quem\nentrar.\n\nPode eliminar o inimigo.;84;81
+闇の領域を創り出し、この領域に踏み込んだ者を攻撃する。\n一定確率で消滅させる。;Cria uma area sombria que ataca quem entrar.\n\nPode eliminar o inimigo.;77;70
+闇を生きる者、闇に潜む者;Filhos da Escuridao;24;19
+闇属性の耐性が5%上昇する。\n同種スキルは効果が加算される。;Resist. a trevas +5%.\n\nEfeitos de skills iguais se somam.;57;57
+闇属性を伴う３連続攻撃で敵を斬り倒す。;3 golpes das trevas derrubam\ninimigos.;38;38
+闇属性を纏う回転切りを放ちながら空中へと飛び上がる。;Corte giratorio das trevas que salta ao ar.;52;43
+闘いにすべてを賭ける闘士のクラス。\n槌や棍といった打撃武器を卓越された腕力で操る。\n初期クラススキルの「フォースリベレイションⅠ」は\n敵に力の限り武器を叩きつける攻撃。;"Classe de lutador que aposta tudo na luta.\n\nUsa macetes e macas com grande forca. A\nhabilidade inicial ""Liberar Forca I"" golpeia o\ninimigo com toda a forca.";165;156
+闘士の;Champ;6;5
+防御のモーション中に「武器攻撃ボタン」を押すことで、\n武器によるカウンター攻撃を出せるようになる。\nジャンプの着地モーション等、一部の状態からもこの攻撃を行える。\n但し、ガードブレイクのリスクが大幅に上昇する。;"Durante a defesa, aperte o ""Botao de ataque"" para\ncontra-atacar com a arma.\n\nTambem funciona em alguns estados, como aterrissagem.\n\nMas aumenta muito o risco de Guard Break.";207;173
+防御のモーション中に「魔法攻撃ボタン」を押すことで、\n魔法によるカウンター攻撃を出せるようになる。\nジャンプの着地モーション等、一部の状態からもこの攻撃を行える。\n但し、ガードブレイクのリスクが大幅に上昇する。;"Durante a defesa, aperte o ""Botao de magia"" para\ncontra-atacar com magia.\n\nTambem funciona em alguns estados, como aterrissagem.\n\nMas aumenta muito o risco de Guard Break.";207;171
+防御力;DEF;6;3
+防護の;Guard;6;5
+陣形;Form;4;4
+陣形の説明;Formacoes;10;9
+除霊の;Purge;6;5
+陰気な;Gloomy;6;6
+雄々しい角;Manly Horn;10;10
+雷;Th;2;2
+雷光の;Bolt;6;4
+電撃;Zap;4;3
+青紅;Sei;4;3
+静電気を自在に操り強力な稲妻を大量に降らせる。\n直撃した者はダメージを受け気絶する。;Faz cair muitos raios fortes.\n\nAtingidos ficam atordoados.;83;58
+鞄に空きがありません;Bolsa cheia;20;11
+鞄に空きが無かったので %s を倉庫へ移しました;Mochila cheia: %s foi ao deposito;44;33
+頑固な;Dogged;6;6
+風;Wi;2;2
+風が持つ破壊力を最大限に引き出し、烈風により広範囲を吹き\n飛ばす。;Extrai o poder destrutivo do vento e varre uma ampla\narea.;65;58
+風の結晶;WindCrys;8;8
+風の雫;WindDp;6;6
+風属性の斬り上げを放ち空中に飛び上がる。;"Corte ascendente de vento; salta ao\nar.";40;39
+風属性の耐性が5%上昇する。\n同種スキルは効果が加算される。;Resist. a vento +5%.\n\nEfeitos de skills iguais se somam.;57;56
+首のない狂気;Headless Mad;12;12
+騎士の掟、騎士の心;Honra de Cavaleiro;18;18
+骨;Os;2;2
+骨の巨兵;BoneGnt;8;7
+高い;High;4;4
+高潔な;Noble;6;5
+高速な４連続攻撃を放つ。\n最後の一撃の後に更に追い討ちを放つ事が出来る。;4 golpes rapidos.\n\nApos o ultimo, mais um ataque.;71;49
+魂;Al;2;2
+魔を統べる業を持つ術士のクラス。\n魔法の取り扱いに長けているが、武器による攻撃は苦手。\n初期クラススキルの「マリオネットⅠ」は\n敵を完全に操り自らの僕とする事が出来る。;"Classe de mago que domina as artes demoniacas.\n\nMestre em magia, ruim com armas. A habilidade\ninicial ""Marionete I"" controla um inimigo como\nservo.";165;147
+魔人;Demn;4;4
+魔人の一団;Demon Band;10;10
+魔人の骨;DemonBn;8;7
+魔人系の敵に効果的な突きを放つ。;Estocada eficaz contra Demons.;32;30
+魔人（女;Demon F;8;7
+魔人（男;Demon M;8;7
+魔力;Mana;4;4
+魔力によって作り出した無数の針を対象に突き刺す。\n直撃した対象に猛毒を与え、時に即死する。;Crava inumeras agulhas magicas no alvo.\n\nCausa veneno fatal e as vezes morte\ninstantanea.;89;89
+魔力により一定空間内の気温を一気に下げる。\nこの空間に踏み込んだ者は寒さに凍えてダメージを受け、まれ\nに凍りつく。;Derruba de uma vez a temperatura de uma area com\nmagia.\n\nQuem entrar sofre dano pelo frio e raramente congela.;112;110
+魔力により一瞬の間だけ超重力空間を作り出し、周囲の空間を\n吸い寄せダメージを与える。;Cria por um instante um espaco de supergravidade que\npuxa e fere.;83;65
+魔力により周囲を巻き込む超強力な爆発を起こす。;Explosao enorme que engole tudo ao redor.;46;41
+魔力により地中の水分量を操作する事で岩の柱を大量に創り出\nし、それを敵に向けて突き上げる。;Controla a umidade do solo, cria muitos pilares de\nrocha e os ergue contra o inimigo.;89;85
+魔力により大気を操り、掌から風の渦を発生させ対象を引き寄\nせつつダメージを与える。;Cria um redemoinho de vento na palma que puxa e fere o\nalvo.;81;60
+魔力により大気中の水分の分子運動を停止、凝固させて、風と\n融合し吹雪をおこす。;Para o movimento molecular da umidade do ar e a funde\nao vento: nevasca.;77;72
+魔力により大気中の水分を一箇所に集中させその水圧によって\nダメージを与える。;Concentra a umidade do ar num ponto e causa dano com a\npressao da agua.;75;71
+魔力により大気中の水分を掌に集中させ対象めがけて放出する\n。\nその水圧によってダメージを与える。;Concentra a umidade do ar na palma e a lanca no alvo.\n\nA pressao da agua causa dano.;94;84
+魔力により大気圧を自由自在に操る事で大量の真空の刃を造り\n出し幾重にも重ねて纏う。;Controla a pressao do ar para criar e sobrepor laminas\nde vacuo.;81;64
+魔力により強力な爆発を起こす。;Forte explosao magica.;30;22
+魔力により爆発を起こす。;Explosao magica.;24;16
+魔力の塊を相手に叩きつける。\n敵を地面に叩きつける事が出来る。;Golpeia com massa de magia.\n\nDerruba o inimigo ao chao.;61;55
+魔力の消費が20%減少する。\n同種スキルは効果が加算される。;Gasto de magia -20%.\n\nEfeitos de skills iguais se somam.;56;56
+魔力の消費が30%減少する。\n同種スキルは効果が加算される。;Gasto de magia -30%.\n\nEfeitos de skills iguais se somam.;56;56
+魔力の込められた神秘の液体。\n使用するとHPが一定量回復します。;Liquido magico misterioso.\n\nRecupera uma quantidade de HP.;61;58
+魔力を手の平に集中させ火球を生み出し攻撃する。;Concentra magia na mao e lanca bola de fogo.;46;44
+魔力を糧に聖なる剣を作り出し敵を貫く。;Espada sagrada atravessa o inimigo.;38;35
+魔力を糧に闇の剣を作り出し敵を貫く。;Espada sombria atravessa o\ninimigo.;36;35
+魔力を込めた浄化作用を持つ水を用いて状態異常を回復する。;Cura estados anormais com agua purificadora.;56;44
+魔力を高濃度に圧縮し、地中で炎と融合し具現化する。\n地中から溢れ出る業火で一定時間燃やし続ける。;Comprime magia, funde ao fogo no chao.\n\nO fogo infernal queima por um tempo.;95;76
+魔影衆のアジト;Shade Lair;14;10
+魔法;Mag;4;3
+魔法スキルを溜める速度が20%上昇する。\n同種スキルは効果が加算される。;Carga de magia +20% veloz.\n\nEfeitos de skills iguais se somam.;68;62
+魔法攻撃によるクリティカル率が20%上昇する。\n同種スキルは効果が加算される。;Critico magico +20%.\n\nEfeitos de skills iguais se somam.;74;56
+魔法攻撃によるクリティカル率が30%上昇する。\n同種スキルは効果が加算される。;Critico magico +30%.\n\nEfeitos de skills iguais se somam.;74;56
+魔法攻撃に対する防御力が10%上昇する。\n同種スキルは効果が加算される。;Defesa magica +10%.\n\nEfeitos de skills iguais se somam.;68;55
+魔法攻撃に対する防御力が5%上昇する。\n同種スキルは効果が加算される。;Defesa magica +5%.\n\nEfeitos de skills iguais se somam.;67;54
+魔法攻撃力;ATK Magico;10;10
+魔法攻撃力が10%上昇する。\n同種スキルは効果が加算される。;Ataque magico +10%.\n\nEfeitos de skills iguais se somam.;56;55
+魔法攻撃力が5%上昇する。\n同種スキルは効果が加算される。;Ataque magico +5%.\n\nEfeitos de skills iguais se somam.;55;54
+魔法防御に長けた布陣。\n全員のMENが大幅に上昇する。;Boa defesa magica.\n\nMEN de todos sobe muito.;50;44
+魔法防御力;DEF Magica;10;10
+魔物の核;Nucleo;8;6
+魔物の核の名前入力(半角12文字 全角6文字まで);Nome do nucleo (12 caract. max);44;31
+魔物博士;MonstDoc;8;8
+魔獣;Mnst;4;4
+魔獣のいななき;Beast Howl;14;10
+魔獣の皮;BeastHid;8;8
+魔獣系の敵に有効な３連続攻撃を放つ。;3 golpes eficazes contra Monsters.;36;34
+魔王の血;LordBlod;8;8
+魔界の布;DemnClth;8;8
+魔道を極めし大魔導士のクラス。\nメイジより更に高い魔力を誇る。\n初期クラススキルの「アキュレイトマジックⅠ」は、\n常に敵の弱点に作用する特殊な魔法スキル。;"Classe de grande mago, mestre da magia.\n\nPoder magico acima do Mago. A habilidade\ninicial ""Magia Precisa I"" ataca sempre o ponto\nfraco do inimigo.";151;146
+魔道を歩みし魔道士のクラス。\n高い魔法能力を誇るが武器の扱いは苦手。\n初期クラススキルの「テレポート」は、\n任意の位置に瞬間移動できるスキル。;"Classe de mago no caminho da magia.\n\nGrande poder magico, ruim com armas.\nHabilidade inicial ""Teleporte"": move\nvoce a qualquer posicao.";139;135
+魚人の大鱗;FishmnScal;10;10
+魚鱗;Scal;4;4
+鳥獣の涙;GrifTear;8;8
+１;1;2;1
+１人の後衛を前衛２人が護る布陣。\n後衛１のINTが大幅に上昇し、前衛２，３のSTR、VITが上昇する。;"Um atras, dois o protegem na frente.\n\nINT do 1 sobe muito; STR/VIT dos 2 e 3 sobem.";92;83
+１人を前衛に据え、後衛２人がそれをサポートする布陣。\n前衛１のVIT、MENが大幅に上昇し、後衛２、３のINTが上昇する。;"Um na frente, dois dando apoio.\n\nVIT/MEN da frente sobem muito; INT dos 2 e 3 sobe.";112;83
+２;2;2;1
+３;3;2;1
+３連続の振り下ろし攻撃を放ち、止めの一撃には衝撃波も発生\nする。\n物質系の敵に特に効果を発揮する。;3 golpes para baixo, o ultimo com onda de choque.\n\nMuito eficaz contra Matter.;96;78
+３連続の斬り付けから、武器を振り上げ敵を浮かす事が出来る\n連続攻撃を放つ。\n魔獣系の敵に特に効果を発揮する。;3 cortes e um combo que lanca o inimigo ao ar.\n\nEspecialmente eficaz contra Monsters.;106;85
+３連続の斬り払いから、更に強烈な２連続の斬り降ろしで追撃\nする。;3 cortes seguidos de 2 golpes para baixo mais fortes.;63;53
+３連続の斬り込みから、追撃として強烈な叩きつけを放つ。;3 golpes seguidos de uma forte pancada.;54;39
+３連続の斬り込みから斬り上げで空中に飛び上がる。;3 golpes e um corte ascendente que salta ao\nar.;48;47
+３連続の斬り込み攻撃から変則的な斬り込み攻撃へと派生する\n技。;3 golpes que mudam para ataques irregulares.;61;44
+３連続攻撃を放ち最後に衝撃波を発生させる。\n死霊系の敵に特に効果を発揮する。;3 golpes e onda de choque final.\n\nMuito eficaz contra Undead.;75;61
+：;:;2;1
+ＢＧＭの音量を設定します;Ajusta o volume da BGM;24;22

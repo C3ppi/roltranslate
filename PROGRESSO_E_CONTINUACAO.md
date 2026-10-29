@@ -58,3 +58,22 @@ A wiki offline é a referência principal para nomes e contexto. Use os rótulos
 2. Anotar os textos que continuam japoneses, especialmente nomes de itens no inventário e rótulos dentro do mapa.
 3. Localizar esses textos como campos CP932 completos em `a.cr` ou no arquivo correspondente, conferir seu contexto e capacidade de bytes, traduzir, auditar os offsets e atualizar a cópia em `patch_ptbr\cr`.
 4. Não substituir blocos nem alterar a quantidade de bytes do arquivo sem entender o contêiner; manter backup e relatório de cada alteração.
+
+## Rodada 3 (Claude) - correcoes e traducao em massa do a.cr
+
+Feito:
+1. **Bug corrigido**: 43 blocos "stored" do `a.cr` (mensagens de bau selado, selecao de nucleo de monstro etc.) tinham sido traduzidos sem atualizar o checksum Adler-32, entao o zlib os recusava ("incorrect data check"). O total real de blocos e **15.193** (nao 15.150). Todos os 15.193 agora descompactam e tem o mesmo tamanho descompactado do original.
+2. **1.944 textos** traduzidos no `a.cr` (campos com prefixo de tamanho u32 + NUL, inclui constantes de strings dentro do bytecode Lua): nomes em katakana (equipamentos em ingles, nomes de personagens em romaji), descricoes de itens/classes/skills/passivas, nomes de lugares, titulos de cacadores, quests, strings de UI (formato printf preservado), tutorial de edicao de IA, mensagens de rede/erro, materiais. Lista completa em `patch_ptbr/mapeamento_rodada3_a.csv`.
+3. `c.cr`: 8 nomes de missoes (`<msml name=...>`) traduzidos, com preenchimento por espacos.
+4. Convencao: o prefixo de tamanho do campo e mantido, o texto vai em ASCII (sem acentos) e o resto e preenchido com NUL; blocos recomprimidos (zlib 9/6/1/0, depois zopfli) e preenchidos com NUL ate o tamanho original. Quando um bloco nao cabia, usa-se versao mais curta (`tools/rodada3/tr/fallback.py`).
+5. Scripts em `tools/rodada3/` (caminhos fixos em /home/claude/rt/work: ajuste ao reutilizar). `tr/*.py` guarda as traducoes por indice de `todo.json`.
+
+NAO tocado (de proposito):
+- `name="..."` em UTF-8 dos XML de mapa (`a.cr`, 1.622 ocorrencias, ex.: `魔人：剣士I`, `塔タル`) e dos XML de IA de inimigos (`c.cr`, `act1 name="ひっかき"`): sao identificadores usados por scripts; traduzir pode quebrar o jogo.
+- `map.cr`, `d.cr`, `eft.cr`, `enm.cr`, `hro.cr`, `b.cr`, `se.cr`: sem texto japones legivel encontrado.
+- Executaveis (`rol.exe`, `setting.exe`) nao foram auditados.
+
+Pendente / riscos:
+- NADA disso foi testado dentro do jogo ainda. Strings de bytecode Lua foram preenchidas com NUL: se algum script comparar strings entre si, pode haver quebra. Se algo falhar, reverter com os backups `.bak` ou `git checkout`.
+- Abreviacoes: varios nomes curtos (itens-chave, materiais, titulos) tem poucos bytes; ver `mapeamento_rodada3_a.csv`.
+- Aumentar limites exigiria entender o indice (TOC) do container.

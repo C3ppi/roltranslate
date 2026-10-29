@@ -1,0 +1,1 @@
+T={275:'Chove ki sagrado sobre o inimigo.',276:'Espada sagrada atravessa o inimigo.',280:'Selo sombrio amaldicoa e rouba a vida.',284:'Espada sombria atravessa o inimigo.',290:'Explosao magica.',292:'Forte explosao magica.'}
