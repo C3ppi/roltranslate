@@ -80,7 +80,7 @@ Pendente / riscos:
 
 ## Rodada 3b - correcao apos teste no jogo (IMPORTANTE, LEIA ANTES DE QUALQUER PATCH)
 
-Estado: `a.cr` atual (F1_exato_tbl_zerado) ABRE no jogo (confirmado pelo usuario) com 3042 blocos traduzidos. `c.cr` esta no estado original (nomes de missao em japones; nao testado com traducao).
+Estado: `a.cr` atual (G1) ABRE no jogo (confirmado pelo usuario) com 3247 blocos traduzidos (F1 = 3042 + 205 encaixados com nomes abreviados/ingles). Ainda ~94 blocos em japones que nao couberam em tamanho exato. `c.cr` esta no estado original (nomes de missao em japones; nao testado com traducao).
 
 Licoes (descobertas por bisecao com testes do usuario):
 1. A rodada 3 inicial falhava ("Initialization failure") por dois motivos combinados.
