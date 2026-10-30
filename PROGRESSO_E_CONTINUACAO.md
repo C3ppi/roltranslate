@@ -78,10 +78,15 @@ Pendente / riscos:
 - Abreviacoes: varios nomes curtos (itens-chave, materiais, titulos) tem poucos bytes; ver `mapeamento_rodada3_a.csv`.
 - Aumentar limites exigiria entender o indice (TOC) do container.
 
-## Rodada 3b - correcao apos teste no jogo (IMPORTANTE)
+## Rodada 3b - correcao apos teste no jogo (IMPORTANTE, LEIA ANTES DE QUALQUER PATCH)
 
-- A versao da rodada 3 (a.cr com 1944 strings novas + c.cr com 8 nomes de missao) NAO abria: "Initialization failure".
-- Por bisecao (testes do usuario) chegou-se a `a.cr` = "0_SEGURO2": 3096 dos 3345 blocos traduzidos abrem o jogo. `a.cr` do repo agora e essa versao.
-- `c.cr` voltou ao estado anterior a rodada 3 (nomes de missao em japones). A versao com 8 nomes traduzidos nao foi testada isoladamente.
-- Preenchimento: campos traduzidos usam ESPACOS ate o fim do campo (nao NUL), como no menu que o usuario confirmou funcionar.
-- Falta (249 blocos, quebram a inicializacao, causa nao confirmada): A) 48 afixos de item terminados em "の" (ex. 豪腕の->Brawn); B) 159 blocos da tabela de habilidades com NOME traduzido (nome + js##.acml + descricao); C) 42 blocos so com descricao de habilidade/classe. Hipotese: nomes sao chaves usadas em scripts/outros .cr.
+Estado: `a.cr` atual (F1_exato_tbl_zerado) ABRE no jogo (confirmado pelo usuario) com 3042 blocos traduzidos. `c.cr` esta no estado original (nomes de missao em japones; nao testado com traducao).
+
+Licoes (descobertas por bisecao com testes do usuario):
+1. A rodada 3 inicial falhava ("Initialization failure") por dois motivos combinados.
+2. Entre alguns blocos do a.cr existem cabecalhos de tabela `tbl\0\x01 + u32 + u32` (13 bytes), seguidos de vetores de offsets. Se o conteudo dos blocos vizinhos muda e o cabecalho fica intacto, o jogo falha. Zerar os 13 bytes de 5 cabecalhos (offsets 2108052, 2138801, 2212023, 2236036, 2603238 em a.cr) resolve. Ha 94 gaps nao-padrao no arquivo; so esses 5 foram necessarios para esta lista de blocos. Se novos blocos forem traduzidos, e possivel que outros cabecalhos `tbl` precisem ser zerados: se falhar, zerar os `tbl` logo apos blocos alterados.
+3. Entre blocos ha normalmente 4 bytes de prefixo (tamanho) ou 0 bytes. NAO escreva zeros alem do fim do stream original.
+4. Metodo seguro: cada bloco recomprimido com tamanho EXATO igual ao original (tools/rodada3b/exact2.py: variando nivel/memLevel/estrategia e flushes parciais ate o tamanho bater). Nenhum preenchimento com NUL.
+5. Preenchimento do texto: espacos ate o fim do campo, 1 NUL final (como o menu que funcionava).
+6. 299 blocos nao couberam em tamanho exato e ficaram em japones (lista via tools/rodada3b/runexact*.py). Podem ser retomados com novas traducoes mais curtas/diferentes.
+7. Metodo de teste do usuario: copiar a.cr para rol\cr e abrir. Bisecoes anteriores usaram pastas com variantes.
