@@ -77,3 +77,11 @@ Pendente / riscos:
 - NADA disso foi testado dentro do jogo ainda. Strings de bytecode Lua foram preenchidas com NUL: se algum script comparar strings entre si, pode haver quebra. Se algo falhar, reverter com os backups `.bak` ou `git checkout`.
 - Abreviacoes: varios nomes curtos (itens-chave, materiais, titulos) tem poucos bytes; ver `mapeamento_rodada3_a.csv`.
 - Aumentar limites exigiria entender o indice (TOC) do container.
+
+## Rodada 3b - correcao apos teste no jogo (IMPORTANTE)
+
+- A versao da rodada 3 (a.cr com 1944 strings novas + c.cr com 8 nomes de missao) NAO abria: "Initialization failure".
+- Por bisecao (testes do usuario) chegou-se a `a.cr` = "0_SEGURO2": 3096 dos 3345 blocos traduzidos abrem o jogo. `a.cr` do repo agora e essa versao.
+- `c.cr` voltou ao estado anterior a rodada 3 (nomes de missao em japones). A versao com 8 nomes traduzidos nao foi testada isoladamente.
+- Preenchimento: campos traduzidos usam ESPACOS ate o fim do campo (nao NUL), como no menu que o usuario confirmou funcionar.
+- Falta (249 blocos, quebram a inicializacao, causa nao confirmada): A) 48 afixos de item terminados em "の" (ex. 豪腕の->Brawn); B) 159 blocos da tabela de habilidades com NOME traduzido (nome + js##.acml + descricao); C) 42 blocos so com descricao de habilidade/classe. Hipotese: nomes sao chaves usadas em scripts/outros .cr.
