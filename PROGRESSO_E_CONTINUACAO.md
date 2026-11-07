@@ -78,15 +78,14 @@ Pendente / riscos:
 - Abreviacoes: varios nomes curtos (itens-chave, materiais, titulos) tem poucos bytes; ver `mapeamento_rodada3_a.csv`.
 - Aumentar limites exigiria entender o indice (TOC) do container.
 
-## Rodada 3b - correcao apos teste no jogo (IMPORTANTE, LEIA ANTES DE QUALQUER PATCH)
+## Rodada 3b/3c - correcao apos testes no jogo (LEIA ANTES DE QUALQUER PATCH)
 
-Estado: `a.cr` atual (G1) ABRE no jogo (confirmado pelo usuario) com 3247 blocos traduzidos (F1 = 3042 + 205 encaixados com nomes abreviados/ingles). Ainda ~94 blocos em japones que nao couberam em tamanho exato. `c.cr` esta no estado original (nomes de missao em japones; nao testado com traducao).
+Estado: `a.cr` atual (K1) RODA no jogo (confirmado pelo usuario) com ~3250 blocos traduzidos; cabecalhos `tbl` INTACTOS; nenhum campo com tamanho alterado. ~94 blocos ainda em japones (nao couberam). `c.cr` original (nomes de missao em japones, sem teste).
 
-Licoes (descobertas por bisecao com testes do usuario):
-1. A rodada 3 inicial falhava ("Initialization failure") por dois motivos combinados.
-2. Entre alguns blocos do a.cr existem cabecalhos de tabela `tbl\0\x01 + u32 + u32` (13 bytes), seguidos de vetores de offsets. Se o conteudo dos blocos vizinhos muda e o cabecalho fica intacto, o jogo falha. Zerar os 13 bytes de 5 cabecalhos (offsets 2108052, 2138801, 2212023, 2236036, 2603238 em a.cr) resolve. Ha 94 gaps nao-padrao no arquivo; so esses 5 foram necessarios para esta lista de blocos. Se novos blocos forem traduzidos, e possivel que outros cabecalhos `tbl` precisem ser zerados: se falhar, zerar os `tbl` logo apos blocos alterados.
-3. Entre blocos ha normalmente 4 bytes de prefixo (tamanho) ou 0 bytes. NAO escreva zeros alem do fim do stream original.
-4. Metodo seguro: cada bloco recomprimido com tamanho EXATO igual ao original (tools/rodada3b/exact2.py: variando nivel/memLevel/estrategia e flushes parciais ate o tamanho bater). Nenhum preenchimento com NUL.
-5. Preenchimento do texto: espacos ate o fim do campo, 1 NUL final (como o menu que funcionava).
-6. 299 blocos nao couberam em tamanho exato e ficaram em japones (lista via tools/rodada3b/runexact*.py). Podem ser retomados com novas traducoes mais curtas/diferentes.
-7. Metodo de teste do usuario: copiar a.cr para rol\cr e abrir. Bisecoes anteriores usaram pastas com variantes.
+Regras aprendidas (por bisecao com testes do usuario):
+1. NUNCA altere o prefixo de tamanho (u32) de um campo de texto. Mantenha L original; escreva texto ASCII + espacos (ou NUL) ate L-1, mais 1 NUL final. Traducoes antigas (Codex) encurtavam L e deixavam NULs extras: isso desalinha o resto do registro e causa "Initialization failure", crash depois da intro ou erro de save.
+2. NAO zere os cabecalhos `tbl\0\x01` entre blocos (conclusao errada anterior: zerar so mascarava o problema da regra 1 e quebrava o menu).
+3. Cada bloco recomprimido com tamanho EXATO igual ao original (tools/rodada3b/fixL.py, exact2.py, exact4.py: varia nivel/estrategia, flushes parciais e blocos vazios ate o tamanho bater). Nao escreva nada alem do fim do stream.
+4. Quando o texto nao cabe no tamanho exato: abreviar/ingles (variantes em fixL.py) ou manter o japones.
+5. Saves antigos podem guardar nomes em japones; se um save der erro depois de traduzir nomes de itens/habilidades, testar com save novo.
+6. Metodo de teste: usuario copia a.cr para rol\cr e abre; classificar resultado (A: nao abre, B: cai depois da intro, C: chega ao menu).
