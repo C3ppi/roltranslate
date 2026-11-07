@@ -89,3 +89,10 @@ Regras aprendidas (por bisecao com testes do usuario):
 4. Quando o texto nao cabe no tamanho exato: abreviar/ingles (variantes em fixL.py) ou manter o japones.
 5. Saves antigos podem guardar nomes em japones; se um save der erro depois de traduzir nomes de itens/habilidades, testar com save novo.
 6. Metodo de teste: usuario copia a.cr para rol\cr e abre; classificar resultado (A: nao abre, B: cai depois da intro, C: chega ao menu).
+
+## Rodada 3d — K2 + K3 (verificados no jogo separadamente)
+- **K2**: +232 blocos (itens, mapas, skills, menus, nomes de personagens). Rodou, saves ok.
+- **K3**: 617 atributos `name="..."` em UTF-8 nos XMLs de mapa do a.cr (60 blocos) trocados por inglês; espaços após a aspas fecham a diferença de bytes (tamanho bruto idêntico), depois recompressão no tamanho exato (tools/rodada3b/fit3.py + fit4.py). Rodou, saves ok.
+- Arquivo atual do repo = K2+K3 juntos (292 blocos mudados em relação ao K1, sem sobreposição). MD5 b333cc9c5d75acc4f9fcd2b4fe21a645. Fusão ainda não testada no jogo.
+- **Nomes dos mobs no HUD continuam em japonês** (ex.: スライム Lv 3), mesmo com K3 instalado (MD5 conferido). Não existe o texto em nenhum arquivo (UTF-8/CP932/UTF-16; .cr, exe, saves, streams dentro dos exe). A ficha do mob (record com `slime00.viml`) tem ~20 bytes embaralhados antes do nome do arquivo; hipótese: nome/nível vêm dali ou do rol.exe. Próximo passo: desmontar rol.exe (HUD/mobtype) ou testar outros nomes no HUD.
+- c.cr: nomes de golpes dos inimigos (`name="ひっかき(早)"` etc.) e 8 nomes de missão ainda em japonês, não testados.
