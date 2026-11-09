@@ -96,3 +96,9 @@ Regras aprendidas (por bisecao com testes do usuario):
 - Arquivo atual do repo = K2+K3 juntos (292 blocos mudados em relação ao K1, sem sobreposição). MD5 b333cc9c5d75acc4f9fcd2b4fe21a645. Fusão ainda não testada no jogo.
 - **Nomes dos mobs no HUD continuam em japonês** (ex.: スライム Lv 3), mesmo com K3 instalado (MD5 conferido). Não existe o texto em nenhum arquivo (UTF-8/CP932/UTF-16; .cr, exe, saves, streams dentro dos exe). A ficha do mob (record com `slime00.viml`) tem ~20 bytes embaralhados antes do nome do arquivo; hipótese: nome/nível vêm dali ou do rol.exe. Próximo passo: desmontar rol.exe (HUD/mobtype) ou testar outros nomes no HUD.
 - c.cr: nomes de golpes dos inimigos (`name="ひっかき(早)"` etc.) e 8 nomes de missão ainda em japonês, não testados.
+
+## Rodada 4 — nomes dos mobs no HUD (hook no rol.exe)
+- Os nomes dos mobs no HUD NÃO vêm dos XMLs de mapa (K3 trocou os 617 `name=` e o HUD seguiu em japonês, também num jogo novo). O texto japonês não existe em nenhum arquivo/encoding (a/b/c.cr, exe, saves).
+- A placa do mob é desenhada em rol.exe 0x524860 (formato `%-16s Lv%2s`); o nome vem de uma tabela do objeto do mob (vcall +0xe8), origem não encontrada.
+- Solução: hook no rol.exe (tools/exe_hud/build_exe.py). Nova seção `.trad` (RWX, VA 0xAFE000) com trampolim + tabela JP→EN (CP932 e UTF-8, casamento por prefixo, longest-first, remainder ASCII preservado). Hook em 0x5248c6 (7 bytes -> jmp + 2 nop) volta em 0x5248cd. Validado por emulação (unicorn): preserva ebx/ecx/edx/esi/edi e pilha.
+- Arquivo: patch_ptbr/exe_hud/rol.exe (a testar no jogo). Original em game/rol/rol.exe. Outros sites com nomes+Lv (`%-20sLv%3d` 0x4c2a19, ` Lv%2d` 0x4c6d48, `%-26sLv %3d` 0x4c77b0/0x4ce5a2, `%-20sLv%2d` 0x511461, `Lv%d    %-s` 0x5140b2) ainda sem hook.
